@@ -20102,3 +20102,2559 @@ _gen
 14:05:40 "infiSTAR.de fnc_AdminReqProceed: [-2,B 1-1-K:1 (Aquiles) REMOTE,3986cf00# 1066603: hmmwv_wrecked.p3d]"
 14:05:40 "DELETE: 76561198056083521 Deleted by ID: 1"
 14:05:40 "infiSTAR.de PVAH_WriteLog: B 1-1-K:1 (Aquiles) REMOTE   Aquiles (76561198056083521) deleted HMMWVWreck @085127 - characterID any - objectID: 1 - objectUID: 0"
+
+
+=====================================================================
+== C:\Program Files (x86)\Steam\steamapps\common\Arma 2 Operation Arrowhead\Expansion\beta\ArmA2OAServer.exe
+== "Expansion\beta\arma2oaserver.exe"  -port=2302 "-config=instance_11_Chernarus\config.cfg" "-cfg=instance_11_Chernarus\basic.cfg" "-profiles=instance_11_Chernarus" -name=instance_11_Chernarus "-mod=@DayZ_Epoch;@DayZ_Epoch_Server;"
+=====================================================================
+Exe timestamp: 2016/05/31 01:00:13
+Current time:  2016/06/03 14:47:30
+
+Version 1.63.116523
+Item STR_EQUIP_NAME_41 listed twice
+Item STR_EQUIP_DESC_41 listed twice
+Updating base class ->NonStrategic, by ca\config.bin/CfgVehicles/HouseBase/
+Updating base class ->HouseBase, by ca\config.bin/CfgVehicles/Ruins/
+Updating base class ->DestructionEffects, by ca\config.bin/CfgVehicles/House/DestructionEffects/
+Updating base class ->FlagCarrierCore, by ca\ca_pmc\config.bin/CfgVehicles/FlagCarrier/
+Updating base class ->VehicleMagazine, by ca\weapons\config.bin/CfgMagazines/14Rnd_FFAR/
+Updating base class ->PistolCore, by ca\weapons\config.bin/cfgWeapons/Pistol/
+Updating base class ->LauncherCore, by ca\weapons\config.bin/cfgWeapons/RocketPods/
+Updating base class ->RocketPods, by ca\weapons\config.bin/cfgWeapons/FFARLauncher/
+Updating base class ->Default, by ca\weapons\config.bin/cfgWeapons/ItemCore/
+Updating base class ->Citizen, by ca\characters2\config.bin/CfgVehicles/Citizen1/
+Updating base class ->SkodaBase, by ca\wheeled\config.bin/CfgVehicles/car_sedan/
+Updating base class ->UH60_Base, by ca\air\config.bin/CfgVehicles/MH60S/
+Updating base class ->House, by ca\misc3\config.bin/CfgVehicles/Land_Fire/
+Updating base class ->House, by ca\misc3\config.bin/CfgVehicles/Land_A_tent/
+Updating base class ->Camp_base, by ca\misc3\config.bin/CfgVehicles/ACamp/
+Updating base class ->Car, by ca\wheeled2\lada\config.bin/CfgVehicles/Lada_base/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_Lamp_Small_EP1/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_Lamp_Street1_EP1/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_Lamp_Street2_EP1/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_Lampa_Ind_EP1/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_PowLines_Conc2L_EP1/
+Updating base class StreetLamp_BaseMediumOrange->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_sidl/
+Updating base class StreetLamp_BaseMediumOrange->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_sidl_2/
+Updating base class StreetLamp_BaseMediumOrange->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_sidl_3/
+Updating base class StreetLamp_BaseWeakYellow->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_ind/
+Updating base class StreetLamp_BaseWeakYellow->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_ind_zebr/
+Updating base class RscStandardDisplay->, by z\addons\dayz_code\config.bin/RscDisplayStart/
+Updating base class RscShortcutButton->RscShortcutButtonMain, by z\addons\dayz_code\config.bin/RscDisplayMain/controls/CA_Exit/
+Updating base class RscText->, by z\addons\dayz_code\config.bin/RscTitles/Default/
+Updating base class zZombie_Base->zZombie_new_Base, by z\addons\dayz_code\config.bin/CfgVehicles/z_villager1/
+Updating base class zZombie_Base->zZombie_new_Base, by z\addons\dayz_code\config.bin/CfgVehicles/z_worker1/
+Updating base class Soldier_Crew_PMC->Soldier_Bodyguard_M4_PMC, by z\addons\dayz_code\config.bin/CfgVehicles/SurvivorW2_DZ/
+Updating base class HighCommand->Logic, by z\addons\dayz_code\config.bin/CfgVehicles/HighCommandSubordinate/
+Updating base class ->ViewOptics, by z\addons\dayz_code\config.bin/CfgVehicles/Mi17_base/Turrets/MainTurret/ViewOptics/
+Updating base class HouseBase->, by z\addons\dayz_code\config.bin/CfgVehicles/House/
+Updating base class NonStrategic->BuiltItems, by z\addons\dayz_code\config.bin/CfgVehicles/Fort_RazorWire/
+Updating base class MeleeHatchet->MeleeWeapon, by z\addons\dayz_code\config.bin/CfgWeapons/MeleeCrowbar/
+Updating base class VehicleMagazine->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/29Rnd_30mm_AGS30/
+Updating base class VehicleMagazine->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/48Rnd_40mm_MK19/
+Updating base class 4000Rnd_762x51_M134->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/2000Rnd_762x51_M134/
+Updating base class VehicleMagazine->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/100Rnd_127x99_M2/
+Updating base class VehicleMagazine->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/50Rnd_127x107_DSHKM/
+Updating base class Hatchet_Swing->Melee_Swing, by z\addons\dayz_code\config.bin/CfgMagazines/crowbar_swing/
+Updating base class CA_Magazine->Melee_Swing, by z\addons\dayz_code\config.bin/CfgMagazines/Hatchet_Swing/
+Updating base class Land_HouseV_1I2->House, by zero_buildings\config.cpp/CfgVehicles/Land_HouseV_1L2/
+Updating base class Land_HouseV_1I2->House, by zero_buildings\config.cpp/CfgVehicles/Land_HouseV_3I3/
+Updating base class ->Plane, by ca\air2\mv22\config.bin/CfgVehicles/MV22/
+Updating base class ViewOptics->, by ca\air2\uh1y\config.bin/CfgVehicles/UH1_Base/Turrets/MainTurret/ViewOptics/
+Updating base class ->HouseBase, by ca\misc_e\config.bin/CfgVehicles/House/
+Updating base class ->Land_CamoNet_EAST, by ca\misc_e\config.bin/CfgVehicles/Land_CamoNet_EAST_EP1/
+Updating base class ->Land_CamoNetB_EAST, by ca\misc_e\config.bin/CfgVehicles/Land_CamoNetB_EAST_EP1/
+Updating base class ->Sign_1L_Noentry, by ca\misc_e\config.bin/CfgVehicles/Sign_1L_Noentry_EP1/
+Updating base class ->Sign_circle, by ca\misc_e\config.bin/CfgVehicles/Helper_Base_EP1/
+Updating base class ->Rifle, by ca\weapons_baf\config.bin/cfgWeapons/BAF_AS50_scoped/
+Updating base class ->Rifle, by ca\weapons_e\config.bin/cfgWeapons/M60A4_EP1/
+Updating base class ->M249, by ca\weapons_e\config.bin/cfgWeapons/M249_EP1/
+Updating base class ->M249, by ca\weapons_e\config.bin/cfgWeapons/M249_m145_EP1/
+Updating base class ->m107, by ca\weapons_e\m107\config.bin/CfgWeapons/m107_TWS_EP1/
+Updating base class ->M240, by ca\weapons_e\m240\config.bin/CfgWeapons/m240_scoped_EP1/
+Updating base class ->V3S_Base, by ca\wheeled_e\v3s\config.bin/CfgVehicles/V3S_Base_EP1/
+Updating base class ->V3S_Base_EP1, by ca\wheeled_e\v3s\config.bin/CfgVehicles/V3S_Refuel_TK_GUE_EP1/
+Updating base class House->DZE_OpenHouse, by warehouse\config.bin/CfgVehicles/Land_Ind_Pec_03/
+Updating base class ->C130J_base, by ca\air_e\config.bin/CfgVehicles/C130J_US_EP1/
+Updating base class ->Helicopter, by ca\air_e\ah6j\config.bin/CfgVehicles/AH6_Base_EP1/
+Updating base class ->Plane, by ca\air_e\an2\config.bin/CfgVehicles/An2_Base_EP1/
+Updating base class ->CH47_base_EP1, by ca\air_e\ch47\config.bin/CfgVehicles/CH_47F_EP1/
+Updating base class ViewOptics->, by ca\air_e\uh1h\config.bin/CfgVehicles/UH1H_base/Turrets/MainTurret/ViewOptics/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_Crew_PMC/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_TL_PMC/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_Bodyguard_M4_PMC/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_Bodyguard_AA12_PMC/
+Updating base class ->BAF_Soldier_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_W/
+Updating base class ->BAF_Soldier_L_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_L_W/
+Updating base class ->BAF_Soldier_Officer_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_Officer_W/
+Updating base class ->BAF_Soldier_SniperH_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_SniperH_W/
+Updating base class ->M113Ambul_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M113Ambul_UN_EP1/
+Updating base class ->M113_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M113_UN_EP1/
+Updating base class ->M113Ambul_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M113Ambul_TK_EP1/
+Updating base class ->M113_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M113_TK_EP1/
+Updating base class ->Helicopter, by ca\air_d_baf\config.bin/CfgVehicles/BAF_Merlin_HC3_D/
+Updating base class ReammoBox->Small_items, by corepatch\corepatch_additionalobjects\config.cpp/CfgVehicles/CardboardBox/
+Updating base class CA_Magazine->4000Rnd_762x51_M134, by corepatch\corepatch_ccp_71142_cit_13602_25047\config.cpp/CfgMagazines/2000Rnd_762x51_M134/
+14:47:58 Server error: Player without identity Mateuus (id 680718448)
+14:48:05 Warning Message: No challenge value was received from the master server.
+14:48:05 GameSpy QR2 error: 5, No challenge value was received from the master server.
+14:48:09 Strange convex component81 in zero_buildings\models\housev_3i3_i.p3d:geometryFire
+14:48:10 Strange convex component288 in warehouse\models\warehouse.p3d:geometry
+14:48:10 Strange convex component289 in warehouse\models\warehouse.p3d:geometry
+14:48:10 Strange convex component290 in warehouse\models\warehouse.p3d:geometry
+14:48:10 Strange convex component291 in warehouse\models\warehouse.p3d:geometry
+14:48:10 Strange convex component292 in warehouse\models\warehouse.p3d:geometry
+14:48:10 Strange convex component293 in warehouse\models\warehouse.p3d:geometry
+14:48:10 Strange convex component294 in warehouse\models\warehouse.p3d:geometry
+14:48:10 Strange convex component295 in warehouse\models\warehouse.p3d:geometry
+14:48:10 Strange convex component296 in warehouse\models\warehouse.p3d:geometry
+14:48:10 Strange convex component297 in warehouse\models\warehouse.p3d:geometry
+14:48:10 Strange convex component298 in warehouse\models\warehouse.p3d:geometry
+14:48:10 Strange convex component299 in warehouse\models\warehouse.p3d:geometry
+14:48:10 Strange convex component300 in warehouse\models\warehouse.p3d:geometry
+14:48:10 Strange convex component301 in warehouse\models\warehouse.p3d:geometry
+14:48:10 Strange convex component302 in warehouse\models\warehouse.p3d:geometry
+14:48:10 Strange convex component303 in warehouse\models\warehouse.p3d:geometry
+14:48:10 Strange convex component304 in warehouse\models\warehouse.p3d:geometry
+14:48:10 Strange convex component305 in warehouse\models\warehouse.p3d:geometry
+14:48:10 Strange convex component306 in warehouse\models\warehouse.p3d:geometry
+14:48:10 Strange convex component307 in warehouse\models\warehouse.p3d:geometry
+14:48:10 Strange convex component308 in warehouse\models\warehouse.p3d:geometry
+14:48:10 Strange convex component309 in warehouse\models\warehouse.p3d:geometry
+14:48:10 Strange convex component310 in warehouse\models\warehouse.p3d:geometry
+14:48:10 Strange convex component311 in warehouse\models\warehouse.p3d:geometry
+14:48:10 Strange convex component312 in warehouse\models\warehouse.p3d:geometry
+14:48:10 Strange convex component313 in warehouse\models\warehouse.p3d:geometry
+14:48:10 Strange convex component314 in warehouse\models\warehouse.p3d:geometry
+14:48:10 Strange convex component315 in warehouse\models\warehouse.p3d:geometry
+14:48:10 Strange convex component316 in warehouse\models\warehouse.p3d:geometry
+14:48:10 Strange convex component317 in warehouse\models\warehouse.p3d:geometry
+14:48:10 Strange convex component252 in warehouse\models\warehouse.p3d:geometryFire
+14:48:10 Strange convex component253 in warehouse\models\warehouse.p3d:geometryFire
+14:48:10 Strange convex component254 in warehouse\models\warehouse.p3d:geometryFire
+14:48:10 Strange convex component255 in warehouse\models\warehouse.p3d:geometryFire
+14:48:10 Strange convex component256 in warehouse\models\warehouse.p3d:geometryFire
+14:48:10 Strange convex component257 in warehouse\models\warehouse.p3d:geometryFire
+14:48:10 Strange convex component258 in warehouse\models\warehouse.p3d:geometryFire
+14:48:10 Strange convex component259 in warehouse\models\warehouse.p3d:geometryFire
+14:48:10 Strange convex component260 in warehouse\models\warehouse.p3d:geometryFire
+14:48:10 Strange convex component261 in warehouse\models\warehouse.p3d:geometryFire
+14:48:10 Strange convex component262 in warehouse\models\warehouse.p3d:geometryFire
+14:48:10 Strange convex component263 in warehouse\models\warehouse.p3d:geometryFire
+14:48:10 Strange convex component264 in warehouse\models\warehouse.p3d:geometryFire
+14:48:10 Strange convex component265 in warehouse\models\warehouse.p3d:geometryFire
+14:48:10 Strange convex component266 in warehouse\models\warehouse.p3d:geometryFire
+14:48:10 Strange convex component267 in warehouse\models\warehouse.p3d:geometryFire
+14:48:10 Strange convex component268 in warehouse\models\warehouse.p3d:geometryFire
+14:48:10 Strange convex component269 in warehouse\models\warehouse.p3d:geometryFire
+14:48:10 Strange convex component270 in warehouse\models\warehouse.p3d:geometryFire
+14:48:10 Strange convex component271 in warehouse\models\warehouse.p3d:geometryFire
+14:48:10 Strange convex component272 in warehouse\models\warehouse.p3d:geometryFire
+14:48:10 Strange convex component273 in warehouse\models\warehouse.p3d:geometryFire
+14:48:10 Strange convex component274 in warehouse\models\warehouse.p3d:geometryFire
+14:48:10 Strange convex component275 in warehouse\models\warehouse.p3d:geometryFire
+14:48:10 Strange convex component276 in warehouse\models\warehouse.p3d:geometryFire
+14:48:10 Strange convex component277 in warehouse\models\warehouse.p3d:geometryFire
+14:48:10 Strange convex component278 in warehouse\models\warehouse.p3d:geometryFire
+14:48:10 Strange convex component279 in warehouse\models\warehouse.p3d:geometryFire
+14:48:10 Strange convex component280 in warehouse\models\warehouse.p3d:geometryFire
+14:48:10 Strange convex component281 in warehouse\models\warehouse.p3d:geometryFire
+14:48:10 Strange convex component249 in warehouse\models\warehouse.p3d:geometryView
+14:48:10 Strange convex component250 in warehouse\models\warehouse.p3d:geometryView
+14:48:10 Strange convex component251 in warehouse\models\warehouse.p3d:geometryView
+14:48:10 Strange convex component252 in warehouse\models\warehouse.p3d:geometryView
+14:48:10 Strange convex component253 in warehouse\models\warehouse.p3d:geometryView
+14:48:10 Strange convex component254 in warehouse\models\warehouse.p3d:geometryView
+14:48:10 Strange convex component255 in warehouse\models\warehouse.p3d:geometryView
+14:48:10 Strange convex component256 in warehouse\models\warehouse.p3d:geometryView
+14:48:10 Strange convex component257 in warehouse\models\warehouse.p3d:geometryView
+14:48:10 Strange convex component258 in warehouse\models\warehouse.p3d:geometryView
+14:48:10 Strange convex component259 in warehouse\models\warehouse.p3d:geometryView
+14:48:10 Strange convex component260 in warehouse\models\warehouse.p3d:geometryView
+14:48:10 Strange convex component261 in warehouse\models\warehouse.p3d:geometryView
+14:48:10 Strange convex component262 in warehouse\models\warehouse.p3d:geometryView
+14:48:10 Strange convex component263 in warehouse\models\warehouse.p3d:geometryView
+14:48:10 Strange convex component264 in warehouse\models\warehouse.p3d:geometryView
+14:48:10 Strange convex component265 in warehouse\models\warehouse.p3d:geometryView
+14:48:10 Strange convex component266 in warehouse\models\warehouse.p3d:geometryView
+14:48:10 Strange convex component267 in warehouse\models\warehouse.p3d:geometryView
+14:48:10 Strange convex component268 in warehouse\models\warehouse.p3d:geometryView
+14:48:10 Strange convex component269 in warehouse\models\warehouse.p3d:geometryView
+14:48:10 Strange convex component270 in warehouse\models\warehouse.p3d:geometryView
+14:48:10 Strange convex component271 in warehouse\models\warehouse.p3d:geometryView
+14:48:10 Strange convex component272 in warehouse\models\warehouse.p3d:geometryView
+14:48:10 Strange convex component273 in warehouse\models\warehouse.p3d:geometryView
+14:48:10 Strange convex component274 in warehouse\models\warehouse.p3d:geometryView
+14:48:10 Strange convex component275 in warehouse\models\warehouse.p3d:geometryView
+14:48:10 Strange convex component276 in warehouse\models\warehouse.p3d:geometryView
+14:48:10 Strange convex component277 in warehouse\models\warehouse.p3d:geometryView
+14:48:10 Strange convex component278 in warehouse\models\warehouse.p3d:geometryView
+14:48:12 "DayZ Epoch: PRELOAD Functions\init [[<No group>:0 (FunctionsManager)],any]"
+14:48:12 "DayZ Epoch: MPframework inited"
+14:48:12 Strange convex component93 in zero_buildings\models\mil_house_i.p3d:geometryView
+14:48:12 Strange convex component94 in zero_buildings\models\mil_house_i.p3d:geometryView
+14:48:12 Strange convex component95 in zero_buildings\models\mil_house_i.p3d:geometryView
+14:48:12 Strange convex component96 in zero_buildings\models\mil_house_i.p3d:geometryView
+14:48:12 Strange convex component99 in zero_buildings\models\mil_house_i.p3d:geometryView
+14:48:12 Strange convex component100 in zero_buildings\models\mil_house_i.p3d:geometryView
+14:48:12 Strange convex component101 in zero_buildings\models\mil_house_i.p3d:geometryView
+14:48:12 Strange convex component102 in zero_buildings\models\mil_house_i.p3d:geometryView
+14:48:12 Strange convex component103 in zero_buildings\models\mil_house_i.p3d:geometryView
+14:48:12 Strange convex component104 in zero_buildings\models\mil_house_i.p3d:geometryView
+14:48:12 Strange convex component105 in zero_buildings\models\mil_house_i.p3d:geometryView
+14:48:12 Strange convex component106 in zero_buildings\models\mil_house_i.p3d:geometryView
+14:48:12 Strange convex component107 in zero_buildings\models\mil_house_i.p3d:geometryView
+14:48:12 Strange convex component108 in zero_buildings\models\mil_house_i.p3d:geometryView
+14:48:12 Strange convex component109 in zero_buildings\models\mil_house_i.p3d:geometryView
+14:48:12 Strange convex component110 in zero_buildings\models\mil_house_i.p3d:geometryView
+14:48:12 Strange convex component111 in zero_buildings\models\mil_house_i.p3d:geometryView
+14:48:12 Strange convex component112 in zero_buildings\models\mil_house_i.p3d:geometryView
+14:48:12 Strange convex component113 in zero_buildings\models\mil_house_i.p3d:geometryView
+14:48:12 Strange convex component114 in zero_buildings\models\mil_house_i.p3d:geometryView
+14:48:12 Strange convex component115 in zero_buildings\models\mil_house_i.p3d:geometryView
+14:48:12 Strange convex component116 in zero_buildings\models\mil_house_i.p3d:geometryView
+14:48:12 Strange convex component117 in zero_buildings\models\mil_house_i.p3d:geometryView
+14:48:12 Strange convex component118 in zero_buildings\models\mil_house_i.p3d:geometryView
+14:48:12 Strange convex component119 in zero_buildings\models\mil_house_i.p3d:geometryView
+14:48:12 Strange convex component120 in zero_buildings\models\mil_house_i.p3d:geometryView
+14:48:12 Strange convex component121 in zero_buildings\models\mil_house_i.p3d:geometryView
+14:48:12 Strange convex component122 in zero_buildings\models\mil_house_i.p3d:geometryView
+14:48:12 Strange convex component123 in zero_buildings\models\mil_house_i.p3d:geometryView
+14:48:12 Strange convex component124 in zero_buildings\models\mil_house_i.p3d:geometryView
+14:48:12 Strange convex component125 in zero_buildings\models\mil_house_i.p3d:geometryView
+14:48:12 Strange convex component126 in zero_buildings\models\mil_house_i.p3d:geometryView
+14:48:12 Strange convex component127 in zero_buildings\models\mil_house_i.p3d:geometryView
+14:48:12 Strange convex component128 in zero_buildings\models\mil_house_i.p3d:geometryView
+14:48:12 Strange convex component129 in zero_buildings\models\mil_house_i.p3d:geometryView
+14:48:12 Strange convex component130 in zero_buildings\models\mil_house_i.p3d:geometryView
+14:48:12 Strange convex component131 in zero_buildings\models\mil_house_i.p3d:geometryView
+14:48:12 Strange convex component132 in zero_buildings\models\mil_house_i.p3d:geometryView
+14:48:12 Strange convex component133 in zero_buildings\models\mil_house_i.p3d:geometryView
+14:48:12 Strange convex component134 in zero_buildings\models\mil_house_i.p3d:geometryView
+14:48:13 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:13 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:13 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:13 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:13 class HitPoints::HitLF2Wheel not found in policecar
+14:48:13 class HitPoints::HitRF2Wheel not found in policecar
+14:48:13 class HitPoints::HitLMWheel not found in policecar
+14:48:13 class HitPoints::HitRMWheel not found in policecar
+14:48:13 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:13 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:13 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:13 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:13 ca\misc\pallets_column.p3d: No geometry and no visual shape
+14:48:13 ca\misc\pallets_column.p3d: No geometry and no visual shape
+14:48:13 ca\misc\pallets_column.p3d: No geometry and no visual shape
+14:48:13 ca\misc\pallets_column.p3d: No geometry and no visual shape
+14:48:14 Cannot create non-ai vehicle Land_A_FuelStation_Sign,
+14:48:14 Cannot create non-ai vehicle Land_A_FuelStation_Sign,
+14:48:14 No owner
+14:48:14 ca\buildings2\a_advertisingcolumn\a_advertcolumn.p3d: No geometry and no visual shape
+14:48:14 ca\buildings2\a_advertisingcolumn\a_advertcolumn.p3d: No geometry and no visual shape
+14:48:14 ca\buildings2\a_advertisingcolumn\a_advertcolumn.p3d: No geometry and no visual shape
+14:48:14 ca\buildings2\a_advertisingcolumn\a_advertcolumn.p3d: No geometry and no visual shape
+14:48:14 Warning: z\addons\dayz_communityassets\models\compass.p3d:0 Error while trying to generate ST for points: 863, 853, 852
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\buildings2\a_advertisingcolumn\a_advertcolumn.p3d: No geometry and no visual shape
+14:48:15 ca\buildings2\a_advertisingcolumn\a_advertcolumn.p3d: No geometry and no visual shape
+14:48:15 ca\buildings2\a_advertisingcolumn\a_advertcolumn.p3d: No geometry and no visual shape
+14:48:15 ca\buildings2\a_advertisingcolumn\a_advertcolumn.p3d: No geometry and no visual shape
+14:48:15 No owner
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:48:15 Cannot create non-ai vehicle Land_Misc_Cargo2A,
+14:48:15 MAP_Dum_mesto3test: Hit1 - unknown animation source Hit1
+14:48:15 MAP_Dum_mesto3test: Hit2 - unknown animation source Hit2
+14:48:15 MAP_Dum_mesto3test: Hit3 - unknown animation source Hit3
+14:48:15 MAP_Dum_mesto3test: Hit4 - unknown animation source Hit4
+14:48:15 MAP_Dum_mesto3test: Hit5 - unknown animation source Hit5
+14:48:15 MAP_Dum_mesto3test: Hit6 - unknown animation source Hit6
+14:48:15 MAP_Dum_mesto3test: Hit7 - unknown animation source Hit7
+14:48:15 MAP_Dum_mesto3test: Hit8 - unknown animation source Hit8
+14:48:15 MAP_Dum_mesto3test: Hit9 - unknown animation source Hit9
+14:48:15 MAP_Dum_mesto3test: Hit10 - unknown animation source Hit10
+14:48:15 MAP_Dum_mesto3test: Hit11 - unknown animation source Hit11
+14:48:15 MAP_Dum_mesto3test: Hit12 - unknown animation source Hit12
+14:48:15 MAP_Dum_mesto3test: HitS - unknown animation source HitS
+14:48:15 ca\buildings2\a_advertisingcolumn\a_advertcolumn.p3d: No geometry and no visual shape
+14:48:15 ca\buildings2\a_advertisingcolumn\a_advertcolumn.p3d: No geometry and no visual shape
+14:48:15 ca\buildings2\a_advertisingcolumn\a_advertcolumn.p3d: No geometry and no visual shape
+14:48:15 ca\buildings2\a_advertisingcolumn\a_advertcolumn.p3d: No geometry and no visual shape
+14:48:15 ca\misc\pallets_column.p3d: No geometry and no visual shape
+14:48:15 ca\misc\pallets_column.p3d: No geometry and no visual shape
+14:48:15 ca\misc\pallets_column.p3d: No geometry and no visual shape
+14:48:15 ca\misc\pallets_column.p3d: No geometry and no visual shape
+14:48:16 ca\misc\pallets_column.p3d: No geometry and no visual shape
+14:48:16 ca\misc\pallets_column.p3d: No geometry and no visual shape
+14:48:16 ca\misc\pallets_column.p3d: No geometry and no visual shape
+14:48:16 ca\misc\pallets_column.p3d: No geometry and no visual shape
+14:48:16 ca\misc\pallets_column.p3d: No geometry and no visual shape
+14:48:16 ca\misc\pallets_column.p3d: No geometry and no visual shape
+14:48:16 ca\misc\pallets_column.p3d: No geometry and no visual shape
+14:48:16 ca\misc\pallets_column.p3d: No geometry and no visual shape
+14:48:16 Cannot create non-ai vehicle Lands_Barn_W_01,
+14:48:16 Cannot create non-ai vehicle Land_Stan,
+14:48:16 Cannot create non-ai vehicle Land_Stan,
+14:48:16 Cannot create non-ai vehicle Land_Stan_east,
+14:48:16 "infiSTAR.de - Waiting for BIS_fnc_init..."
+14:48:16 "infiSTAR.de - BIS_fnc_init done - AntiHack STARTING...!"
+14:48:16 Warning Message: Script low_admins.sqf not found
+14:48:16 Warning Message: Script normal_admins.sqf not found
+14:48:16 Warning Message: Script super_admins.sqf not found
+14:48:16 Warning Message: Script blacklist.sqf not found
+14:48:16 "infiSTAR.de - iproductVersion: 28112014IAHAT339A | Server productVersion: ["ArmA 2 OA","ArmA2OA",163,116523] | worldName: Chernarus | dayz_instance: 11 | missionName: DayZ_Epoch_11"
+14:48:16 "infiSTAR.de - _fnc_RandomGen: {
+_arr = ["n","W","f","Z","4","5","u","w","r","w","C","n","z","e","t","B","z","a","o","X","u","b","H","I","0","d","S","D","q","f"];
+_gen = "p";
+for "_i" from 1 to 7 do {_gen = _gen + (_arr select (random ((count _arr)-1)));};
+_num = str(round(random 999998));
+_gen = _gen + '_' + _num;
+_gen
+}"
+14:48:16 "infiSTAR.de - _randvar1: ptzDfu5o_564261"
+14:48:16 "infiSTAR.de - _randvar2: pZrSowBb_155101"
+14:48:16 "infiSTAR.de - _randvar3: purBzIrf_516845"
+14:48:16 "infiSTAR.de - _randvar4: pfnduwfC_50017"
+14:48:16 "infiSTAR.de - _randvar5: pwwaaz0u_843983"
+14:48:16 "infiSTAR.de - _randvar6: pdwXu0zZ_376174"
+14:48:16 "infiSTAR.de - _randvar7: pBzqbfq5_586296"
+14:48:16 "infiSTAR.de - _randvar8: przaqnor_325559"
+14:48:16 "infiSTAR.de - _randvar9: pCfwdIed_180887"
+14:48:16 "infiSTAR.de - _randvar11: pSuXnuao_674142"
+14:48:16 "infiSTAR.de - _randvar12: pS5qabSz_836341"
+14:48:16 "infiSTAR.de - _randvar13: pattnIDw_156878"
+14:48:16 "infiSTAR.de - _randvar19: pDdDuzwd_907733"
+14:48:16 "infiSTAR.de - _randvar20: pfWwf5ut_842705"
+14:48:16 "infiSTAR.de - _randvar21: ptrtwbWw_271620"
+14:48:16 "infiSTAR.de - _randvar27: pWwXbew0_509549"
+14:48:16 "infiSTAR.de - _randvar26: pqqeDISW_701038"
+14:48:16 "infiSTAR.de - _randvar25: pIoCutqX_19318"
+14:48:16 "infiSTAR.de - _randvar28: pSrXfddZ_240518"
+14:48:16 "infiSTAR.de - _randvar29: pwwndbSw_692900"
+14:48:16 "infiSTAR.de - _randvar30: pIbZWrIB_581065"
+14:48:16 "infiSTAR.de - _randvar31: p0quBqwI_685176"
+14:48:16 "infiSTAR.de - _randvar32: p5tHIfaI_435176"
+14:48:16 "infiSTAR.de - _randvar33: prW5qCwH_360006"
+14:48:16 "infiSTAR.de - _randvar34: pwoneu0Z_911826"
+14:48:16 "infiSTAR.de - _randvar35: pz5efw5r_665234"
+14:48:16 "infiSTAR.de - _AHpos: pSezz5Sf_891481"
+14:48:16 "infiSTAR.de - _randvar10: PVAHR_0_rgvmauw_507693"
+14:48:16 "infiSTAR.de - infiSTAR_DLL_PATH: "
+14:48:16 "infiSTAR.de - AntiHack LOADED!"
+14:48:16 "infiSTAR.de - CREATING AdminMenu"
+14:48:16 "infiSTAR.de - ADDING PublicVariableEventHandlers"
+14:48:16 "infiSTAR.de - AntiHack FULLY LOADED"
+14:48:26 "Admin Tools: AdminList.sqf loaded"
+14:48:26 "Res3tting B!S effects..."
+14:48:26 "infiSTAR.de - infiSTAR_LoadStatus1: infiSTAR is already loaded!"
+14:48:27 "BUS:Waypoint Added: [B 1-1-C,2] at [12984,8362.67,0]"
+14:48:27 "BUS:Waypoint Added: [B 1-1-C,3] at [13279.1,6991.32,0]"
+14:48:27 "BUS:Waypoint Added: [B 1-1-C,4] at [13464.2,6255.24,0]"
+14:48:27 "BUS:Waypoint Added: [B 1-1-C,5] at [13386.8,5405.25,0]"
+14:48:27 "BUS:Waypoint Added: [B 1-1-C,6] at [12025.6,3481.76,0]"
+14:48:27 "BUS:Waypoint Added: [B 1-1-C,7] at [10504.4,2324.99,0]"
+14:48:27 "BUS:Waypoint Added: [B 1-1-C,8] at [10321.8,2149.75,0]"
+14:48:27 "BUS:Waypoint Added: [B 1-1-C,9] at [10028,2071.8,0]"
+14:48:27 "BUS:Waypoint Added: [B 1-1-C,10] at [9503.53,2028.21,0]"
+14:48:27 "BUS:Waypoint Added: [B 1-1-C,11] at [6587.65,2884.59,0]"
+14:48:27 "BUS:Waypoint Added: [B 1-1-C,12] at [6354.47,2452.24,0]"
+14:48:27 "BUS:Waypoint Added: [B 1-1-C,13] at [4565.79,2432.13,0]"
+14:48:27 "BUS:Waypoint Added: [B 1-1-C,14] at [1907.21,2240.25,0]"
+14:48:27 "BUS:Waypoint Added: [B 1-1-C,15] at [1689.06,2209.53,0]"
+14:48:27 "BUS:Waypoint Added: [B 1-1-C,16] at [1845.55,2219.14,0]"
+14:48:27 "BUS:Waypoint Added: [B 1-1-C,17] at [1940.8,2255.24,0]"
+14:48:27 "BUS:Waypoint Added: [B 1-1-C,18] at [3559.56,2448.9,0]"
+14:48:27 "BUS:Waypoint Added: [B 1-1-C,19] at [4541.37,2443.16,0]"
+14:48:27 "BUS:Waypoint Added: [B 1-1-C,20] at [5816.09,2167.39,0]"
+14:48:27 "BUS:Waypoint Added: [B 1-1-C,21] at [6408.19,2685.99,0]"
+14:48:27 "BUS:Waypoint Added: [B 1-1-C,22] at [6570.5,2877.59,0]"
+14:48:27 "BUS:Waypoint Added: [B 1-1-C,23] at [9945.28,2049.85,0]"
+14:48:27 "BUS:Waypoint Added: [B 1-1-C,24] at [10283.4,2146.71,0]"
+14:48:27 "BUS:Waypoint Added: [B 1-1-C,25] at [10389.4,2221.85,0]"
+14:48:27 "BUS:Waypoint Added: [B 1-1-C,26] at [10498.9,2320.29,0]"
+14:48:27 "BUS:Waypoint Added: [B 1-1-C,27] at [10888.2,2772.58,0]"
+14:48:27 "BUS:Waypoint Added: [B 1-1-C,28] at [12025.9,3485.04,0]"
+14:48:27 "BUS:Waypoint Added: [B 1-1-C,29] at [13005.9,3816.02,0]"
+14:48:27 "BUS:Waypoint Added: [B 1-1-C,30] at [13451.5,6211.28,0]"
+14:48:27 "BUS:Waypoint Added: [B 1-1-C,31] at [13419.9,6557.19,0]"
+14:48:27 "BUS:Waypoint Added: [B 1-1-C,32] at [13287.7,6961.19,0]"
+14:48:27 "BUS:Waypoint Added: [B 1-1-C,33] at [12930.4,10133,0]"
+14:48:27 No owner
+14:48:27 No owner
+14:48:27 "[NAC BLOWOUT SERVER] :: Next blowout in _delay (_delay = 2670.83), delay modifier is 0.74 (ns_blow_delaymod)"
+14:48:27 "[Random_Weed_Farm]: waiting for BIS_fnc_findSafePos"
+14:48:27 "[Random_Weed_Farm]: Function loaded ... Server Building 2 Weed Farm(s)"
+14:48:27 "[Random_Weed_Farm]: Found Location for a farm (076000) [7669.32,15279] with 5 plants"
+14:48:27 "[Random_Weed_Farm]: Found Location for a farm (068003) [6839.19,15042.9] with 5 plants"
+14:48:27 "[Random_Weed_Farm]: Weed Farm(s) Done ... Broadcasting locations for clients"
+14:48:27 "** DB groups server side initializing"
+14:48:27 "** scp_crtsrvrs initializing"
+14:48:27 "** scp_crtsrvrs initialized"
+14:48:27 "** DB groups initialized"
+14:48:28 "HIVE: Starting"
+14:48:28 "HIVE: trying to get objects"
+14:48:30 "HIVE: found 283 objects"
+14:48:30 "HIVE: Commence Object Streaming..."
+14:48:30 "HIVE: got 0 Epoch Objects and 283 Vehicles"
+14:48:30 Cannot create non-ai vehicle 350z,
+14:48:30 Cannot create non-ai vehicle 350z,
+14:48:30 Cannot create non-ai vehicle Civcarsl,
+14:48:30 Cannot create non-ai vehicle Civcarge,
+14:48:30 Cannot create non-ai vehicle 350z_kiwi,
+14:48:31 Cannot create non-ai vehicle Civcarwh,
+14:48:31 Cannot create non-ai vehicle 350z_gold,
+14:48:31 Cannot create non-ai vehicle 350z_kiwi,
+14:48:31 Cannot create non-ai vehicle 350z_silver,
+14:48:31 Cannot create non-ai vehicle 350z_silver,
+14:48:31 Cannot create non-ai vehicle Civcarbl,
+14:48:31 Cannot create non-ai vehicle 350z_black,
+14:48:31 Cannot create non-ai vehicle 350z_white,
+14:48:31 Cannot create non-ai vehicle CYBP_Camel_civ,
+14:48:31 Cannot create non-ai vehicle 350z_ruben,
+14:48:31 Cannot create non-ai vehicle CYBP_Camel_rus,
+14:48:31 Cannot create non-ai vehicle CYBP_Camel_rus,
+14:48:31 AH6X_DZ: FLIR_turret - unknown animation source FLIR_turret
+14:48:31 AH6X_DZ: FLIR_gun - unknown animation source FLIR_gun
+14:48:31 Cannot create non-ai vehicle 350z_mod,
+14:48:31 Cannot create non-ai vehicle 350z_blue,
+14:48:31 Cannot create non-ai vehicle 350z_blue,
+14:48:31 Cannot create non-ai vehicle Civcarge,
+14:48:31 Cannot create non-ai vehicle Civcarbu,
+14:48:31 Cannot create non-ai vehicle Civcar,
+14:48:31 Cannot create non-ai vehicle Civcarbu,
+14:48:32 UH1Y_DZE: ObsTurret - unknown animation source ObsTurret
+14:48:32 UH1Y_DZE: ObsGun - unknown animation source ObsGun
+14:48:32 Cannot create non-ai vehicle 350z_black,
+14:48:32 Cannot create non-ai vehicle CYBP_Camel_us,
+14:48:34 Cannot create non-ai vehicle 350z_kiwi,
+14:48:34 Cannot create non-ai vehicle CYBP_Camel_us,
+14:48:34 Cannot create non-ai vehicle 350z_pink,
+14:48:34 Cannot create non-ai vehicle 350z_white,
+14:48:35 Cannot create non-ai vehicle CYBP_Camel_rus,
+14:48:35 Cannot create non-ai vehicle Civcarwh,
+14:48:35 Cannot create non-ai vehicle 350z_gold,
+14:48:35 Cannot create non-ai vehicle 350z_yellow,
+14:48:35 Cannot create non-ai vehicle 350z_v,
+14:48:35 Cannot create non-ai vehicle 350z_silver,
+14:48:36 Cannot create non-ai vehicle 350z_green,
+14:48:36 Cannot create non-ai vehicle Civcarbu,
+14:48:36 "HIVE: Spawning # of Vehicles: 60"
+14:48:36 "HIVE: Spawning # of Debris: 500"
+14:48:36 "HIVE: Spawning # of Ammo Boxes: 3"
+14:48:36 "HIVE: Spawning # of Veins: 50"
+14:48:36 "Total Number of spawn locations 5"
+14:48:36 "[DZAI] Initializing DZAI version 2.1.3 Release Build 09272014 using base path z\addons\dayz_server\DZAI."
+14:48:36 "[DZAI] Reading DZAI configuration file."
+14:48:36 "[DZAI] DZAI configuration file loaded."
+14:48:36 "[DZAI] Compiling DZAI functions."
+14:48:37 "[DZAI] DZAI functions compiled."
+14:48:37 "[DZAI] Epoch classnames loaded."
+14:48:37 "[DZAI] DZAI settings: Debug Level: 0. DebugMarkers: false. WorldName: chernarus. ModName: epoch (Ver: 1.0.5.1). DZAI_dynamicWeaponList: true. VerifyTables: true."
+14:48:37 "[DZAI] AI spawn settings: Static: true. Dynamic: false. Air: true. Land: true."
+14:48:37 "[DZAI] AI settings: DZAI_findKiller: true. DZAI_useHealthSystem: true. DZAI_weaponNoise: false. DZAI_zombieEnemy: false."
+14:48:37 "[DZAI] DZAI loading completed in 0.760002 seconds."
+14:48:37 "** scp_spwn_fr initializing"
+14:48:37 "** scp_behavoir initializing"
+14:48:37 "** scp_behavoir initialized"
+14:48:37 "** scp_task_patrol initializing"
+14:48:37 "** scp_task_patrol initialized"
+14:48:37 "** scp_publishunit B 1-1-D:1,true,false,0,false,false,true"
+14:48:37 "** scp_spwn_fr Unit created : SurvivorW2_DZ,10567.6,8827.8"
+14:48:37 "** scp_spwn_fr initializing"
+14:48:37 "** scp_behavoir initializing"
+14:48:37 "** scp_behavoir initialized"
+14:48:37 "** scp_task_patrol initializing"
+14:48:37 "** scp_task_patrol initialized"
+14:48:37 "** scp_publishunit B 1-1-E:1,true,false,0,false,false,true"
+14:48:37 "** scp_spwn_fr Unit created : SurvivorWcombat_DZ,8443.08,12762.3"
+14:48:37 "** scp_spwn_fr initializing"
+14:48:37 "** scp_behavoir initializing"
+14:48:37 "** scp_behavoir initialized"
+14:48:37 "** scp_task_patrol initializing"
+14:48:37 "** scp_task_patrol initialized"
+14:48:37 "** scp_publishunit B 1-1-F:1,true,false,0,false,false,true"
+14:48:37 "** scp_spwn_fr Unit created : SurvivorW3_DZ,1047.7,3013.48"
+14:48:37 "** scp_spwn_fr initializing"
+14:48:37 "** scp_behavoir initializing"
+14:48:37 "** scp_behavoir initialized"
+14:48:37 "** scp_task_patrol initializing"
+14:48:37 "** scp_task_patrol initialized"
+14:48:37 "** scp_publishunit B 1-1-G:1,true,false,0,false,false,true"
+14:48:37 "** scp_spwn_fr Unit created : SurvivorW2_DZ,6548.27,4692.4"
+14:48:37 "** scp_spwn_fr initializing"
+14:48:37 "** scp_behavoir initializing"
+14:48:37 "** scp_behavoir initialized"
+14:48:37 "** scp_task_patrol initializing"
+14:48:37 "** scp_task_patrol initialized"
+14:48:37 "** scp_publishunit B 1-1-H:1,true,false,0,false,false,true"
+14:48:37 "** scp_spwn_fr Unit created : Pilot_EP1_DZ,10745.2,10801.8"
+14:48:37 "PUBLISH: Attempt 365e2080# 1066327: m998a2_sov.p3d"
+14:48:37 "HIVE: WRITE: "CHILD:308:11:HMMWV_M998A2_SOV_DES_EP1_DZE:0:0:[109,[6511.13,6767.71,0.0318604]]:[]:[["glass1",0.562131],["glass2",0.45905],["glass3",0.401256],["glass4",0.548001],["wheel_1_1_steering",0.362967],["wheel_1_2_steering",0.890856],["wheel_2_1_steering",0.920092],["wheel_2_2_steering",0.981883],["fueltank",0.270622],["engine",0.494207],["sklo predni P",0.3053],["sklo predni L",0.0143171],["karoserie",0.835059],["wheel_1_4_steering",0.929131],["wheel_2_4_steering",0.712854],["wheel_1_3_steering",0.753461],["wheel_2_3_steering",0.84961]]:0.99627:65111676770109:""
+14:48:38 "PUBLISH: Attempt 365e10c0# 1066330: datsun_pk.p3d"
+14:48:38 "HIVE: WRITE: "CHILD:308:11:Pickup_PK_INS_DZE:0:0:[79,[10151.2,1999.72,0.00466108]]:[]:[["motor",0.979196],["sklo predni P",0.812996],["sklo predni L",0.502387],["karoserie",0.273342],["palivo",0.234841],["wheel_1_1_steering",0.593276],["wheel_2_1_steering",0.312104],["wheel_1_4_steering",0.0997965],["wheel_2_4_steering",0.336192],["wheel_1_3_steering",0.00544189],["wheel_2_3_steering",0.198798],["wheel_1_2_steering",0.4524],["wheel_2_2_steering",0.164604],["glass1",0.610784],["glass2",0.499602],["glass3",0.0115022],["glass4",0.935199]]:0.932803:10151219997079:""
+14:48:38 Cannot create non-ai vehicle Civcarre,
+14:48:38 "PUBLISH: Attempt <NULL-object>"
+14:48:38 "HIVE: WRITE: "CHILD:308:11:Civcarre:0:0:[88,[0,0,0]]:[]:[]:0.0606479:00088:""
+14:48:38 Cannot create non-ai vehicle 350z_kiwi,
+14:48:38 "PUBLISH: Attempt <NULL-object>"
+14:48:38 "HIVE: WRITE: "CHILD:308:11:350z_kiwi:0:0:[12,[0,0,0]]:[]:[]:0.496915:00012:""
+14:48:39 Warning Message: No entry 'bin\config.bin/CfgMagazines.RH_20Rnd_9x19_M93'.
+14:48:39 Warning Message: No entry '.picture'.
+14:48:39 Warning Message: '/' is not a value
+14:48:39 Warning Message: No entry '.scope'.
+14:48:39 Warning Message: '/' is not a value
+14:48:39 Warning Message: Error: creating magazine RH_20Rnd_9x19_M93 with scope=private
+14:48:39 Warning Message: No entry '.displayName'.
+14:48:39 Warning Message: '/' is not a value
+14:48:39 Warning Message: No entry '.displayNameShort'.
+14:48:39 Warning Message: '/' is not a value
+14:48:39 Warning Message: No entry '.nameSound'.
+14:48:39 Warning Message: '/' is not a value
+14:48:39 Warning Message: No entry '.Library'.
+14:48:39 Warning Message: No entry '.libTextDesc'.
+14:48:39 Warning Message: '/' is not a value
+14:48:39 Warning Message: No entry '.type'.
+14:48:39 Warning Message: '/' is not a value
+14:48:39 Warning Message: No entry '.count'.
+14:48:39 Warning Message: '/' is not a value
+14:48:39 Warning Message: No entry '.maxLeadSpeed'.
+14:48:39 Warning Message: '/' is not a value
+14:48:39 Warning Message: No entry '.initSpeed'.
+14:48:39 Warning Message: '/' is not a value
+14:48:39 Warning Message: No entry '.reloadAction'.
+14:48:39 Warning Message: '/' is not a value
+14:48:39 Warning Message: No entry '.modelSpecial'.
+14:48:39 Warning Message: '/' is not a value
+14:48:39 Warning Message: No entry '.ammo'.
+14:48:39 Warning Message: '/' is not a value
+14:48:39 "PUBLISH: Attempt 365e0100# 1066340: ural.p3d"
+14:48:39 "HIVE: WRITE: "CHILD:308:11:Ural_UN_EP1:0:0:[79,[2426.36,9622.86,0.00157166]]:[]:[["glass1",0.992481],["glass2",0.0801757],["glass3",0.0412558],["glass4",0.943217],["wheel_1_1_steering",0.756099],["wheel_2_1_steering",0.74553],["wheel_1_4_steering",0.33915],["wheel_2_4_steering",0.502264],["wheel_1_3_steering",0.335196],["wheel_2_3_steering",0.654701],["wheel_1_2_steering",0.548176],["wheel_2_2_steering",0.142593],["motor",0.873294],["sklo predni P",0.357082],["sklo predni L",0.628502],["karoserie",0.726899],["palivo",0.0530601]]:0.844805:2426496229079:""
+14:48:39 "PUBLISH: Attempt 179ff040# 1066342: pbx.p3d"
+14:48:39 "HIVE: WRITE: "CHILD:308:11:PBX:0:0:[178,[13211.2,8610.92,15.2415]]:[]:[["motor",0.366955]]:0.754865:13211286109152178:""
+14:48:41 "PUBLISH: Attempt 179fe080# 1066354: armoredsuv_pmc.p3d"
+14:48:41 "HIVE: WRITE: "CHILD:308:11:ArmoredSUV_PMC_DZE:0:0:[100,[9474.16,8773.45,0.0100403]]:[]:[["wheel_1_1_steering",0.0054292],["wheel_1_2_steering",0.257175],["wheel_2_1_steering",0.243834],["wheel_2_2_steering",0.562726],["palivo",0.643908],["motor",0.671225],["glass1",0.299353],["glass2",0.417978],["glass3",0.824535],["glass4",0.316665],["sklo predni P",0.58823],["sklo predni L",0.969245],["karoserie",0.942455],["wheel_1_4_steering",0.830942],["wheel_2_4_steering",0.232277],["wheel_1_3_steering",0.617157],["wheel_2_3_steering",0.979903]]:0.848173:94742877350100:""
+14:48:41 "PUBLISH: Attempt 179fd0c0# 1066355: zodiac.p3d"
+14:48:41 "HIVE: WRITE: "CHILD:308:11:Zodiac:0:0:[49,[14001.8,7386.66,90.1914]]:[]:[["motor",0.168055]]:0.796007:1400187386790249:""
+14:48:41 "PUBLISH: Attempt 179fc100# 1066358: smallboat_2.p3d"
+14:48:41 "HIVE: WRITE: "CHILD:308:11:Smallboat_2:0:0:[29,[13757.9,4084.72,2.71002]]:[]:[["motor",0.841372]]:0.454845:137579408472729:""
+14:48:41 "PUBLISH: Attempt 179a3040# 1066360: skodovka_red.p3d"
+14:48:41 "HIVE: WRITE: "CHILD:308:11:SkodaRed:0:0:[7,[4862.99,9646.66,0]]:[]:[["motor",0.848997],["sklo predni P",0.0465],["sklo predni L",0.580724],["karoserie",0.278371],["palivo",0.812865],["wheel_1_1_steering",0.918421],["wheel_2_1_steering",0.0836447],["wheel_1_4_steering",0.00200077],["wheel_2_4_steering",0.644724],["wheel_1_3_steering",0.101094],["wheel_2_3_steering",0.233861],["wheel_1_2_steering",0.428528],["wheel_2_2_steering",0.873655],["glass1",0.801897],["glass2",0.0818898],["glass3",0.111486],["glass4",0.845751]]:0.317339:486309646707:""
+14:48:42 "PUBLISH: Attempt 179a2080# 1066361: smallboat_2.p3d"
+14:48:42 "HIVE: WRITE: "CHILD:308:11:Smallboat_2:0:0:[40,[2654.54,1775.71,3.442]]:[]:[["motor",0.28216]]:0.570382:26545177573440:""
+14:48:42 "PUBLISH: Attempt 179a10c0# 1066363: hmmwv.p3d"
+14:48:42 "HIVE: WRITE: "CHILD:308:11:HMMWV_DES_EP1:0:0:[77,[7463.58,4821.37,0.0148315]]:[]:[["glass1",0.191576],["glass2",0.356553],["glass3",0.362534],["glass4",0.666729],["wheel_1_1_steering",0.970409],["wheel_1_2_steering",0.590516],["wheel_2_1_steering",0.494555],["wheel_2_2_steering",0.47394],["fueltank",0.851931],["engine",0.297912],["sklo predni P",0.0377985],["sklo predni L",0.461511],["karoserie",0.756382],["wheel_1_4_steering",0.986517],["wheel_2_4_steering",0.16917],["wheel_1_3_steering",0.685889],["wheel_2_3_steering",0.042841]]:0.657295:7463648214077:""
+14:48:42 "DEBUG: Too many at [4566.19,2523.74]"
+14:48:42 "DEBUG: Too many vehicles at [10083.6,1984.71]"
+14:48:42 "PUBLISH: Attempt 179a0100# 1066383: suv.p3d"
+14:48:42 "HIVE: WRITE: "CHILD:308:11:SUV_Camo:0:0:[54,[6829.02,2602.87,0.00812483]]:[]:[["wheel_1_1_steering",0.917967],["wheel_1_2_steering",0.907463],["wheel_2_1_steering",0.0257861],["wheel_2_2_steering",0.840605],["palivo",0.979625],["motor",0.717166],["glass1",0.24272],["glass2",0.194383],["glass3",0.302042],["glass4",0.260949],["sklo predni P",0.785862],["sklo predni L",0.0926244],["karoserie",0.196763],["wheel_1_4_steering",0.257317],["wheel_2_4_steering",0.68857],["wheel_1_3_steering",0.597491],["wheel_2_3_steering",0.751205]]:0.592405:6829026029054:""
+14:48:43 "infiSTAR.de - Player-Log: Aquiles(76561198056083521) - 0h 00min | ******ADMIN******"
+14:48:43 "infiSTAR.de - Player-Log: Mateuus(76561198065694695) - 0h 00min | ******ADMIN******"
+14:48:43 Warning Message: No entry 'bin\config.bin/CfgMagazines.vil_32Rnd_UZI_SD'.
+14:48:43 Warning Message: No entry '.picture'.
+14:48:43 Warning Message: '/' is not a value
+14:48:43 Warning Message: No entry '.scope'.
+14:48:43 Warning Message: '/' is not a value
+14:48:43 Warning Message: Error: creating magazine vil_32Rnd_UZI_SD with scope=private
+14:48:43 Warning Message: No entry '.displayName'.
+14:48:43 Warning Message: '/' is not a value
+14:48:43 Warning Message: No entry '.displayNameShort'.
+14:48:43 Warning Message: '/' is not a value
+14:48:43 Warning Message: No entry '.nameSound'.
+14:48:43 Warning Message: '/' is not a value
+14:48:43 Warning Message: No entry '.Library'.
+14:48:43 Warning Message: No entry '.libTextDesc'.
+14:48:43 Warning Message: '/' is not a value
+14:48:43 Warning Message: No entry '.type'.
+14:48:43 Warning Message: '/' is not a value
+14:48:43 Warning Message: No entry '.count'.
+14:48:43 Warning Message: '/' is not a value
+14:48:43 Warning Message: No entry '.maxLeadSpeed'.
+14:48:43 Warning Message: '/' is not a value
+14:48:43 Warning Message: No entry '.initSpeed'.
+14:48:43 Warning Message: '/' is not a value
+14:48:43 Warning Message: No entry '.reloadAction'.
+14:48:43 Warning Message: '/' is not a value
+14:48:43 Warning Message: No entry '.modelSpecial'.
+14:48:43 Warning Message: '/' is not a value
+14:48:43 Warning Message: No entry '.ammo'.
+14:48:43 Warning Message: '/' is not a value
+14:48:43 "PUBLISH: Attempt 1fb310c0# 1066385: suv.p3d"
+14:48:43 "HIVE: WRITE: "CHILD:308:11:SUV_Red:0:0:[77,[11122.6,12434,0.0205078]]:[]:[["wheel_1_1_steering",0.596013],["wheel_1_2_steering",0.448259],["wheel_2_1_steering",0.0961127],["wheel_2_2_steering",0.649311],["palivo",0.238606],["motor",0.726022],["glass1",0.94589],["glass2",0.887963],["glass3",0.834688],["glass4",0.177069],["sklo predni P",0.544067],["sklo predni L",0.51223],["karoserie",0.315617],["wheel_1_4_steering",0.485667],["wheel_2_4_steering",0.473014],["wheel_1_3_steering",0.0827492],["wheel_2_3_steering",0.633737]]:0.721481:111226124340077:""
+14:48:44 "PUBLISH: Attempt 179c4100# 1066388: datsun_pk.p3d"
+14:48:44 "HIVE: WRITE: "CHILD:308:11:Pickup_PK_TK_GUE_EP1_DZE:0:0:[102,[6506.48,2405.87,0.0204434]]:[]:[["motor",0.224864],["sklo predni P",0.934411],["sklo predni L",0.937974],["karoserie",0.364089],["palivo",0.711482],["wheel_1_1_steering",0.825602],["wheel_2_1_steering",0.0980583],["wheel_1_4_steering",0.581595],["wheel_2_4_steering",0.68024],["wheel_1_3_steering",0.590851],["wheel_2_3_steering",0.328669],["wheel_1_2_steering",0.611097],["wheel_2_2_steering",0.510219],["glass1",0.0686052],["glass2",0.944612],["glass3",0.365275],["glass4",0.335829]]:0.916883:65065240590102:""
+14:48:44 "PUBLISH: Attempt 179c50c0# 1066389: v3s_open.p3d"
+14:48:44 "HIVE: WRITE: "CHILD:308:11:V3S_Open_TK_CIV_EP1:0:0:[162,[7963.02,11415.7,0.0601807]]:[]:[["wheel_1_1_steering",0.788559],["wheel_1_2_steering",0.969617],["wheel_1_3_steering",0.34409],["wheel_2_1_steering",0.328459],["wheel_2_2_steering",0.144194],["wheel_2_3_steering",0.414135],["wheel_1_4_steering",0.728678],["wheel_2_4_steering",0.841493],["motor",0.0495606],["sklo predni P",0.304392],["sklo predni L",0.145757],["karoserie",0.602017],["palivo",0.021455],["glass1",0.447151],["glass2",0.772888],["glass3",0.0512656],["glass4",0.0296399]]:0.823116:796301141571162:""
+14:48:44 "PUBLISH: Attempt 179c6080# 1066391: atv.p3d"
+14:48:44 "HIVE: WRITE: "CHILD:308:11:ATV_US_EP1:0:0:[131,[9250.34,3961.16,0.111252]]:[]:[["motor",0.746931],["palivo",0.898482],["wheel_1_1_steering",0.726542],["wheel_1_2_steering",0.101083],["wheel_2_1_steering",0.676377],["wheel_2_2_steering",0.914059],["sklo predni P",0.863937],["sklo predni L",0.605818],["karoserie",0.489886],["wheel_1_4_steering",0.643299],["wheel_2_4_steering",0.486877],["wheel_1_3_steering",0.18765],["wheel_2_3_steering",0.745714],["glass1",0.247836],["glass2",0.571339],["glass3",0.0886081],["glass4",0.00512982]]:0.393571:92503396121131:""
+14:48:44 "PUBLISH: Attempt 1795f040# 1066393: datsun1_civil_2_covered.p3d"
+14:48:44 "HIVE: WRITE: "CHILD:308:11:datsun1_civil_2_covered:0:0:[165,[4364.15,9505.44,0.0155029]]:[]:[["motor",0.715574],["sklo predni P",0.246869],["sklo predni L",0.527042],["karoserie",0.520589],["palivo",0.429294],["wheel_1_1_steering",0.149432],["wheel_2_1_steering",0.963405],["wheel_1_4_steering",0.653406],["wheel_2_4_steering",0.254182],["wheel_1_3_steering",0.37837],["wheel_2_3_steering",0.0604319],["wheel_1_2_steering",0.345026],["wheel_2_2_steering",0.551769],["glass1",0.680524],["glass2",0.168158],["glass3",0.0836148],["glass4",0.838301]]:0.0457366:43642950540165:""
+14:48:44 "PUBLISH: Attempt 1795e080# 1066397: car_sedan.p3d"
+14:48:44 "HIVE: WRITE: "CHILD:308:11:car_sedan:0:0:[143,[3815.96,8858.17,0]]:[]:[["motor",0.712635],["sklo predni P",0.989921],["sklo predni L",0.144433],["karoserie",0.142031],["palivo",0.293617],["wheel_1_1_steering",0.166454],["wheel_2_1_steering",0.396782],["wheel_1_4_steering",0.0992164],["wheel_2_4_steering",0.973318],["wheel_1_3_steering",0.376942],["wheel_2_3_steering",0.912143],["wheel_1_2_steering",0.864041],["wheel_2_2_steering",0.812086],["glass1",0.0413629],["glass2",0.125447],["glass3",0.883424],["glass4",0.683616]]:0.144657:38160885820143:""
+14:48:44 "PUBLISH: Attempt 1795d0c0# 1066399: csj_gyroc.p3d"
+14:48:44 "HIVE: WRITE: "CHILD:308:11:CSJ_GyroC:0:0:[95,[12792,10833.3,0.0294685]]:[]:[["NEtrup",0.1935],["motor",0.137901],["elektronika",0.783173],["mala vrtule",0.961757],["velka vrtule",0.717385],["munice",0.062281],["sklo predni P",0.224218],["sklo predni L",0.743509],["glass1",0.931774],["glass2",0.402566],["glass3",0.951874],["glass4",0.34323],["glass5",0.871634],["glass6",0.424018]]:0.541083:127920108333095:""
+14:48:44 "DEBUG: Too many vehicles at [7979.22,7028.34]"
+14:48:46 "DEBUG: Too many at [6718.89,2558.33]"
+14:48:46 Cannot create non-ai vehicle CYBP_Camel_us,
+14:48:46 "PUBLISH: Attempt <NULL-object>"
+14:48:46 "HIVE: WRITE: "CHILD:308:11:CYBP_Camel_us:0:0:[99,[0,0,0]]:[]:[]:0.0250318:00099:""
+14:48:46 "PUBLISH: Attempt 1795c100# 1066409: atv.p3d"
+14:48:46 "HIVE: WRITE: "CHILD:308:11:ATV_CZ_EP1:0:0:[177,[12312.1,8964.69,0.0182076]]:[]:[["motor",0.681705],["palivo",0.169826],["wheel_1_1_steering",0.877255],["wheel_1_2_steering",0.793803],["wheel_2_1_steering",0.667322],["wheel_2_2_steering",0.259557],["sklo predni P",0.0104297],["sklo predni L",0.441469],["karoserie",0.0851088],["wheel_1_4_steering",0.557949],["wheel_2_4_steering",0.0675838],["wheel_1_3_steering",0.371371],["wheel_2_3_steering",0.974865],["glass1",0.407163],["glass2",0.671626],["glass3",0.541387],["glass4",0.246681]]:0.0151671:123121896470177:""
+14:48:46 "PUBLISH: Attempt 1787b040# 1066411: lada.p3d"
+14:48:46 "HIVE: WRITE: "CHILD:308:11:Lada2_TK_CIV_EP1:0:0:[6,[6770.38,5705.52,0.0227966]]:[]:[["motor",0.01178],["sklo predni P",0.410725],["sklo predni L",0.58617],["karoserie",0.732822],["palivo",0.148524],["wheel_1_1_steering",0.614578],["wheel_2_1_steering",0.736412],["wheel_1_4_steering",0.0933895],["wheel_2_4_steering",0.356883],["wheel_1_3_steering",0.943283],["wheel_2_3_steering",0.630102],["wheel_1_2_steering",0.58389],["wheel_2_2_steering",0.830792],["glass1",0.552384],["glass2",0.432696],["glass3",0.132857],["glass4",0.579636]]:0.438787:677045705506:""
+14:48:47 "PUBLISH: Attempt 1787a080# 1066416: kamaz.p3d"
+14:48:47 "HIVE: WRITE: "CHILD:308:11:Kamaz:0:0:[133,[7323.67,2736.63,0.000965118]]:[]:[["wheel_1_1_steering",0.284523],["wheel_2_1_steering",0.467019],["wheel_1_4_steering",0.105901],["wheel_2_4_steering",0.791559],["wheel_1_3_steering",0.0254667],["wheel_2_3_steering",0.810831],["wheel_1_2_steering",0.702158],["wheel_2_2_steering",0.790395],["motor",0.808085],["sklo predni P",0.544282],["sklo predni L",0.441308],["karoserie",0.257755],["palivo",0.285779],["glass1",0.0788471],["glass2",0.332646],["glass3",0.35244],["glass4",0.0298819]]:0.11872:73237273660133:""
+14:48:47 Cannot create non-ai vehicle 350z_yellow,
+14:48:47 "PUBLISH: Attempt <NULL-object>"
+14:48:47 "HIVE: WRITE: "CHILD:308:11:350z_yellow:0:0:[74,[0,0,0]]:[]:[]:0.513457:00074:""
+14:48:47 Cannot create non-ai vehicle Civcarbu,
+14:48:47 "PUBLISH: Attempt <NULL-object>"
+14:48:47 "HIVE: WRITE: "CHILD:308:11:Civcarbu:0:0:[152,[0,0,0]]:[]:[]:0.0386033:000152:""
+14:48:49 "PUBLISH: Attempt 178790c0# 1066431: hilux1_civil_3_open.p3d"
+14:48:49 "HIVE: WRITE: "CHILD:308:11:hilux1_civil_3_open_EP1:0:0:[150,[4901.23,5620.22,0.00106812]]:[]:[["motor",0.226185],["sklo predni P",0.134678],["sklo predni L",0.245054],["karoserie",0.293137],["palivo",0.0733889],["wheel_1_1_steering",0.771405],["wheel_2_1_steering",0.836579],["wheel_1_4_steering",0.837643],["wheel_2_4_steering",0.242457],["wheel_1_3_steering",0.0641094],["wheel_2_3_steering",0.641629],["wheel_1_2_steering",0.0612693],["wheel_2_2_steering",0.289801],["glass1",0.68258],["glass2",0.304045],["glass3",0.446773],["glass4",0.342049]]:0.469387:49012562020150:""
+14:48:53 "PUBLISH: Attempt 17878100# 1066447: csj_gyrop.p3d"
+14:48:53 "HIVE: WRITE: "CHILD:308:11:CSJ_GyroP:0:0:[58,[10697.6,12666.6,0.0877991]]:[]:[["telo",0.644533]]:0.569653:106976126666158:""
+14:48:53 "PUBLISH: Attempt 179f7040# 1066449: lada.p3d"
+14:48:53 "HIVE: WRITE: "CHILD:308:11:Lada2:0:0:[7,[12341.8,12746.1,0.0258789]]:[]:[["motor",0.897328],["sklo predni P",0.257733],["sklo predni L",0.4487],["karoserie",0.0993598],["palivo",0.465874],["wheel_1_1_steering",0.180878],["wheel_2_1_steering",0.568021],["wheel_1_4_steering",0.728145],["wheel_2_4_steering",0.795393],["wheel_1_3_steering",0.824085],["wheel_2_3_steering",0.0392044],["wheel_1_2_steering",0.650595],["wheel_2_2_steering",0.349171],["glass1",0.410478],["glass2",0.0666981],["glass3",0.886185],["glass4",0.19852]]:0.473016:12341812746107:""
+14:48:53 Cannot create non-ai vehicle 350z_gold,
+14:48:53 "PUBLISH: Attempt <NULL-object>"
+14:48:53 "HIVE: WRITE: "CHILD:308:11:350z_gold:0:0:[121,[0,0,0]]:[]:[]:0.156111:000121:""
+14:48:55 "DEBUG: Too many vehicles at [9973.75,1887.68]"
+14:48:56 Cannot create non-ai vehicle CYBP_Camel_civ,
+14:48:56 "PUBLISH: Attempt <NULL-object>"
+14:48:56 "HIVE: WRITE: "CHILD:308:11:CYBP_Camel_civ:0:0:[40,[0,0,0]]:[]:[]:0.269272:00040:""
+14:48:56 Cannot create non-ai vehicle Civcar,
+14:48:56 "PUBLISH: Attempt <NULL-object>"
+14:48:56 "HIVE: WRITE: "CHILD:308:11:Civcar:0:0:[49,[0,0,0]]:[]:[]:0.391617:00049:""
+14:49:02 "DEBUG: Too many at [2905.15,4390.38]"
+14:49:04 "infiSTAR.de PlayerConnected: ["76561198056083521","Aquiles"]"
+14:49:05 "PUBLISH: Attempt 22c9d0c0# 1066530: old_moto.p3d"
+14:49:05 "HIVE: WRITE: "CHILD:308:11:Old_moto_TK_Civ_EP1:0:0:[150,[6034.03,2093.62,0.000409603]]:[]:[["engine",0.977959],["sklo predni P",0.689396],["sklo predni L",0.124592],["karoserie",0.453432],["palivo",0.892379],["Pravy predni tlumic",0.159773],["Pravy zadni tlumic",0.464846]]:0.469851:60340209360150:""
+14:49:05 Cannot create non-ai vehicle 350z_red,
+14:49:05 "PUBLISH: Attempt <NULL-object>"
+14:49:05 "HIVE: WRITE: "CHILD:308:11:350z_red:0:0:[31,[0,0,0]]:[]:[]:0.92304:00031:""
+14:49:05 "PUBLISH: Attempt 22c9c100# 1066533: hilux1_civil_3_open.p3d"
+14:49:05 "HIVE: WRITE: "CHILD:308:11:hilux1_civil_3_open_EP1:0:0:[85,[8804.2,6430.06,0.00759888]]:[]:[["motor",0.772393],["sklo predni P",0.575776],["sklo predni L",0.143842],["karoserie",0.199249],["palivo",0.662627],["wheel_1_1_steering",0.0335719],["wheel_2_1_steering",0.225376],["wheel_1_4_steering",0.847336],["wheel_2_4_steering",0.110425],["wheel_1_3_steering",0.304781],["wheel_2_3_steering",0.631427],["wheel_1_2_steering",0.921788],["wheel_2_2_steering",0.0453189],["glass1",0.888171],["glass2",0.215394],["glass3",0.961105],["glass4",0.481365]]:0.31226:8804264301085:""
+14:49:05 Cannot create non-ai vehicle 350z_blue,
+14:49:05 "PUBLISH: Attempt <NULL-object>"
+14:49:05 "HIVE: WRITE: "CHILD:308:11:350z_blue:0:0:[5,[0,0,0]]:[]:[]:0.251998:0005:""
+14:49:05 "infiSTAR.de PlayerConnected: ["76561198065694695","Mateuus"]"
+14:49:05 "infiSTAR.de PlayerConnected: ["","__SERVER__"]"
+14:49:05 "EPOCH EVENTS INIT"
+14:49:05 "PLANE: Starting spawn logic for animated AN2 Carepackage drops - written by Grafzahl, modded by fofinho [CD:1]"
+14:49:05 "PLANE: 75% chance to start a AN2 Cargo Plane Carepackagedrop at 3328.4 with 5 drop points"
+14:49:05 "CRASHSPAWNER: 100% chance to start a crashing AN2 Cargo Plane with loot table 'MilitarySpecial'"
+14:49:05 "CRASHSPAWNER: AN2 Cargo Plane started flying from [1000,2] to [9376.38,10977.4] NOW!(TIME:0||LT:MilitarySpecial)"
+14:49:05 "CRASHSPAWNER: 100% chance to start a crashing C-130J with loot table 'MilitarySpecial'"
+14:49:05 "CRASHSPAWNER: C-130J started flying from [7500,2] to [6121.28,13553.2] NOW!(TIME:0||LT:MilitarySpecial)"
+14:49:06 "DEBUG: Too many at [4861.55,9645.47]"
+14:49:06 "DEBUG: Too many vehicles at [12643.2,5718.19]"
+14:49:07 Cannot create non-ai vehicle Civcarbl,
+14:49:07 "PUBLISH: Attempt <NULL-object>"
+14:49:07 "HIVE: WRITE: "CHILD:308:11:Civcarbl:0:0:[103,[0,0,0]]:[]:[]:0.749198:000103:""
+14:49:09 "DEBUG: Too many vehicles at [11662.9,12397.3]"
+14:49:09 "** scp_spwn_fr initialized"
+14:49:09 "** scp_spwn_fr initialized"
+14:49:09 "** scp_spwn_fr initialized"
+14:49:09 "** scp_spwn_fr initialized"
+14:49:09 "** scp_spwn_fr initialized"
+14:49:10 "HIVE: WRITE: "CHILD:388:65111676770109:""
+14:49:10 "CUSTOM: Selected "290""
+14:49:10 "HIVE: WRITE: "CHILD:388:10151219997079:""
+14:49:10 "CUSTOM: Selected "291""
+14:49:10 "HIVE: WRITE: "CHILD:388:00099:""
+14:49:10 "CUSTOM: Selected "82""
+14:49:10 "PUBLISH: Created CYBP_Camel_us with ID "00099""
+14:49:10 "HIVE: WRITE: "CHILD:388:123121896470177:""
+14:49:10 "CUSTOM: Selected "311""
+14:49:10 "HIVE: WRITE: "CHILD:388:00088:""
+14:49:10 "CUSTOM: Selected "292""
+14:49:10 "PUBLISH: Created Civcarre with ID "00088""
+14:49:10 "HIVE: WRITE: "CHILD:388:127920108333095:""
+14:49:10 "CUSTOM: Selected "309""
+14:49:10 "PUBLISH: Created CSJ_GyroC with ID "127920108333095""
+14:49:10 "HIVE: WRITE: "CHILD:388:677045705506:""
+14:49:10 "CUSTOM: Selected "312""
+14:49:10 "HIVE: WRITE: "CHILD:388:49012562020150:""
+14:49:10 "CUSTOM: Selected "316""
+14:49:10 "HIVE: WRITE: "CHILD:388:000152:""
+14:49:10 "CUSTOM: Selected "315""
+14:49:10 "PUBLISH: Created Civcarbu with ID "000152""
+14:49:10 "HIVE: WRITE: "CHILD:388:00074:""
+14:49:10 "CUSTOM: Selected "314""
+14:49:10 "PUBLISH: Created 350z_yellow with ID "00074""
+14:49:10 "HIVE: WRITE: "CHILD:388:8804264301085:""
+14:49:10 "CUSTOM: Selected "324""
+14:49:10 "HIVE: WRITE: "CHILD:388:796301141571162:""
+14:49:10 "CUSTOM: Selected "305""
+14:49:10 "HIVE: WRITE: "CHILD:388:65065240590102:""
+14:49:10 "CUSTOM: Selected "304""
+14:49:10 "HIVE: WRITE: "CHILD:388:92503396121131:""
+14:49:10 "CUSTOM: Selected "306""
+14:49:10 "HIVE: WRITE: "CHILD:388:111226124340077:""
+14:49:10 "CUSTOM: Selected "303""
+14:49:10 "HIVE: WRITE: "CHILD:388:43642950540165:""
+14:49:10 "CUSTOM: Selected "307""
+14:49:10 "HIVE: WRITE: "CHILD:388:38160885820143:""
+14:49:10 "CUSTOM: Selected "308""
+14:49:10 "HIVE: WRITE: "CHILD:388:73237273660133:""
+14:49:10 "CUSTOM: Selected "313""
+14:49:10 "HIVE: WRITE: "CHILD:388:6829026029054:""
+14:49:10 "CUSTOM: Selected "302""
+14:49:10 "HIVE: WRITE: "CHILD:388:7463648214077:""
+14:49:10 "CUSTOM: Selected "301""
+14:49:10 "HIVE: WRITE: "CHILD:388:106976126666158:""
+14:49:10 "CUSTOM: Selected "317""
+14:49:10 "PUBLISH: Created CSJ_GyroP with ID "106976126666158""
+14:49:10 "HIVE: WRITE: "CHILD:388:26545177573440:""
+14:49:10 "CUSTOM: Selected "300""
+14:49:10 "PUBLISH: Created Smallboat_2 with ID "26545177573440""
+14:49:10 "HIVE: WRITE: "CHILD:388:000121:""
+14:49:10 "CUSTOM: Selected "319""
+14:49:10 "PUBLISH: Created 350z_gold with ID "000121""
+14:49:10 "HIVE: WRITE: "CHILD:388:12341812746107:""
+14:49:10 "CUSTOM: Selected "318""
+14:49:11 "HIVE: WRITE: "CHILD:388:13211286109152178:""
+14:49:11 "CUSTOM: Selected "295""
+14:49:11 "PUBLISH: Created PBX with ID "13211286109152178""
+14:49:11 "HIVE: WRITE: "CHILD:388:486309646707:""
+14:49:11 "CUSTOM: Selected "299""
+14:49:11 "HIVE: WRITE: "CHILD:388:00040:""
+14:49:11 "CUSTOM: Selected "286""
+14:49:11 "PUBLISH: Created CYBP_Camel_civ with ID "00040""
+14:49:11 "HIVE: WRITE: "CHILD:388:137579408472729:""
+14:49:11 "CUSTOM: Selected "298""
+14:49:11 "PUBLISH: Created Smallboat_2 with ID "137579408472729""
+14:49:11 "HIVE: WRITE: "CHILD:388:00012:""
+14:49:11 "CUSTOM: Selected "61""
+14:49:11 "PUBLISH: Created 350z_kiwi with ID "00012""
+14:49:11 "HIVE: WRITE: "CHILD:388:2426496229079:""
+14:49:11 "CUSTOM: Selected "294""
+14:49:11 "HIVE: WRITE: "CHILD:388:94742877350100:""
+14:49:11 "CUSTOM: Selected "296""
+14:49:11 "HIVE: WRITE: "CHILD:388:1400187386790249:""
+14:49:11 "CUSTOM: Selected "297""
+14:49:11 "PUBLISH: Created Zodiac with ID "1400187386790249""
+14:49:11 "HIVE: WRITE: "CHILD:388:00049:""
+14:49:11 "CUSTOM: Selected "321""
+14:49:11 "PUBLISH: Created Civcar with ID "00049""
+14:49:11 "HIVE: WRITE: "CHILD:388:0005:""
+14:49:11 "CUSTOM: Selected "238""
+14:49:11 "PUBLISH: Created 350z_blue with ID "0005""
+14:49:11 "HIVE: WRITE: "CHILD:388:00031:""
+14:49:11 "CUSTOM: Selected "323""
+14:49:11 "PUBLISH: Created 350z_red with ID "00031""
+14:49:11 "HIVE: WRITE: "CHILD:388:60340209360150:""
+14:49:11 "CUSTOM: Selected "322""
+14:49:11 "PUBLISH: Created Old_moto_TK_Civ_EP1 with ID "60340209360150""
+14:49:11 "DEBUG VEIN: Too many objects at [5174.97,9116.98]"
+14:49:11 "PUBLISH: Attempt 3ab5f040# 1066610: pbx.p3d"
+14:49:11 "HIVE: WRITE: "CHILD:308:11:PBX:0:0:[14,[14075.7,5842.96,40.2565]]:[]:[["motor",0.335314]]:0.0156188:1407575843040314:""
+14:49:11 "DEBUG VEIN: Too many objects at [5167.19,9124.02]"
+14:49:12 "DEBUG VEIN: Too many objects at [6114.82,4129.55]"
+14:49:13 "DEBUG VEIN: Too many objects at [3917.21,9808.5]"
+14:49:13 "PUBLISH: Created HMMWV_M998A2_SOV_DES_EP1_DZE with ID "65111676770109""
+14:49:13 "PUBLISH: Created Pickup_PK_INS_DZE with ID "10151219997079""
+14:49:13 "PUBLISH: Created ATV_CZ_EP1 with ID "123121896470177""
+14:49:13 "PUBLISH: Created Lada2_TK_CIV_EP1 with ID "677045705506""
+14:49:13 "PUBLISH: Created hilux1_civil_3_open_EP1 with ID "49012562020150""
+14:49:13 "PUBLISH: Created hilux1_civil_3_open_EP1 with ID "8804264301085""
+14:49:13 "PUBLISH: Created V3S_Open_TK_CIV_EP1 with ID "796301141571162""
+14:49:13 "PUBLISH: Created Pickup_PK_TK_GUE_EP1_DZE with ID "65065240590102""
+14:49:13 "PUBLISH: Created ATV_US_EP1 with ID "92503396121131""
+14:49:13 "PUBLISH: Created SUV_Red with ID "111226124340077""
+14:49:13 "PUBLISH: Created datsun1_civil_2_covered with ID "43642950540165""
+14:49:13 "PUBLISH: Created car_sedan with ID "38160885820143""
+14:49:13 "PUBLISH: Created Kamaz with ID "73237273660133""
+14:49:13 "PUBLISH: Created SUV_Camo with ID "6829026029054""
+14:49:13 "PUBLISH: Created HMMWV_DES_EP1 with ID "7463648214077""
+14:49:13 "PUBLISH: Created Lada2 with ID "12341812746107""
+14:49:13 "PUBLISH: Created SkodaRed with ID "486309646707""
+14:49:13 "PUBLISH: Created Ural_UN_EP1 with ID "2426496229079""
+14:49:13 "PUBLISH: Created ArmoredSUV_PMC_DZE with ID "94742877350100""
+14:49:13 Unit 2:18 not found, cannot update
+14:49:13 "TIME SYNC: Local Time set to [2013,8,3,13,49]"
+14:49:14 "HIVE: WRITE: "CHILD:388:000103:""
+14:49:14 "CUSTOM: Selected "326""
+14:49:14 "PUBLISH: Created Civcarbl with ID "000103""
+14:49:16 "WAI: Custom Config File Loaded"
+14:49:16 "WAI: AI Config File Loaded"
+14:49:17 "HIVE: WRITE: "CHILD:388:1407575843040314:""
+14:49:17 "CUSTOM: Selected "327""
+14:49:17 "PUBLISH: Created PBX with ID "1407575843040314""
+14:49:19 "WAI: AI Monitor Started"
+14:49:19 "WAI: Initialising missions"
+14:49:30 Warning: looped for animation: ca\anims\characters\data\anim\sdr\mov\erc\stp\non\non\amovpercmstpsnonwnondnon_amovpercmstpsraswpstdnon_end.rtm differs (looped now 0)! MoveName: amovpercmstpsnonwnondnon_amovpercmstpsraswpstdnon_end
+14:49:31 "infiSTAR.de fnc_AdminFirstReq: [1234,B 1-1-K:1 (Mateuus) REMOTE,"76561198065694695"]"
+14:49:31 "infiSTAR.de fnc_AdminReqProceed: [1234,B 1-1-K:1 (Mateuus) REMOTE,"76561198065694695"]"
+14:49:31 "infiSTAR.de ******ADMIN-LOGIN******: Mateuus(76561198065694695)"
+14:49:31 "** scp_updateclient initializing"
+14:49:31 "** scp_publishunit B 1-1-D:1,true,false,0,false,false,true"
+14:49:31 "** scp_publishunit B 1-1-E:1,true,false,0,false,false,true"
+14:49:31 "** scp_publishunit B 1-1-F:1,true,false,0,false,false,true"
+14:49:31 "** scp_publishunit B 1-1-G:1,true,false,0,false,false,true"
+14:49:31 "** scp_publishunit B 1-1-H:1,true,false,0,false,false,true"
+14:49:31 "** scp_updateclient initialized"
+14:49:31 "infiSTAR.de fnc_AdminFirstReq: [1234,B 1-1-K:1 (Aquiles) REMOTE,"76561198056083521"]"
+14:49:31 "infiSTAR.de fnc_AdminReqProceed: [1234,B 1-1-K:1 (Aquiles) REMOTE,"76561198056083521"]"
+14:49:31 "infiSTAR.de ******ADMIN-LOGIN******: Aquiles(76561198056083521)"
+14:49:33 WMOD v1.1.0: loading...
+14:49:33 "** scp_updateclient initializing"
+14:49:33 "** scp_publishunit B 1-1-D:1,true,false,0,false,false,true"
+14:49:33 "** scp_publishunit B 1-1-E:1,true,false,0,false,false,true"
+14:49:33 "** scp_publishunit B 1-1-F:1,true,false,0,false,false,true"
+14:49:33 "** scp_publishunit B 1-1-G:1,true,false,0,false,false,true"
+14:49:33 "** scp_publishunit B 1-1-H:1,true,false,0,false,false,true"
+14:49:33 "** scp_updateclient initialized"
+14:49:35 "REPACK VERSION: Overpoch - build 133"
+14:49:42 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
+14:49:44 "[DZAI] Verified 205 unique classnames in 0.322998 seconds."
+14:49:44 "Chernarus spawn areas loaded."
+14:49:44 "Chernarus static spawn configuration loaded."
+14:49:48 No owner
+14:49:48 No owner
+14:49:48 No owner
+14:49:49 "infiSTAR.de fnc_AdminFirstReq: [1,B 1-1-K:1 (Aquiles) REMOTE,B 1-1-K:1 (Aquiles) REMOTE,[13095.4,10335.2,0]]"
+14:49:49 "infiSTAR.de fnc_AdminReqProceed: [1,B 1-1-K:1 (Aquiles) REMOTE,B 1-1-K:1 (Aquiles) REMOTE,[13095.4,10335.2,0]]"
+14:49:53 "DZAI Warning: 350z_pink is an invalid vehicle classname!"
+14:49:53 No owner
+14:49:53 No owner
+14:49:53 Warning Message: No entry 'bin\config.bin/CfgWeapons.'.
+14:49:53 Warning Message: No entry '.scope'.
+14:49:53 Warning Message: '/' is not a value
+14:49:53 Warning Message: Error: creating weapon  with scope=private
+14:49:53 Warning Message: No entry '.displayName'.
+14:49:53 Warning Message: '/' is not a value
+14:49:53 Warning Message: No entry '.nameSound'.
+14:49:53 Warning Message: '/' is not a value
+14:49:53 Warning Message: No entry '.type'.
+14:49:53 Warning Message: '/' is not a value
+14:49:53 Warning Message: No entry '.picture'.
+14:49:53 Warning Message: '/' is not a value
+14:49:53 Warning Message: No entry '.Library'.
+14:49:53 Warning Message: No entry '.libTextDesc'.
+14:49:53 Warning Message: '/' is not a value
+14:49:53 Warning Message: No entry '.model'.
+14:49:53 Warning Message: '/' is not a value
+14:49:53 Warning Message: No entry '.simulation'.
+14:49:53 Warning Message: '/' is not a value
+14:49:53 Warning Message: No entry '.fireLightDuration'.
+14:49:53 Warning Message: '/' is not a value
+14:49:53 Warning Message: No entry '.fireLightIntensity'.
+14:49:53 Warning Message: '/' is not a value
+14:49:53 Warning Message: No entry '.weaponLockDelay'.
+14:49:53 Warning Message: '/' is not a value
+14:49:53 Warning Message: No entry '.weaponLockSystem'.
+14:49:53 Warning Message: '/' is not a value
+14:49:53 Warning Message: No entry '.cmImmunity'.
+14:49:53 Warning Message: '/' is not a value
+14:49:53 Warning Message: No entry '.lockingTargetSound'.
+14:49:53 Warning Message: Size: '/' not an array
+14:49:53 Warning Message: No entry '.lockedTargetSound'.
+14:49:53 Warning Message: Size: '/' not an array
+14:49:53 Warning Message: No entry '.muzzles'.
+14:49:53 Warning Message: Size: '/' not an array
+14:49:54 No owner
+14:49:54 No owner
+14:49:54 No owner
+14:50:06 [DZMS]: Starting DayZ Mission System.
+14:50:06 [DZMS]: DZAI Found! Using DZAI's Relations!
+14:50:06 [DZMS]: WickedAI Found! Using WickedAI's Relations!
+14:50:06 [DZMS]: Multiple Relations Detected! Unwanted AI Behaviour May Occur!
+14:50:06 [DZMS]: If Issues Arise, Decide on a Single AI System! (DayZAI, SargeAI, or WickedAI)
+14:50:06 [DZMS]: Currently Running Version: RC1.1
+14:50:06 [DZMS]: Outdated Configuration Detected! Please Update DZMS!
+14:50:06 [DZMS]: Old Versions are not supported by the Mod Author!
+14:50:06 [DZMS]: Mission and Extended Configuration Loaded!
+14:50:06 [DZMS]: chernarus Detected. Map Specific Settings Adjusted!
+14:50:06 [DZMS]: DayZ Epoch Detected! Some Scripts Adjusted!
+14:50:06 [DZMS]: Loading ExecVM Functions.
+14:50:06 [DZMS]: Loading Compiled Functions.
+14:50:06 [DZMSHotSpots]: Starting DayZ Mission System.
+14:50:06 [DZMSHotSpots]: DZAI Found! Using DZAI's Relations!
+14:50:06 [DZMSHotSpots]: WickedAI Found! Using WickedAI's Relations!
+14:50:06 [DZMSHotSpots]: Multiple Relations Detected! Unwanted AI Behaviour May Occur!
+14:50:06 [DZMSHotSpots]: If Issues Arise, Decide on a Single AI System! (DayZAI, SargeAI, or WickedAI)
+14:50:06 [DZMS]: Loading All Other Functions.
+14:50:06 [DZMS]: Mission Functions Script Loaded!
+14:50:06 [DZMSHotSpots]: Currently Running Version: 1.1FIN
+14:50:06 [DZMSHotSpots]: Mission and Extended Configuration Loaded!
+14:50:06 [DZMSHotSpots]: chernarus Detected. Map Specific Settings Adjusted!
+14:50:06 [DZMSHotSpots]: DayZ Epoch Detected! Some Scripts Adjusted!
+14:50:06 [DZMSHotSpots]: Loading ExecVM Functions.
+14:50:06 [DZMSHotSpots]: Loading Compiled Functions.
+14:50:06 [DZMSHotSpots]: Loading All Other Functions.
+14:50:06 [DZMSHotSpots]: Mission Functions Script Loaded!
+14:50:06 [DZMS]: Major Mission Clock Starting!
+14:50:06 [DZMS]: Minor Mission Clock Starting!
+14:50:06 [DZMS]: Mission Marker Loop for JIPs Starting!
+14:50:06 [DZMSHotSpots]: Major Mission Clock Starting!
+14:50:06 [DZMSHotSpots]: Minor Mission Clock Starting!
+14:50:08 "RUNNING EVENT: supply_drop on [2016,6,3,13,50]"
+14:50:08 UH1Y_DZ: ObsTurret - unknown animation source ObsTurret
+14:50:08 UH1Y_DZ: ObsGun - unknown animation source ObsGun
+14:50:08 No owner
+14:50:08 No owner
+14:50:10 No owner
+14:50:13 No owner
+14:50:14 No owner
+14:50:18 "infiSTAR.de PVAH_WriteLog: B 1-1-K:1 (Mateuus) REMOTE   Mateuus FastFire ON"
+14:50:19 "infiSTAR.de PVAH_WriteLog: B 1-1-K:1 (Mateuus) REMOTE   Mateuus G_o_d ON"
+14:50:19 "infiSTAR.de PVAH_WriteLog: B 1-1-K:1 (Mateuus) REMOTE   Mateuus FastFire OFF"
+14:50:21 "infiSTAR.de PVAH_WriteLog: B 1-1-K:1 (Aquiles) REMOTE   Aquiles G_o_d ON"
+14:50:24 "infiSTAR.de PVAH_WriteLog: B 1-1-K:1 (Aquiles) REMOTE   Aquiles adminammo_recoil ON"
+14:50:33 No owner
+14:50:48 "infiSTAR.de fnc_AdminFirstReq: [1,B 1-1-K:1 (Mateuus) REMOTE,B 1-1-K:1 (Mateuus) REMOTE,[7.79447,1578.77,0]]"
+14:50:48 "infiSTAR.de fnc_AdminReqProceed: [1,B 1-1-K:1 (Mateuus) REMOTE,B 1-1-K:1 (Mateuus) REMOTE,[7.79447,1578.77,0]]"
+14:50:54 No owner
+14:50:54 No owner
+14:50:59 "infiSTAR.de fnc_AdminFirstReq: [-2,B 1-1-K:1 (Aquiles) REMOTE,17502b00# 1066499: garbage_misc.p3d]"
+14:50:59 "infiSTAR.de fnc_AdminReqProceed: [-2,B 1-1-K:1 (Aquiles) REMOTE,17502b00# 1066499: garbage_misc.p3d]"
+14:50:59 "DELETE: 76561198056083521 Deleted by ID: 1"
+14:50:59 "infiSTAR.de PVAH_WriteLog: B 1-1-K:1 (Aquiles) REMOTE   Aquiles (76561198056083521) deleted Rubbish2 @130051 - characterID any - objectID: 1 - objectUID: 0"
+14:51:13 No owner
+14:51:22 [DZMSHotSpots]: Running Major Mission HSSupply.
+14:51:22 [DZMSHotSpots]: Major Mission HSSupply started at [4540.6,6395.9,0]
+14:51:22 No owner
+14:51:22 No owner
+14:51:22 No owner
+14:51:22 No owner
+14:51:22 No owner
+14:51:22 No owner
+14:51:22 [DZMSHotSpots]: (DZMSHotSpotsUnitsMajor) 3 AI Spawned, 3 units in mission.
+14:51:22 [DZMSHotSpots]: (DZMSHotSpotsUnitsMajor) 3 AI Spawned, 6 units in mission.
+14:51:27 [DZMSHotSpots]: (DZMSHotSpotsUnitsMajor) Waiting for 6/6 Units or Less to be Alive and a Player to be Near the Objective.
+14:51:29 "Vehicle destroyed @063020 - C130J, worldspace [323.218,[6331.05,13273.8,102.03]], CharId 0, objID 0, objUID 0, nearby []"
+14:51:33 No owner
+14:51:43 "CRASHSPAWNER: C-130J just exploded at [6309.98,13294.1,4.0345]!"
+14:51:43 "CRASHSPAWNER: Loot spawn at '[6307.17,13289,0]' with loot table 'MilitarySpecial'"
+14:51:43 "CRASHSPAWNER: Loot spawn at '[6315.83,13294.5,0]' with loot table 'MilitarySpecial'"
+14:51:43 "CRASHSPAWNER: Loot spawn at '[6302.39,13295.9,0]' with loot table 'MilitarySpecial'"
+14:51:43 "CRASHSPAWNER: Loot spawn at '[6312.66,13301.2,0]' with loot table 'MilitarySpecial'"
+14:51:43 "CRASHSPAWNER: Crash completed! Wreck at: [6309.98,13294.1,0] - Runtime: 157 Seconds || Distance from calculated POC: 322 meters"
+14:51:48 "infiSTAR.de fnc_AdminFirstReq: [1,B 1-1-K:1 (Mateuus) REMOTE,B 1-1-K:1 (Mateuus) REMOTE,[13715.3,2931.81,0]]"
+14:51:48 "infiSTAR.de fnc_AdminReqProceed: [1,B 1-1-K:1 (Mateuus) REMOTE,B 1-1-K:1 (Mateuus) REMOTE,[13715.3,2931.81,0]]"
+14:51:53 No owner
+14:51:53 No owner
+14:52:07 [DZMSHotSpots]: Running Minor Mission RBVehicleArmed.
+14:52:07 [DZMSHotSpots]: Minor Mission RBVehicleArmed started at [8923.8,11836.3,0]
+14:52:07 No owner
+14:52:07 No owner
+14:52:07 No owner
+14:52:07 No owner
+14:52:07 No owner
+14:52:07 No owner
+14:52:07 [DZMSHotSpots]: (DZMSHotSpotsUnitsMinor) 4 AI Spawned, 4 units in mission.
+14:52:12 [DZMSHotSpots]: (DZMSHotSpotsUnitsMinor) Waiting for 4/4 Units or Less to be Alive and a Player to be Near the Objective.
+14:52:26 "CLEANUP: INITIALIZING CLEANUP SCRIPT"
+14:52:33 No owner
+14:52:33 No owner
+14:53:33 Server: Object 4:189 not found (message 94)
+14:53:33 Server: Object 4:190 not found (message 94)
+14:53:43 "infiSTAR.de fnc_AdminFirstReq: [9003,B 1-1-K:1 (Mateuus) REMOTE]"
+14:53:43 "infiSTAR.de fnc_AdminReqProceed: [9003,B 1-1-K:1 (Mateuus) REMOTE]"
+14:53:43 "infiSTAR.de PVAH_WriteLog: B 1-1-K:1 (Mateuus) REMOTE   Mateuus - EPOCH-BOX @137124"
+14:53:43 Warning Message: No entry 'bin\config.bin/CfgMagazines.ItemFuelPump'.
+14:53:43 Warning Message: No entry '.picture'.
+14:53:43 Warning Message: '/' is not a value
+14:53:43 Warning Message: No entry '.scope'.
+14:53:43 Warning Message: '/' is not a value
+14:53:43 Warning Message: Error: creating magazine ItemFuelPump with scope=private
+14:53:43 Warning Message: No entry '.displayName'.
+14:53:43 Warning Message: '/' is not a value
+14:53:43 Warning Message: No entry '.displayNameShort'.
+14:53:43 Warning Message: '/' is not a value
+14:53:43 Warning Message: No entry '.nameSound'.
+14:53:43 Warning Message: '/' is not a value
+14:53:43 Warning Message: No entry '.Library'.
+14:53:43 Warning Message: No entry '.libTextDesc'.
+14:53:43 Warning Message: '/' is not a value
+14:53:43 Warning Message: No entry '.type'.
+14:53:43 Warning Message: '/' is not a value
+14:53:43 Warning Message: No entry '.count'.
+14:53:43 Warning Message: '/' is not a value
+14:53:43 Warning Message: No entry '.maxLeadSpeed'.
+14:53:43 Warning Message: '/' is not a value
+14:53:43 Warning Message: No entry '.initSpeed'.
+14:53:43 Warning Message: '/' is not a value
+14:53:43 Warning Message: No entry '.reloadAction'.
+14:53:43 Warning Message: '/' is not a value
+14:53:43 Warning Message: No entry '.modelSpecial'.
+14:53:43 Warning Message: '/' is not a value
+14:53:43 Warning Message: No entry '.ammo'.
+14:53:43 Warning Message: '/' is not a value
+14:54:27 "infiSTAR.de fnc_AdminFirstReq: [1,B 1-1-K:1 (Aquiles) REMOTE,B 1-1-K:1 (Mateuus) REMOTE,[12951.4,10177.4,0.00144386]]"
+14:54:27 "infiSTAR.de fnc_AdminReqProceed: [1,B 1-1-K:1 (Aquiles) REMOTE,B 1-1-K:1 (Mateuus) REMOTE,[12951.4,10177.4,0.00144386]]"
+14:54:27 "infiSTAR.de PVAH_WriteLog: B 1-1-K:1 (Aquiles) REMOTE   Mateuus Moved to Aquiles"
+14:54:31 Server: Object 3:179 not found (message 99)
+14:54:31 Server: Object 3:180 not found (message 91)
+14:54:31 Server: Object 3:180 not found (message 91)
+14:54:31 Server: Object 3:179 not found (message 99)
+14:54:31 Server: Object 3:179 not found (message 99)
+14:54:31 Server: Object 3:179 not found (message 99)
+14:54:31 Server: Object 3:180 not found (message 91)
+14:54:31 Server: Object 3:180 not found (message 91)
+14:54:31 Server: Object 3:179 not found (message 99)
+14:54:31 Server: Object 3:180 not found (message 91)
+14:54:31 Server: Object 3:181 not found (message 99)
+14:54:31 Server: Object 3:179 not found (message 99)
+14:54:31 Server: Object 3:180 not found (message 91)
+14:54:31 Server: Object 3:179 not found (message 99)
+14:54:31 Server: Object 3:181 not found (message 99)
+14:54:31 Server: Object 3:182 not found (message 91)
+14:54:31 Server: Object 3:179 not found (message 99)
+14:54:31 Server: Object 3:182 not found (message 91)
+14:54:31 Server: Object 3:181 not found (message 99)
+14:54:31 Server: Object 3:181 not found (message 99)
+14:54:31 Server: Object 3:179 not found (message 99)
+14:54:31 Server: Object 3:181 not found (message 99)
+14:54:31 Server: Object 3:182 not found (message 91)
+14:54:31 Server: Object 3:179 not found (message 99)
+14:54:31 Server: Object 3:181 not found (message 99)
+14:54:31 Server: Object 3:182 not found (message 91)
+14:54:31 Server: Object 3:181 not found (message 99)
+14:54:31 Server: Object 3:179 not found (message 99)
+14:54:31 Server: Object 3:181 not found (message 99)
+14:54:31 Server: Object 3:182 not found (message 91)
+14:54:31 Server: Object 3:179 not found (message 99)
+14:54:31 Server: Object 3:181 not found (message 99)
+14:54:32 Server: Object 3:184 not found (message 91)
+14:54:32 Server: Object 3:183 not found (message 99)
+14:54:32 Server: Object 3:183 not found (message 99)
+14:54:32 Server: Object 3:184 not found (message 91)
+14:54:32 Server: Object 3:183 not found (message 99)
+14:54:32 Server: Object 3:184 not found (message 91)
+14:54:32 Server: Object 3:184 not found (message 91)
+14:54:32 Server: Object 3:183 not found (message 99)
+14:54:32 Server: Object 3:183 not found (message 99)
+14:54:32 Server: Object 3:186 not found (message 91)
+14:54:32 Server: Object 3:183 not found (message 99)
+14:54:32 Server: Object 3:185 not found (message 99)
+14:54:32 Server: Object 3:183 not found (message 99)
+14:54:32 Server: Object 3:185 not found (message 99)
+14:54:32 Server: Object 3:186 not found (message 91)
+14:54:32 Server: Object 3:183 not found (message 99)
+14:54:32 "infiSTAR.de PVAH_WriteLog: B 1-1-K:1 (Aquiles) REMOTE   Aquiles Moving to Mateuus"
+14:54:32 Server: Object 3:183 not found (message 99)
+14:54:33 "infiSTAR.de fnc_AdminFirstReq: [1,B 1-1-K:1 (Mateuus) REMOTE,B 1-1-K:1 (Mateuus) REMOTE,[13714,2935.03,0]]"
+14:54:33 "infiSTAR.de fnc_AdminReqProceed: [1,B 1-1-K:1 (Mateuus) REMOTE,B 1-1-K:1 (Mateuus) REMOTE,[13714,2935.03,0]]"
+14:54:37 No owner
+14:54:44 "infiSTAR.de PVAH_WriteLog: B 1-1-K:1 (Aquiles) REMOTE   Aquiles Moving to Mateuus"
+14:54:44 "DZAI Monitor :: Server Uptime: [0d 0h 7m 19s]. Active AI Groups: 14."
+14:54:44 "DZAI Monitor :: Static Spawns: 2. Respawn Queue: 1 groups queued."
+14:54:44 "DZAI Monitor :: Dynamic Spawns: 0. Air Patrols: 3. Land Patrols: 9. Sea Patrols: 0."
+14:55:09 "RUNNING EVENT: Construction on [2016,6,3,13,55]"
+14:55:09 "Spawning loot event at [3822.44,9205.1]"
+14:55:09 "Creating ammo box at [3849.44,9414.76]"
+14:55:09 "Loot event setup, waiting for 900 seconds"
+14:55:15 Server: Object 3:215 not found (message 70)
+14:55:15 Server: Object 3:216 not found (message 94)
+14:55:15 Server: Object 3:235 not found (message 70)
+14:55:15 Server: Object 3:234 not found (message 70)
+14:55:15 Server: Object 3:217 not found (message 94)
+14:55:15 Server: Object 3:218 not found (message 94)
+14:55:15 Server: Object 3:219 not found (message 94)
+14:55:15 Server: Object 3:220 not found (message 94)
+14:55:15 Server: Object 3:221 not found (message 94)
+14:55:15 Server: Object 3:222 not found (message 94)
+14:55:15 Server: Object 3:223 not found (message 94)
+14:55:15 Server: Object 3:224 not found (message 94)
+14:55:15 Server: Object 3:225 not found (message 94)
+14:55:15 Server: Object 3:226 not found (message 94)
+14:55:15 Server: Object 3:227 not found (message 94)
+14:55:15 Server: Object 3:228 not found (message 94)
+14:55:15 Server: Object 3:229 not found (message 94)
+14:55:15 Server: Object 3:230 not found (message 94)
+14:55:15 Server: Object 3:231 not found (message 94)
+14:55:15 Server: Object 3:232 not found (message 94)
+14:55:15 Server: Object 3:233 not found (message 94)
+14:55:15 Server: Object 3:260 not found (message 94)
+14:55:15 Server: Object 3:258 not found (message 70)
+14:55:15 Server: Object 3:287 not found (message 70)
+14:55:15 Server: Object 3:259 not found (message 70)
+14:55:15 Server: Object 3:286 not found (message 70)
+14:55:15 Server: Object 3:285 not found (message 70)
+14:55:15 Server: Object 3:248 not found (message 94)
+14:55:15 Server: Object 3:249 not found (message 94)
+14:55:15 Server: Object 3:250 not found (message 94)
+14:55:15 Server: Object 3:251 not found (message 94)
+14:55:15 Server: Object 3:252 not found (message 94)
+14:55:15 Server: Object 3:253 not found (message 94)
+14:55:15 Server: Object 3:254 not found (message 94)
+14:55:15 Server: Object 3:255 not found (message 94)
+14:55:15 Server: Object 3:256 not found (message 94)
+14:55:15 Server: Object 3:257 not found (message 94)
+14:55:15 Server: Object 3:272 not found (message 94)
+14:55:15 Server: Object 3:261 not found (message 94)
+14:55:15 Server: Object 3:262 not found (message 94)
+14:55:15 Server: Object 3:263 not found (message 94)
+14:55:15 Server: Object 3:264 not found (message 94)
+14:55:15 Server: Object 3:265 not found (message 94)
+14:55:15 Server: Object 3:266 not found (message 94)
+14:55:15 Server: Object 3:267 not found (message 94)
+14:55:15 Server: Object 3:268 not found (message 94)
+14:55:15 Server: Object 3:269 not found (message 94)
+14:55:15 Server: Object 3:270 not found (message 94)
+14:55:15 Server: Object 3:271 not found (message 94)
+14:55:15 Server: Object 3:278 not found (message 70)
+14:55:15 Server: Object 3:273 not found (message 94)
+14:55:15 Server: Object 3:274 not found (message 94)
+14:55:15 Server: Object 3:275 not found (message 94)
+14:55:15 Server: Object 3:276 not found (message 94)
+14:55:15 Server: Object 3:277 not found (message 94)
+14:55:15 Server: Object 3:284 not found (message 94)
+14:55:15 Server: Object 3:279 not found (message 94)
+14:55:15 Server: Object 3:280 not found (message 94)
+14:55:15 Server: Object 3:281 not found (message 94)
+14:55:15 Server: Object 3:282 not found (message 94)
+14:55:15 Server: Object 3:283 not found (message 94)
+14:55:15 Server: Object 3:304 not found (message 94)
+14:55:15 Server: Object 3:303 not found (message 94)
+14:55:15 Server: Object 3:325 not found (message 70)
+14:55:15 Server: Object 3:324 not found (message 94)
+14:55:15 Server: Object 3:323 not found (message 70)
+14:55:15 Server: Object 3:305 not found (message 94)
+14:55:15 Server: Object 3:322 not found (message 94)
+14:55:15 Server: Object 3:288 not found (message 94)
+14:55:15 Server: Object 3:289 not found (message 94)
+14:55:15 Server: Object 3:290 not found (message 94)
+14:55:15 Server: Object 3:291 not found (message 94)
+14:55:15 Server: Object 3:292 not found (message 94)
+14:55:15 Server: Object 3:293 not found (message 94)
+14:55:15 Server: Object 3:294 not found (message 94)
+14:55:15 Server: Object 3:295 not found (message 94)
+14:55:15 Server: Object 3:296 not found (message 94)
+14:55:15 Server: Object 3:297 not found (message 94)
+14:55:15 Server: Object 3:298 not found (message 94)
+14:55:15 Server: Object 3:299 not found (message 94)
+14:55:15 Server: Object 3:300 not found (message 94)
+14:55:15 Server: Object 3:301 not found (message 94)
+14:55:15 Server: Object 3:302 not found (message 94)
+14:55:15 Server: Object 3:321 not found (message 94)
+14:55:15 Server: Object 3:313 not found (message 94)
+14:55:15 Server: Object 3:306 not found (message 94)
+14:55:15 Server: Object 3:307 not found (message 94)
+14:55:15 Server: Object 3:308 not found (message 94)
+14:55:15 Server: Object 3:309 not found (message 94)
+14:55:15 Server: Object 3:310 not found (message 94)
+14:55:15 Server: Object 3:311 not found (message 94)
+14:55:15 Server: Object 3:312 not found (message 94)
+14:55:15 Server: Object 3:317 not found (message 94)
+14:55:15 Server: Object 3:314 not found (message 94)
+14:55:15 Server: Object 3:315 not found (message 94)
+14:55:15 Server: Object 3:316 not found (message 94)
+14:55:15 Server: Object 3:318 not found (message 94)
+14:55:15 Server: Object 3:319 not found (message 94)
+14:55:15 Server: Object 3:320 not found (message 94)
+14:55:16 Server: Object 3:328 not found (message 70)
+14:55:16 Server: Object 3:330 not found (message 70)
+14:55:16 Server: Object 3:329 not found (message 70)
+14:55:16 Server: Object 3:326 not found (message 94)
+14:55:16 Server: Object 3:327 not found (message 70)
+14:56:09 "Vehicle destroyed @093040 - AN2_DZ, worldspace [180.813,[9381.48,11327,98.0544]], CharId 0, objID 0, objUID 0, nearby []"
+14:56:15 "CRASHSPAWNER: AN2 Cargo Plane just exploded at [9386.66,11296.3,3.31448]!"
+14:56:15 Cannot create non-ai vehicle AN2Wreck,
+14:56:15 "CRASHSPAWNER: Loot spawn at '[9391,11292.6,0]' with loot table 'MilitarySpecial'"
+14:56:15 Warning Message: No entry 'bin\config.bin/CfgWeapons.vil_MP5SD_EOTech'.
+14:56:15 Warning Message: No entry '.scope'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: Error: creating weapon vil_MP5SD_EOTech with scope=private
+14:56:15 Warning Message: No entry '.displayName'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: No entry '.nameSound'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: No entry '.type'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: No entry '.picture'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: No entry '.Library'.
+14:56:15 Warning Message: No entry '.libTextDesc'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: No entry '.model'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: No entry '.simulation'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: No entry '.fireLightDuration'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: No entry '.fireLightIntensity'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: No entry '.weaponLockDelay'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: No entry '.weaponLockSystem'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: No entry '.cmImmunity'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: No entry '.lockingTargetSound'.
+14:56:15 Warning Message: Size: '/' not an array
+14:56:15 Warning Message: No entry '.lockedTargetSound'.
+14:56:15 Warning Message: Size: '/' not an array
+14:56:15 Warning Message: No entry '.muzzles'.
+14:56:15 Warning Message: Size: '/' not an array
+14:56:15 "CRASHSPAWNER: Loot spawn at '[9378.53,11297.1,0]' with loot table 'MilitarySpecial'"
+14:56:15 "CRASHSPAWNER: Loot spawn at '[9389.98,11284.7,0]' with loot table 'MilitarySpecial'"
+14:56:15 "CRASHSPAWNER: Loot spawn at '[9380.12,11308.1,0]' with loot table 'MilitarySpecial'"
+14:56:15 "CRASHSPAWNER: Loot spawn at '[9383.97,11311.7,0]' with loot table 'MilitarySpecial'"
+14:56:15 "CRASHSPAWNER: Loot spawn at '[9387.8,11303.3,0]' with loot table 'MilitarySpecial'"
+14:56:15 Warning Message: No entry 'bin\config.bin/CfgMagazines.RH_8Rnd_9x19_Mk'.
+14:56:15 Warning Message: No entry '.picture'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: No entry '.scope'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: Error: creating magazine RH_8Rnd_9x19_Mk with scope=private
+14:56:15 Warning Message: No entry '.displayName'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: No entry '.displayNameShort'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: No entry '.nameSound'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: No entry '.Library'.
+14:56:15 Warning Message: No entry '.libTextDesc'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: No entry '.type'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: No entry '.count'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: No entry '.maxLeadSpeed'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: No entry '.initSpeed'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: No entry '.reloadAction'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: No entry '.modelSpecial'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: No entry '.ammo'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: No entry '.model'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: No entry 'bin\config.bin/CfgMagazines.vil_usp45sd_mag'.
+14:56:15 Warning Message: No entry '.picture'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: No entry '.scope'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: Error: creating magazine vil_usp45sd_mag with scope=private
+14:56:15 Warning Message: No entry '.displayName'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: No entry '.displayNameShort'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: No entry '.nameSound'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: No entry '.Library'.
+14:56:15 Warning Message: No entry '.libTextDesc'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: No entry '.type'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: No entry '.count'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: No entry '.maxLeadSpeed'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: No entry '.initSpeed'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: No entry '.reloadAction'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: No entry '.modelSpecial'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: No entry '.ammo'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: No entry '.model'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 "CRASHSPAWNER: Loot spawn at '[9391.21,11294.6,0]' with loot table 'MilitarySpecial'"
+14:56:15 "CRASHSPAWNER: Loot spawn at '[9382,11289.1,0]' with loot table 'MilitarySpecial'"
+14:56:15 "CRASHSPAWNER: Loot spawn at '[9381.94,11299,0]' with loot table 'MilitarySpecial'"
+14:56:15 Warning Message: No entry 'bin\config.bin/CfgMagazines.vil_32Rnd_UZI_SD'.
+14:56:15 Warning Message: No entry '.picture'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: No entry '.scope'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: Error: creating magazine vil_32Rnd_UZI_SD with scope=private
+14:56:15 Warning Message: No entry '.displayName'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: No entry '.displayNameShort'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: No entry '.nameSound'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: No entry '.Library'.
+14:56:15 Warning Message: No entry '.libTextDesc'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: No entry '.type'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: No entry '.count'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: No entry '.maxLeadSpeed'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: No entry '.initSpeed'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: No entry '.reloadAction'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: No entry '.modelSpecial'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: No entry '.ammo'.
+14:56:15 Warning Message: '/' is not a value
+14:56:15 Warning Message: No entry '.model'.
+14:56:15 Warning Message: '/' is not a value
+14:56:16 Warning Message: No entry 'bin\config.bin/CfgMagazines.RH_10Rnd_22LR_mk2'.
+14:56:16 Warning Message: No entry '.picture'.
+14:56:16 Warning Message: '/' is not a value
+14:56:16 Warning Message: No entry '.scope'.
+14:56:16 Warning Message: '/' is not a value
+14:56:16 Warning Message: Error: creating magazine RH_10Rnd_22LR_mk2 with scope=private
+14:56:16 Warning Message: No entry '.displayName'.
+14:56:16 Warning Message: '/' is not a value
+14:56:16 Warning Message: No entry '.displayNameShort'.
+14:56:16 Warning Message: '/' is not a value
+14:56:16 Warning Message: No entry '.nameSound'.
+14:56:16 Warning Message: '/' is not a value
+14:56:16 Warning Message: No entry '.Library'.
+14:56:16 Warning Message: No entry '.libTextDesc'.
+14:56:16 Warning Message: '/' is not a value
+14:56:16 Warning Message: No entry '.type'.
+14:56:16 Warning Message: '/' is not a value
+14:56:16 Warning Message: No entry '.count'.
+14:56:16 Warning Message: '/' is not a value
+14:56:16 Warning Message: No entry '.maxLeadSpeed'.
+14:56:16 Warning Message: '/' is not a value
+14:56:16 Warning Message: No entry '.initSpeed'.
+14:56:16 Warning Message: '/' is not a value
+14:56:16 Warning Message: No entry '.reloadAction'.
+14:56:16 Warning Message: '/' is not a value
+14:56:16 Warning Message: No entry '.modelSpecial'.
+14:56:16 Warning Message: '/' is not a value
+14:56:16 Warning Message: No entry '.ammo'.
+14:56:16 Warning Message: '/' is not a value
+14:56:16 Warning Message: No entry '.model'.
+14:56:16 Warning Message: '/' is not a value
+14:56:16 "CRASHSPAWNER: Loot spawn at '[9389.54,11289.3,0]' with loot table 'MilitarySpecial'"
+14:56:16 "CRASHSPAWNER: Loot spawn at '[9383.74,11292,0]' with loot table 'MilitarySpecial'"
+14:56:16 "CRASHSPAWNER: Crash completed! Wreck at: [9386.66,11296.3,0] - Runtime: 429 Seconds || Distance from calculated POC: 1e+010 meters"
+14:56:19 "WAI: [Mission:[Hero] Ural Attack]: Starting... [12562,11298.7,0]"
+14:56:19 No owner
+14:56:19 No owner
+14:56:19 No owner
+14:56:19 No owner
+14:56:20 Error in expression <n {
+for "_i" from 1 to _mags do {
+_unit addMagazine _magazine;
+};
+_unit addweapo>
+14:56:20   Error position: <addMagazine _magazine;
+};
+_unit addweapo>
+14:56:20   Error addmagazine: Type Bool, expected Array,String
+14:56:20 File z\addons\dayz_server\WAI\compile\spawn_group.sqf, line 141
+14:56:24 No owner
+14:57:25 "DELETE: B 1-1-K:1 (Mateuus) REMOTE Deleted by UID: 137101294870236"
+14:57:25 "PUBLISH: B 1-1-K:1 (Mateuus) REMOTE upgraded CinderWallDoorSmall_DZ with ID "137101294870236""
+14:57:26 "TIME SYNC: Local Time set to [2013,8,3,13,57]"
+14:58:01 "DELETE: B 1-1-K:1 (Mateuus) REMOTE Deleted by UID: 137101294870236"
+14:58:01 "PUBLISH: B 1-1-K:1 (Mateuus) REMOTE upgraded CinderWallDoorSmallLocked_DZ with ID "137101294870236""
+14:59:33 "PLAYERHIT: B 1-1-K:1 (Mateuus) REMOTE was hit by B 1-1-K:1 (Aquiles) REMOTE with M4A1 CCO SD from 3.13203m with 0.505472 dmg"
+14:59:35 "PLAYERHIT: B 1-1-K:1 (Mateuus) REMOTE was hit by B 1-1-K:1 (Aquiles) REMOTE with M4A1 CCO SD from 2.14718m with 0.504038 dmg"
+14:59:35 "PLAYERHIT: B 1-1-K:1 (Mateuus) REMOTE was hit by B 1-1-K:1 (Aquiles) REMOTE with M4A1 CCO SD from 2.14718m with 0.504032 dmg"
+14:59:35 "PLAYERHIT: B 1-1-K:1 (Mateuus) REMOTE was hit by B 1-1-K:1 (Aquiles) REMOTE with M4A1 CCO SD from 2.14718m with 0.504032 dmg"
+14:59:35 "PLAYERHIT: B 1-1-K:1 (Mateuus) REMOTE was hit by B 1-1-K:1 (Aquiles) REMOTE with M4A1 CCO SD from 2.14718m with 0.504031 dmg"
+14:59:35 "PLAYERHIT: B 1-1-K:1 (Mateuus) REMOTE was hit by B 1-1-K:1 (Aquiles) REMOTE with M4A1 CCO SD from 2.14718m with 0.504031 dmg"
+14:59:35 "PLAYERHIT: B 1-1-K:1 (Mateuus) REMOTE was hit by B 1-1-K:1 (Aquiles) REMOTE with M4A1 CCO SD from 2.14718m with 0.504031 dmg"
+14:59:35 "PLAYERHIT: B 1-1-K:1 (Mateuus) REMOTE was hit by B 1-1-K:1 (Aquiles) REMOTE with M4A1 CCO SD from 2.14718m with 0.504031 dmg"
+14:59:35 "PLAYERHIT: B 1-1-K:1 (Mateuus) REMOTE was hit by B 1-1-K:1 (Aquiles) REMOTE with M4A1 CCO SD from 2.14718m with 0.50403 dmg"
+14:59:35 "PLAYERHIT: B 1-1-K:1 (Mateuus) REMOTE was hit by B 1-1-K:1 (Aquiles) REMOTE with M4A1 CCO SD from 2.14718m with 0.50403 dmg"
+14:59:35 "PLAYERHIT: B 1-1-K:1 (Mateuus) REMOTE was hit by B 1-1-K:1 (Aquiles) REMOTE with M4A1 CCO SD from 2.14718m with 0.504029 dmg"
+14:59:36 "PLAYERHIT: B 1-1-K:1 (Mateuus) REMOTE was hit by B 1-1-K:1 (Aquiles) REMOTE with M4A1 CCO SD from 2.14718m with 0.504029 dmg"
+14:59:36 "PLAYERHIT: B 1-1-K:1 (Mateuus) REMOTE was hit by B 1-1-K:1 (Aquiles) REMOTE with M4A1 CCO SD from 2.14718m with 0.504029 dmg"
+14:59:36 "PLAYERHIT: B 1-1-K:1 (Mateuus) REMOTE was hit by B 1-1-K:1 (Aquiles) REMOTE with M4A1 CCO SD from 2.14718m with 0.504029 dmg"
+14:59:36 "PLAYERHIT: B 1-1-K:1 (Mateuus) REMOTE was hit by B 1-1-K:1 (Aquiles) REMOTE with M4A1 CCO SD from 2.14718m with 0.504029 dmg"
+14:59:36 "PLAYERHIT: B 1-1-K:1 (Mateuus) REMOTE was hit by B 1-1-K:1 (Aquiles) REMOTE with M4A1 CCO SD from 2.14718m with 0.504029 dmg"
+14:59:36 "PLAYERHIT: B 1-1-K:1 (Mateuus) REMOTE was hit by B 1-1-K:1 (Aquiles) REMOTE with M4A1 CCO SD from 2.14718m with 0.504029 dmg"
+14:59:36 "PLAYERHIT: B 1-1-K:1 (Mateuus) REMOTE was hit by B 1-1-K:1 (Aquiles) REMOTE with M4A1 CCO SD from 2.14718m with 0.504028 dmg"
+14:59:36 "PLAYERHIT: B 1-1-K:1 (Mateuus) REMOTE was hit by B 1-1-K:1 (Aquiles) REMOTE with M4A1 CCO SD from 2.14718m with 0.504029 dmg"
+14:59:36 "PLAYERHIT: B 1-1-K:1 (Mateuus) REMOTE was hit by B 1-1-K:1 (Aquiles) REMOTE with M4A1 CCO SD from 2.14718m with 0.504028 dmg"
+14:59:36 "PLAYERHIT: B 1-1-K:1 (Mateuus) REMOTE was hit by B 1-1-K:1 (Aquiles) REMOTE with M4A1 CCO SD from 2.14718m with 0.504028 dmg"
+14:59:37 "PLAYERHIT: B 1-1-K:1 (Mateuus) REMOTE was hit by B 1-1-K:1 (Aquiles) REMOTE with M4A1 CCO SD from 2.14718m with 0.504033 dmg"
+14:59:37 "PLAYERHIT: B 1-1-K:1 (Mateuus) REMOTE was hit by B 1-1-K:1 (Aquiles) REMOTE with M4A1 CCO SD from 2.14718m with 0.503987 dmg"
+14:59:37 "PLAYERHIT: B 1-1-K:1 (Mateuus) REMOTE was hit by B 1-1-K:1 (Aquiles) REMOTE with M4A1 CCO SD from 2.14718m with 0.504 dmg"
+14:59:38 "PLAYERHIT: B 1-1-K:1 (Mateuus) REMOTE was hit by B 1-1-K:1 (Aquiles) REMOTE with M4A1 CCO SD from 2.14718m with 0.503989 dmg"
+14:59:38 "PLAYERHIT: B 1-1-K:1 (Mateuus) REMOTE was hit by B 1-1-K:1 (Aquiles) REMOTE with M4A1 CCO SD from 2.14718m with 0.503984 dmg"
+14:59:38 "PLAYERHIT: B 1-1-K:1 (Mateuus) REMOTE was hit by B 1-1-K:1 (Aquiles) REMOTE with M4A1 CCO SD from 2.14718m with 0.503987 dmg"
+14:59:38 "PLAYERHIT: B 1-1-K:1 (Mateuus) REMOTE was hit by B 1-1-K:1 (Aquiles) REMOTE with M4A1 CCO SD from 2.14718m with 0.503986 dmg"
+14:59:38 "PLAYERHIT: B 1-1-K:1 (Mateuus) REMOTE was hit by B 1-1-K:1 (Aquiles) REMOTE with M4A1 CCO SD from 2.14718m with 0.503974 dmg"
+14:59:39 "PLAYERHIT: B 1-1-K:1 (Mateuus) REMOTE was hit by B 1-1-K:1 (Aquiles) REMOTE with M4A1 CCO SD from 2.14734m with 0.503899 dmg"
+14:59:39 "PLAYERHIT: B 1-1-K:1 (Mateuus) REMOTE was hit by B 1-1-K:1 (Aquiles) REMOTE with M4A1 CCO SD from 2.15498m with 0.503896 dmg"
+14:59:44 "infiSTAR.de PVAH_WriteLog: B 1-1-K:1 (Aquiles) REMOTE   Aquiles G_o_d OFF"
+14:59:45 "DZAI Monitor :: Server Uptime: [0d 0h 12m 20s]. Active AI Groups: 12."
+14:59:45 "DZAI Monitor :: Static Spawns: 0. Respawn Queue: 0 groups queued."
+14:59:45 "DZAI Monitor :: Dynamic Spawns: 0. Air Patrols: 3. Land Patrols: 9. Sea Patrols: 0."
+14:59:47 "PLAYERHIT: B 1-1-K:1 (Mateuus) REMOTE was hit by B 1-1-K:1 (Aquiles) REMOTE with M4A1 CCO SD from 2.13612m with 0.0500319 dmg"
+14:59:47 "PLAYERHIT: B 1-1-K:1 (Mateuus) REMOTE was hit by B 1-1-K:1 (Aquiles) REMOTE with M4A1 CCO SD from 2.13612m with 0.504038 dmg"
+14:59:47 "PLAYERHIT: B 1-1-K:1 (Mateuus) REMOTE was hit by B 1-1-K:1 (Aquiles) REMOTE with M4A1 CCO SD from 2.13612m with 0.504033 dmg"
+14:59:48 "PLAYERHIT: B 1-1-K:1 (Mateuus) REMOTE was hit by B 1-1-K:1 (Aquiles) REMOTE with M4A1 CCO SD from 2.13612m with 0.504027 dmg"
+14:59:48 "PLAYERHIT: B 1-1-K:1 (Mateuus) REMOTE was hit by B 1-1-K:1 (Aquiles) REMOTE with M4A1 CCO SD from 2.13612m with 0.504025 dmg"
+14:59:48 "PLAYERHIT: B 1-1-K:1 (Mateuus) REMOTE was hit by B 1-1-K:1 (Aquiles) REMOTE with M4A1 CCO SD from 2.13612m with 0.504027 dmg"
+14:59:48 "PLAYERHIT: B 1-1-K:1 (Mateuus) REMOTE was hit by B 1-1-K:1 (Aquiles) REMOTE with M4A1 CCO SD from 2.13612m with 0.50403 dmg"
+14:59:48 "PLAYERHIT: B 1-1-K:1 (Mateuus) REMOTE was hit by B 1-1-K:1 (Aquiles) REMOTE with M4A1 CCO SD from 2.13612m with 0.504031 dmg"
+14:59:48 "PLAYERHIT: B 1-1-K:1 (Mateuus) REMOTE was hit by B 1-1-K:1 (Aquiles) REMOTE with M4A1 CCO SD from 2.13612m with 0.50403 dmg"
+14:59:48 "PLAYERHIT: B 1-1-K:1 (Mateuus) REMOTE was hit by B 1-1-K:1 (Aquiles) REMOTE with M4A1 CCO SD from 2.13612m with 0.50403 dmg"
+14:59:51 "infiSTAR.de PVAH_WriteLog: B 1-1-K:1 (Aquiles) REMOTE   Aquiles G_o_d ON"
+14:59:52 "infiSTAR.de PVAH_WriteLog: B 1-1-K:1 (Aquiles) REMOTE   Aquiles FastFire ON"
+15:00:06 "infiSTAR.de PVAH_WriteLog: B 1-1-K:1 (Aquiles) REMOTE   Aquiles FastFire OFF"
+15:00:09 "RUNNING EVENT: crash_spawner on [2016,6,3,14,0]"
+15:00:09 UH60Wreck_DZ: MainTurret - unknown animation source mainTurret
+15:00:09 UH60Wreck_DZ: MainGun - unknown animation source mainGun
+15:00:09 UH60Wreck_DZ: MachineGun_1 - unknown animation source Gatling_1
+15:00:09 Warning Message: No entry 'bin\config.bin/CfgMagazines.vil_usp45sd_mag'.
+15:00:09 Warning Message: No entry '.picture'.
+15:00:09 Warning Message: '/' is not a value
+15:00:09 Warning Message: No entry '.scope'.
+15:00:09 Warning Message: '/' is not a value
+15:00:09 Warning Message: Error: creating magazine vil_usp45sd_mag with scope=private
+15:00:09 Warning Message: No entry '.displayName'.
+15:00:09 Warning Message: '/' is not a value
+15:00:09 Warning Message: No entry '.displayNameShort'.
+15:00:09 Warning Message: '/' is not a value
+15:00:09 Warning Message: No entry '.nameSound'.
+15:00:09 Warning Message: '/' is not a value
+15:00:09 Warning Message: No entry '.Library'.
+15:00:09 Warning Message: No entry '.libTextDesc'.
+15:00:09 Warning Message: '/' is not a value
+15:00:09 Warning Message: No entry '.type'.
+15:00:09 Warning Message: '/' is not a value
+15:00:09 Warning Message: No entry '.count'.
+15:00:09 Warning Message: '/' is not a value
+15:00:09 Warning Message: No entry '.maxLeadSpeed'.
+15:00:09 Warning Message: '/' is not a value
+15:00:09 Warning Message: No entry '.initSpeed'.
+15:00:09 Warning Message: '/' is not a value
+15:00:09 Warning Message: No entry '.reloadAction'.
+15:00:09 Warning Message: '/' is not a value
+15:00:09 Warning Message: No entry '.modelSpecial'.
+15:00:09 Warning Message: '/' is not a value
+15:00:09 Warning Message: No entry '.ammo'.
+15:00:09 Warning Message: '/' is not a value
+15:00:09 Warning Message: No entry '.model'.
+15:00:09 Warning Message: '/' is not a value
+15:00:09 Warning Message: No entry 'bin\config.bin/CfgWeapons.vil_Mg3'.
+15:00:09 Warning Message: No entry '.scope'.
+15:00:09 Warning Message: '/' is not a value
+15:00:09 Warning Message: Error: creating weapon vil_Mg3 with scope=private
+15:00:09 Warning Message: No entry '.displayName'.
+15:00:09 Warning Message: '/' is not a value
+15:00:09 Warning Message: No entry '.nameSound'.
+15:00:09 Warning Message: '/' is not a value
+15:00:09 Warning Message: No entry '.type'.
+15:00:09 Warning Message: '/' is not a value
+15:00:09 Warning Message: No entry '.picture'.
+15:00:09 Warning Message: '/' is not a value
+15:00:09 Warning Message: No entry '.Library'.
+15:00:09 Warning Message: No entry '.libTextDesc'.
+15:00:09 Warning Message: '/' is not a value
+15:00:09 Warning Message: No entry '.model'.
+15:00:09 Warning Message: '/' is not a value
+15:00:09 Warning Message: No entry '.simulation'.
+15:00:09 Warning Message: '/' is not a value
+15:00:09 Warning Message: No entry '.fireLightDuration'.
+15:00:09 Warning Message: '/' is not a value
+15:00:09 Warning Message: No entry '.fireLightIntensity'.
+15:00:09 Warning Message: '/' is not a value
+15:00:09 Warning Message: No entry '.weaponLockDelay'.
+15:00:09 Warning Message: '/' is not a value
+15:00:09 Warning Message: No entry '.weaponLockSystem'.
+15:00:09 Warning Message: '/' is not a value
+15:00:09 Warning Message: No entry '.cmImmunity'.
+15:00:09 Warning Message: '/' is not a value
+15:00:09 Warning Message: No entry '.lockingTargetSound'.
+15:00:09 Warning Message: Size: '/' not an array
+15:00:09 Warning Message: No entry '.lockedTargetSound'.
+15:00:09 Warning Message: Size: '/' not an array
+15:00:09 Warning Message: No entry '.muzzles'.
+15:00:09 Warning Message: Size: '/' not an array
+15:02:26 "TIME SYNC: Local Time set to [2013,8,3,14,2]"
+15:03:19 [DZMS]: Running Minor Mission SM6.
+15:03:21 Warning Message: No entry 'bin\config.bin/CfgWeapons.RH_m1911'.
+15:03:21 Warning Message: No entry '.scope'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: Error: creating weapon RH_m1911 with scope=private
+15:03:21 Warning Message: No entry '.displayName'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.nameSound'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.type'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.picture'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.Library'.
+15:03:21 Warning Message: No entry '.libTextDesc'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.model'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.simulation'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.fireLightDuration'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.fireLightIntensity'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.weaponLockDelay'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.weaponLockSystem'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.cmImmunity'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.lockingTargetSound'.
+15:03:21 Warning Message: Size: '/' not an array
+15:03:21 Warning Message: No entry '.lockedTargetSound'.
+15:03:21 Warning Message: Size: '/' not an array
+15:03:21 Warning Message: No entry '.muzzles'.
+15:03:21 Warning Message: Size: '/' not an array
+15:03:21 Warning Message: No entry 'bin\config.bin/CfgWeapons.RH_tt33'.
+15:03:21 Warning Message: No entry '.scope'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: Error: creating weapon RH_tt33 with scope=private
+15:03:21 Warning Message: No entry '.displayName'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.nameSound'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.type'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.picture'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.Library'.
+15:03:21 Warning Message: No entry '.libTextDesc'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.model'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.simulation'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.fireLightDuration'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.fireLightIntensity'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.weaponLockDelay'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.weaponLockSystem'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.cmImmunity'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.lockingTargetSound'.
+15:03:21 Warning Message: Size: '/' not an array
+15:03:21 Warning Message: No entry '.lockedTargetSound'.
+15:03:21 Warning Message: Size: '/' not an array
+15:03:21 Warning Message: No entry '.muzzles'.
+15:03:21 Warning Message: Size: '/' not an array
+15:03:21 Warning Message: No entry 'bin\config.bin/CfgWeapons.RH_hk417sacog'.
+15:03:21 Warning Message: No entry '.scope'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: Error: creating weapon RH_hk417sacog with scope=private
+15:03:21 Warning Message: No entry '.displayName'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.nameSound'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.type'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.picture'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.Library'.
+15:03:21 Warning Message: No entry '.libTextDesc'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.model'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.simulation'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.fireLightDuration'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.fireLightIntensity'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.weaponLockDelay'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.weaponLockSystem'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.cmImmunity'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.lockingTargetSound'.
+15:03:21 Warning Message: Size: '/' not an array
+15:03:21 Warning Message: No entry '.lockedTargetSound'.
+15:03:21 Warning Message: Size: '/' not an array
+15:03:21 Warning Message: No entry '.muzzles'.
+15:03:21 Warning Message: Size: '/' not an array
+15:03:21 Warning Message: No entry 'bin\config.bin/CfgWeapons.vil_AKMS_GP25'.
+15:03:21 Warning Message: No entry '.scope'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: Error: creating weapon vil_AKMS_GP25 with scope=private
+15:03:21 Warning Message: No entry '.displayName'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.nameSound'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.type'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.picture'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.Library'.
+15:03:21 Warning Message: No entry '.libTextDesc'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.model'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.simulation'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.fireLightDuration'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.fireLightIntensity'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.weaponLockDelay'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.weaponLockSystem'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.cmImmunity'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.lockingTargetSound'.
+15:03:21 Warning Message: Size: '/' not an array
+15:03:21 Warning Message: No entry '.lockedTargetSound'.
+15:03:21 Warning Message: Size: '/' not an array
+15:03:21 Warning Message: No entry '.muzzles'.
+15:03:21 Warning Message: Size: '/' not an array
+15:03:21 Warning Message: No entry 'bin\config.bin/CfgWeapons.RH_m9'.
+15:03:21 Warning Message: No entry '.scope'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: Error: creating weapon RH_m9 with scope=private
+15:03:21 Warning Message: No entry '.displayName'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.nameSound'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.type'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.picture'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.Library'.
+15:03:21 Warning Message: No entry '.libTextDesc'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.model'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.simulation'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.fireLightDuration'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.fireLightIntensity'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.weaponLockDelay'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.weaponLockSystem'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.cmImmunity'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.lockingTargetSound'.
+15:03:21 Warning Message: Size: '/' not an array
+15:03:21 Warning Message: No entry '.lockedTargetSound'.
+15:03:21 Warning Message: Size: '/' not an array
+15:03:21 Warning Message: No entry '.muzzles'.
+15:03:21 Warning Message: Size: '/' not an array
+15:03:21 Warning Message: No entry 'bin\config.bin/CfgWeapons.FHQ_ACR_TAN_G33_GL'.
+15:03:21 Warning Message: No entry '.scope'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: Error: creating weapon FHQ_ACR_TAN_G33_GL with scope=private
+15:03:21 Warning Message: No entry '.displayName'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.nameSound'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.type'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.picture'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.Library'.
+15:03:21 Warning Message: No entry '.libTextDesc'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.model'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.simulation'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.fireLightDuration'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.fireLightIntensity'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.weaponLockDelay'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.weaponLockSystem'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.cmImmunity'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.lockingTargetSound'.
+15:03:21 Warning Message: Size: '/' not an array
+15:03:21 Warning Message: No entry '.lockedTargetSound'.
+15:03:21 Warning Message: Size: '/' not an array
+15:03:21 Warning Message: No entry '.muzzles'.
+15:03:21 Warning Message: Size: '/' not an array
+15:03:21 Warning Message: No entry 'bin\config.bin/CfgWeapons.FHQ_ACR_SNW_TWS'.
+15:03:21 Warning Message: No entry '.scope'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: Error: creating weapon FHQ_ACR_SNW_TWS with scope=private
+15:03:21 Warning Message: No entry '.displayName'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.nameSound'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.type'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.picture'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.Library'.
+15:03:21 Warning Message: No entry '.libTextDesc'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.model'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.simulation'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.fireLightDuration'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.fireLightIntensity'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.weaponLockDelay'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.weaponLockSystem'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.cmImmunity'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.lockingTargetSound'.
+15:03:21 Warning Message: Size: '/' not an array
+15:03:21 Warning Message: No entry '.lockedTargetSound'.
+15:03:21 Warning Message: Size: '/' not an array
+15:03:21 Warning Message: No entry '.muzzles'.
+15:03:21 Warning Message: Size: '/' not an array
+15:03:21 Warning Message: No entry 'bin\config.bin/CfgWeapons.RH_g17'.
+15:03:21 Warning Message: No entry '.scope'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: Error: creating weapon RH_g17 with scope=private
+15:03:21 Warning Message: No entry '.displayName'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.nameSound'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.type'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.picture'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.Library'.
+15:03:21 Warning Message: No entry '.libTextDesc'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.model'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.simulation'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.fireLightDuration'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.fireLightIntensity'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.weaponLockDelay'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.weaponLockSystem'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.cmImmunity'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.lockingTargetSound'.
+15:03:21 Warning Message: Size: '/' not an array
+15:03:21 Warning Message: No entry '.lockedTargetSound'.
+15:03:21 Warning Message: Size: '/' not an array
+15:03:21 Warning Message: No entry '.muzzles'.
+15:03:21 Warning Message: Size: '/' not an array
+15:03:21 Warning Message: No entry 'bin\config.bin/CfgWeapons.RH_m9'.
+15:03:21 Warning Message: No entry '.scope'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: Error: creating weapon RH_m9 with scope=private
+15:03:21 Warning Message: No entry '.displayName'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.nameSound'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.type'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.picture'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.Library'.
+15:03:21 Warning Message: No entry '.libTextDesc'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.model'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.simulation'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.fireLightDuration'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.fireLightIntensity'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.weaponLockDelay'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.weaponLockSystem'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.cmImmunity'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.lockingTargetSound'.
+15:03:21 Warning Message: Size: '/' not an array
+15:03:21 Warning Message: No entry '.lockedTargetSound'.
+15:03:21 Warning Message: Size: '/' not an array
+15:03:21 Warning Message: No entry '.muzzles'.
+15:03:21 Warning Message: Size: '/' not an array
+15:03:21 Warning Message: No entry 'bin\config.bin/CfgWeapons.vil_USPSD'.
+15:03:21 Warning Message: No entry '.scope'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: Error: creating weapon vil_USPSD with scope=private
+15:03:21 Warning Message: No entry '.displayName'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.nameSound'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.type'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.picture'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.Library'.
+15:03:21 Warning Message: No entry '.libTextDesc'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.model'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.simulation'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.fireLightDuration'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.fireLightIntensity'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.weaponLockDelay'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.weaponLockSystem'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.cmImmunity'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.lockingTargetSound'.
+15:03:21 Warning Message: Size: '/' not an array
+15:03:21 Warning Message: No entry '.lockedTargetSound'.
+15:03:21 Warning Message: Size: '/' not an array
+15:03:21 Warning Message: No entry '.muzzles'.
+15:03:21 Warning Message: Size: '/' not an array
+15:03:21 Warning Message: No entry 'bin\config.bin/CfgWeapons.FHQ_ACR_TAN_HWS_SD'.
+15:03:21 Warning Message: No entry '.scope'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: Error: creating weapon FHQ_ACR_TAN_HWS_SD with scope=private
+15:03:21 Warning Message: No entry '.displayName'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.nameSound'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.type'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.picture'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.Library'.
+15:03:21 Warning Message: No entry '.libTextDesc'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.model'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.simulation'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.fireLightDuration'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.fireLightIntensity'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.weaponLockDelay'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.weaponLockSystem'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.cmImmunity'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.lockingTargetSound'.
+15:03:21 Warning Message: Size: '/' not an array
+15:03:21 Warning Message: No entry '.lockedTargetSound'.
+15:03:21 Warning Message: Size: '/' not an array
+15:03:21 Warning Message: No entry '.muzzles'.
+15:03:21 Warning Message: Size: '/' not an array
+15:03:21 Warning Message: No entry 'bin\config.bin/CfgWeapons.FHQ_ACR_SNW_CCO_GL'.
+15:03:21 Warning Message: No entry '.scope'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: Error: creating weapon FHQ_ACR_SNW_CCO_GL with scope=private
+15:03:21 Warning Message: No entry '.displayName'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.nameSound'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.type'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.picture'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.Library'.
+15:03:21 Warning Message: No entry '.libTextDesc'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.model'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.simulation'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.fireLightDuration'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.fireLightIntensity'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.weaponLockDelay'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.weaponLockSystem'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.cmImmunity'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.lockingTargetSound'.
+15:03:21 Warning Message: Size: '/' not an array
+15:03:21 Warning Message: No entry '.lockedTargetSound'.
+15:03:21 Warning Message: Size: '/' not an array
+15:03:21 Warning Message: No entry '.muzzles'.
+15:03:21 Warning Message: Size: '/' not an array
+15:03:21 Warning Message: No entry 'bin\config.bin/CfgWeapons.RH_hk417sacog'.
+15:03:21 Warning Message: No entry '.scope'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: Error: creating weapon RH_hk417sacog with scope=private
+15:03:21 Warning Message: No entry '.displayName'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.nameSound'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.type'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.picture'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.Library'.
+15:03:21 Warning Message: No entry '.libTextDesc'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.model'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.simulation'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.fireLightDuration'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.fireLightIntensity'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.weaponLockDelay'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.weaponLockSystem'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.cmImmunity'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.lockingTargetSound'.
+15:03:21 Warning Message: Size: '/' not an array
+15:03:21 Warning Message: No entry '.lockedTargetSound'.
+15:03:21 Warning Message: Size: '/' not an array
+15:03:21 Warning Message: No entry '.muzzles'.
+15:03:21 Warning Message: Size: '/' not an array
+15:03:21 [DZMS]: (DZMSUnitsMinor) 3 AI Spawned, 3 units in mission.
+15:03:21 Warning Message: No entry 'bin\config.bin/CfgWeapons.vil_Galil_arm'.
+15:03:21 Warning Message: No entry '.scope'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: Error: creating weapon vil_Galil_arm with scope=private
+15:03:21 Warning Message: No entry '.displayName'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.nameSound'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.type'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.picture'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.Library'.
+15:03:21 Warning Message: No entry '.libTextDesc'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.model'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.simulation'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.fireLightDuration'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.fireLightIntensity'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.weaponLockDelay'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.weaponLockSystem'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.cmImmunity'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.lockingTargetSound'.
+15:03:21 Warning Message: Size: '/' not an array
+15:03:21 Warning Message: No entry '.lockedTargetSound'.
+15:03:21 Warning Message: Size: '/' not an array
+15:03:21 Warning Message: No entry '.muzzles'.
+15:03:21 Warning Message: Size: '/' not an array
+15:03:21 Warning Message: No entry 'bin\config.bin/CfgWeapons.FHQ_ACR_WDL_IRN_GL_SD_F'.
+15:03:21 Warning Message: No entry '.scope'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: Error: creating weapon FHQ_ACR_WDL_IRN_GL_SD_F with scope=private
+15:03:21 Warning Message: No entry '.displayName'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.nameSound'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.type'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.picture'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.Library'.
+15:03:21 Warning Message: No entry '.libTextDesc'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.model'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.simulation'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.fireLightDuration'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.fireLightIntensity'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.weaponLockDelay'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.weaponLockSystem'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.cmImmunity'.
+15:03:21 Warning Message: '/' is not a value
+15:03:21 Warning Message: No entry '.lockingTargetSound'.
+15:03:21 Warning Message: Size: '/' not an array
+15:03:21 Warning Message: No entry '.lockedTargetSound'.
+15:03:21 Warning Message: Size: '/' not an array
+15:03:21 Warning Message: No entry '.muzzles'.
+15:03:21 Warning Message: Size: '/' not an array
+15:03:22 [DZMS]: (DZMSUnitsMinor) 3 AI Spawned, 6 units in mission.
+15:03:23 No owner
+15:03:23 No owner
+15:03:23 No owner
+15:03:23 [DZMS]: (DZMSUnitsMinor) 3 AI Spawned, 9 units in mission.
+15:03:23 "infiSTAR.de fnc_AdminFirstReq: [1,B 1-1-K:1 (Aquiles) REMOTE,B 1-1-I:1 (Mateuus) REMOTE,[13742.3,2875.36,0.00133514]]"
+15:03:23 "infiSTAR.de fnc_AdminReqProceed: [1,B 1-1-K:1 (Aquiles) REMOTE,B 1-1-I:1 (Mateuus) REMOTE,[13742.3,2875.36,0.00133514]]"
+15:03:23 "infiSTAR.de PVAH_WriteLog: B 1-1-K:1 (Aquiles) REMOTE   Mateuus Moved to Aquiles"
+15:03:25 [DZMS]: (DZMSUnitsMinor) 3 AI Spawned, 12 units in mission.
+15:03:26 [DZMS]: (DZMSUnitsMinor) Waiting for 12/12 Units or Less to be Alive and a Player to be Near the Objective.
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 141, 143, 175
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 141, 175, 174
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 139, 141, 174
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 139, 174, 173
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 137, 139, 173
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 137, 173, 172
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 135, 137, 172
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 135, 172, 171
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 133, 135, 171
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 133, 171, 170
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 89, 91, 149
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 89, 149, 148
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 131, 133, 170
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 131, 170, 169
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 129, 131, 169
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 129, 169, 168
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 127, 129, 168
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 127, 168, 167
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 125, 127, 167
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 125, 167, 166
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 123, 125, 166
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 123, 166, 165
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 121, 123, 165
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 121, 165, 164
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 119, 121, 164
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 119, 164, 163
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 117, 119, 163
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 117, 163, 162
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 115, 117, 162
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 115, 162, 161
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 113, 115, 161
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 113, 161, 160
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 111, 113, 160
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 111, 160, 159
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 109, 111, 159
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 109, 159, 158
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 107, 109, 158
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 107, 158, 157
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 105, 107, 157
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 105, 157, 156
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 103, 105, 156
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 103, 156, 155
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 101, 103, 155
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 101, 155, 154
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 99, 101, 154
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 99, 154, 153
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 97, 99, 153
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 97, 153, 152
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 95, 97, 152
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 95, 152, 151
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 93, 95, 151
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 93, 151, 150
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 91, 93, 150
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 91, 150, 149
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 147, 89, 148
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 147, 148, 177
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 145, 147, 177
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 145, 177, 176
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 143, 145, 176
+15:03:42 Warning: z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:0 Error while trying to generate ST for points: 143, 176, 175
+15:03:42 Warnings in z\addons\dayz_communityassets\models\soda_mtngreen_clean_full.p3d:shadow(1000)
+15:04:45 "DZAI Monitor :: Server Uptime: [0d 0h 17m 20s]. Active AI Groups: 12."
+15:04:45 "DZAI Monitor :: Static Spawns: 0. Respawn Queue: 0 groups queued."
+15:04:45 "DZAI Monitor :: Dynamic Spawns: 0. Air Patrols: 3. Land Patrols: 9. Sea Patrols: 0."
+15:06:32 "infiSTAR.de fnc_AdminFirstReq: [1,B 1-1-I:1 (Mateuus) REMOTE,B 1-1-I:1 (Mateuus) REMOTE,[6351.4,7806.66,0]]"
+15:06:32 "infiSTAR.de fnc_AdminReqProceed: [1,B 1-1-I:1 (Mateuus) REMOTE,B 1-1-I:1 (Mateuus) REMOTE,[6351.4,7806.66,0]]"
+15:07:01 No owner
+15:07:26 "TIME SYNC: Local Time set to [2013,8,3,14,7]"
+15:07:26 "CLEANUP: Deleted 2 Animals out of 3"
+15:07:34 "infiSTAR.de fnc_AdminFirstReq: [-2,B 1-1-K:1 (Aquiles) REMOTE,3cce0100# 1070313: cinder_wall_half.p3d REMOTE]"
+15:07:34 "infiSTAR.de fnc_AdminReqProceed: [-2,B 1-1-K:1 (Aquiles) REMOTE,3cce0100# 1070313: cinder_wall_half.p3d REMOTE]"
+15:07:34 "DELETE: 76561198056083521 Deleted by UID: 137053294610108"
+15:07:34 "infiSTAR.de PVAH_WriteLog: B 1-1-K:1 (Aquiles) REMOTE   Aquiles (76561198056083521) deleted CinderWallHalf_DZ @137124 - characterID any - objectID: 0 - objectUID: 137053294610108"
+15:07:52 "infiSTAR.de fnc_AdminFirstReq: [-2,B 1-1-K:1 (Aquiles) REMOTE,3f5c4800# 1068252: cinder_wall_half.p3d REMOTE]"
+15:07:52 "infiSTAR.de fnc_AdminReqProceed: [-2,B 1-1-K:1 (Aquiles) REMOTE,3f5c4800# 1068252: cinder_wall_half.p3d REMOTE]"
+15:07:52 "DELETE: 76561198056083521 Deleted by UID: 13706429498060"
+15:07:52 "infiSTAR.de PVAH_WriteLog: B 1-1-K:1 (Aquiles) REMOTE   Aquiles (76561198056083521) deleted CinderWallHalf_DZ @137124 - characterID any - objectID: 0 - objectUID: 13706429498060"
+15:07:53 "infiSTAR.de fnc_AdminFirstReq: [-2,B 1-1-K:1 (Aquiles) REMOTE,3f376400# 1068218: steel_door_locked.p3d REMOTE]"
+15:07:53 "infiSTAR.de fnc_AdminReqProceed: [-2,B 1-1-K:1 (Aquiles) REMOTE,3f376400# 1068218: steel_door_locked.p3d REMOTE]"
+15:07:53 "DELETE: 76561198056083521 Deleted by UID: 137101294870236"
+15:07:53 "infiSTAR.de PVAH_WriteLog: B 1-1-K:1 (Aquiles) REMOTE   Aquiles (76561198056083521) deleted CinderWallDoorSmallLocked_DZ @137124 - characterID any - objectID: 0 - objectUID: 137101294870236"
+15:07:54 "infiSTAR.de fnc_AdminFirstReq: [-2,B 1-1-K:1 (Aquiles) REMOTE,40518f00# 1068241: cinder_wall_half.p3d REMOTE]"
+15:07:54 "infiSTAR.de fnc_AdminReqProceed: [-2,B 1-1-K:1 (Aquiles) REMOTE,40518f00# 1068241: cinder_wall_half.p3d REMOTE]"
+15:07:54 "DELETE: 76561198056083521 Deleted by UID: 13709029450060"
+15:07:54 "infiSTAR.de PVAH_WriteLog: B 1-1-K:1 (Aquiles) REMOTE   Aquiles (76561198056083521) deleted CinderWallHalf_DZ @137124 - characterID any - objectID: 0 - objectUID: 13709029450060"
+15:07:56 "infiSTAR.de fnc_AdminFirstReq: [-2,B 1-1-K:1 (Aquiles) REMOTE,3680c800# 1067956: sign_one_leg_h.p3d REMOTE]"
+15:07:56 "infiSTAR.de fnc_AdminReqProceed: [-2,B 1-1-K:1 (Aquiles) REMOTE,3680c800# 1067956: sign_one_leg_h.p3d REMOTE]"
+15:07:56 "DELETE: 76561198056083521 Deleted by UID: 13706329459093"
+15:07:56 "infiSTAR.de PVAH_WriteLog: B 1-1-K:1 (Aquiles) REMOTE   Aquiles (76561198056083521) deleted Plastic_Pole_EP1_DZ @137124 - characterID any - objectID: 0 - objectUID: 13706329459093"
+15:07:58 "infiSTAR.de fnc_AdminFirstReq: [-2,B 1-1-K:1 (Aquiles) REMOTE,3d124f00# 1067930: usordnance.p3d]"
+15:07:58 "infiSTAR.de fnc_AdminReqProceed: [-2,B 1-1-K:1 (Aquiles) REMOTE,3d124f00# 1067930: usordnance.p3d]"
+15:07:58 "DELETE: 76561198056083521 Deleted by UID: 0"
+15:07:58 "infiSTAR.de PVAH_WriteLog: B 1-1-K:1 (Aquiles) REMOTE   Aquiles (76561198056083521) deleted USOrdnanceBox @137124 - characterID any - objectID: 0 - objectUID: 0"
+15:07:59 "infiSTAR.de fnc_AdminFirstReq: [-2,B 1-1-K:1 (Aquiles) REMOTE,3ef5eb00# 1069118: dummyweapon.p3d REMOTE]"
+15:07:59 "infiSTAR.de fnc_AdminReqProceed: [-2,B 1-1-K:1 (Aquiles) REMOTE,3ef5eb00# 1069118: dummyweapon.p3d REMOTE]"
+15:07:59 "DELETE: 76561198056083521 Deleted by UID: 0"
+15:07:59 "infiSTAR.de PVAH_WriteLog: B 1-1-K:1 (Aquiles) REMOTE   Aquiles (76561198056083521) deleted WeaponHolder @137124 - characterID any - objectID: 0 - objectUID: 0"
+15:08:02 "infiSTAR.de fnc_AdminFirstReq: [-2,B 1-1-K:1 (Aquiles) REMOTE,32486b00# 1067950: dummyweapon.p3d REMOTE]"
+15:08:02 "infiSTAR.de fnc_AdminReqProceed: [-2,B 1-1-K:1 (Aquiles) REMOTE,32486b00# 1067950: dummyweapon.p3d REMOTE]"
+15:08:02 "DELETE: 76561198056083521 Deleted by UID: 0"
+15:08:02 "infiSTAR.de PVAH_WriteLog: B 1-1-K:1 (Aquiles) REMOTE   Aquiles (76561198056083521) deleted WeaponHolder @137124 - characterID any - objectID: 0 - objectUID: 0"
+15:08:24 "infiSTAR.de PVAH_WriteLog: B 1-1-K:1 (Aquiles) REMOTE   Aquiles Moving to Mateuus"
+15:09:42 Out of path-planning region for O 1-2-H:2 at 10860.9,9097.5, node type
+15:09:42 Error O 1-2-H:2: Invalid path from [10860.00, 153.67, 9098.10] to [10858.59, 150.55, 9095.16].
+15:09:42 "** scp_killed initializing"
+15:09:42 "<*> Survivor B 1-1-D:1 killed by O 1-2-H:5"
+15:09:42 "** scp_publishunit B 1-1-D:1,true,false,0,false,false,false"
+15:09:44 "** scp_spwn_fr initializing"
+15:09:44 "<*> Replacing dead survivor #0 with B 1-1-B:1"
+15:09:44 "** scp_behavoir initializing"
+15:09:44 "** scp_behavoir initialized"
+15:09:44 "** scp_task_patrol initializing"
+15:09:44 "** scp_task_patrol initialized"
+15:09:44 "** scp_publishunit B 1-1-B:1,true,false,0,false,false,true"
+15:09:44 "** scp_spwn_fr Unit created : SurvivorW3_DZ,2727.7,5597.41"
+15:09:45 "** scp_spwn_fr initialized"
+15:09:46 "** scp_killed initialized"
+15:09:48 "DZAI Cleanup: Cleaned up 1 dead units and 0 destroyed vehicles."
+15:09:48 "DZAI Monitor :: Server Uptime: [0d 0h 22m 23s]. Active AI Groups: 13."
+15:09:48 "DZAI Monitor :: Static Spawns: 1. Respawn Queue: 0 groups queued."
+15:09:48 "DZAI Monitor :: Dynamic Spawns: 0. Air Patrols: 3. Land Patrols: 9. Sea Patrols: 0."
+15:10:03 "RUNNING EVENT: Military on [2016,6,3,14,10]"
+15:10:03 "Spawning loot event at [11743.6,9288.53]"
+15:10:03 "Creating ammo box at [11661.2,9069.07]"
+15:10:03 "Loot event setup, waiting for 900 seconds"
+15:10:05 Server: Object 3:438 not found (message 99)
+15:10:49 Server: Object 2:12928 not found (message 132)
+15:12:26 "TIME SYNC: Local Time set to [2013,8,3,14,12]"
+15:13:41 "CLEANUP: Deleted 147 Loot Piles out of 248"
+15:14:31 "CLEANUP: Deleted 13 Loot Piles out of 101"
+15:14:48 "DZAI Monitor :: Server Uptime: [0d 0h 27m 23s]. Active AI Groups: 12."
+15:14:48 "DZAI Monitor :: Static Spawns: 1. Respawn Queue: 0 groups queued."
+15:14:48 "DZAI Monitor :: Dynamic Spawns: 0. Air Patrols: 3. Land Patrols: 9. Sea Patrols: 0."
+15:15:03 "RUNNING EVENT: supply_drop on [2016,6,3,14,15]"
+15:15:57 Server: Object 3:467 not found (message 91)
+15:15:57 Server: Object 3:467 not found (message 91)
+15:15:57 Server: Object 3:467 not found (message 91)
+15:15:57 Server: Object 3:467 not found (message 91)
+15:15:57 Server: Object 3:467 not found (message 91)
+15:15:57 Server: Object 3:470 not found (message 99)
+15:15:57 Server: Object 3:470 not found (message 99)
+15:15:57 Server: Object 3:470 not found (message 99)
+15:15:58 Server: Object 3:471 not found (message 91)
+15:15:58 Server: Object 3:470 not found (message 99)
+15:15:58 Server: Object 3:471 not found (message 91)
+15:15:58 Server: Object 3:470 not found (message 99)
+15:15:58 Server: Object 3:468 not found (message 99)
+15:15:58 Server: Object 3:470 not found (message 99)
+15:15:58 Server: Object 3:471 not found (message 91)
+15:15:58 Server: Object 3:472 not found (message 99)
+15:15:58 Server: Object 3:470 not found (message 99)
+15:15:58 Server: Object 3:471 not found (message 91)
+15:15:58 Server: Object 3:472 not found (message 99)
+15:15:58 Server: Object 3:470 not found (message 99)
+15:15:58 Server: Object 3:472 not found (message 99)
+15:15:58 Server: Object 3:470 not found (message 99)
+15:15:58 Server: Object 3:468 not found (message 99)
+15:15:58 Server: Object 3:472 not found (message 99)
+15:15:58 Server: Object 3:470 not found (message 99)
+15:15:58 Server: Object 3:471 not found (message 91)
+15:15:58 Server: Object 3:470 not found (message 99)
+15:15:58 Server: Object 3:471 not found (message 91)
+15:15:58 Server: Object 3:468 not found (message 99)
+15:15:58 Server: Object 3:473 not found (message 91)
+15:15:58 Server: Object 3:470 not found (message 99)
+15:15:58 Server: Object 3:470 not found (message 99)
+15:15:58 Server: Object 3:468 not found (message 99)
+15:15:59 Server: Object 3:470 not found (message 99)
+15:15:59 Server: Object 3:470 not found (message 99)
+15:15:59 Server: Object 3:468 not found (message 99)
+15:15:59 Server: Object 3:473 not found (message 91)
+15:15:59 Server: Object 3:470 not found (message 99)
+15:15:59 Server: Object 3:468 not found (message 99)
+15:15:59 Server: Object 3:472 not found (message 99)
+15:15:59 Server: Object 3:470 not found (message 99)
+15:15:59 Server: Object 3:474 not found (message 99)
+15:15:59 Server: Object 3:468 not found (message 99)
+15:16:23 Server: Object 3:482 not found (message 99)
+15:16:31 "CLEANUP: Deleted 12 Loot Piles out of 96"
+15:17:26 "TIME SYNC: Local Time set to [2013,8,3,14,17]"
+15:19:49 "DZAI Monitor :: Server Uptime: [0d 0h 32m 24s]. Active AI Groups: 12."
+15:19:49 "DZAI Monitor :: Static Spawns: 1. Respawn Queue: 0 groups queued."
+15:19:49 "DZAI Monitor :: Dynamic Spawns: 0. Air Patrols: 3. Land Patrols: 9. Sea Patrols: 0."
+15:19:53 Server: Object 3:489 not found (message 91)
+15:19:53 Server: Object 3:488 not found (message 99)
+15:19:53 Server: Object 3:488 not found (message 99)
+15:19:53 Server: Object 3:490 not found (message 99)
+15:19:53 Server: Object 3:488 not found (message 99)
+15:19:54 Server: Object 3:491 not found (message 91)
+15:19:54 Server: Object 3:489 not found (message 91)
+15:19:54 Server: Object 3:488 not found (message 99)
+15:19:54 Server: Object 3:488 not found (message 99)
+15:19:54 Server: Object 3:488 not found (message 99)
+15:19:54 Server: Object 3:489 not found (message 91)
+15:19:54 Server: Object 3:488 not found (message 99)
+15:19:54 Server: Object 3:491 not found (message 91)
+15:19:54 Server: Object 3:490 not found (message 99)
+15:19:54 Server: Object 3:488 not found (message 99)
+15:19:54 Server: Object 3:491 not found (message 91)
+15:19:54 Server: Object 3:490 not found (message 99)
+15:19:54 Server: Object 3:490 not found (message 99)
+15:19:54 Server: Object 3:490 not found (message 99)
+15:19:54 Server: Object 3:490 not found (message 99)
+15:19:54 Server: Object 3:491 not found (message 91)
+15:19:54 Server: Object 3:488 not found (message 99)
+15:19:54 Server: Object 3:490 not found (message 99)
+15:19:54 Server: Object 3:493 not found (message 91)
+15:19:54 Server: Object 3:490 not found (message 99)
+15:19:54 Server: Object 3:490 not found (message 99)
+15:19:54 Server: Object 3:491 not found (message 91)
+15:19:54 Server: Object 3:488 not found (message 99)
+15:19:54 Server: Object 3:490 not found (message 99)
+15:19:54 Server: Object 3:493 not found (message 91)
+15:19:54 Server: Object 3:491 not found (message 91)
+15:19:54 Server: Object 3:492 not found (message 99)
+15:19:54 Server: Object 3:488 not found (message 99)
+15:19:54 Server: Object 3:490 not found (message 99)
+15:19:54 Server: Object 3:492 not found (message 99)
+15:19:54 Server: Object 3:493 not found (message 91)
+15:19:54 Server: Object 3:492 not found (message 99)
+15:19:54 Server: Object 3:492 not found (message 99)
+15:19:54 Server: Object 3:488 not found (message 99)
+15:19:54 Server: Object 3:493 not found (message 91)
+15:19:54 Server: Object 3:490 not found (message 99)
+15:19:54 Server: Object 3:492 not found (message 99)
+15:19:54 Server: Object 3:492 not found (message 99)
+15:19:54 Server: Object 3:492 not found (message 99)
+15:19:55 Server: Object 3:492 not found (message 99)
+15:19:55 Server: Object 3:493 not found (message 91)
+15:19:55 Server: Object 3:488 not found (message 99)
+15:19:55 Server: Object 3:495 not found (message 91)
+15:19:55 Server: Object 3:490 not found (message 99)
+15:19:55 Server: Object 3:492 not found (message 99)
+15:19:55 Server: Object 3:493 not found (message 91)
+15:19:55 Server: Object 3:488 not found (message 99)
+15:19:55 Server: Object 3:490 not found (message 99)
+15:19:55 Server: Object 3:492 not found (message 99)
+15:19:55 Server: Object 3:495 not found (message 91)
+15:19:55 Server: Object 3:496 not found (message 99)
+15:19:55 Server: Object 3:488 not found (message 99)
+15:19:55 Server: Object 3:496 not found (message 99)
+15:19:55 Server: Object 3:490 not found (message 99)
+15:19:55 Server: Object 3:492 not found (message 99)
+15:19:55 Server: Object 3:488 not found (message 99)
+15:19:55 Server: Object 3:494 not found (message 99)
+15:19:55 Server: Object 3:490 not found (message 99)
+15:19:55 Server: Object 3:495 not found (message 91)
+15:19:55 Server: Object 3:494 not found (message 99)
+15:19:55 Server: Object 3:492 not found (message 99)
+15:20:02 Server: Object 4:316 not found (message 132)
+15:20:02 Server: Object 4:318 not found (message 132)
+15:20:19 Server: Object 3:512 not found (message 99)
+15:20:19 Server: Object 3:512 not found (message 132)
+15:21:08 [DZMS]: Running Major Mission EM1.
+15:21:10 No owner
+15:21:10 No owner
+15:21:10 No owner
+15:21:10 No owner
+15:21:10 No owner
+15:21:10 No owner
+15:21:10 [DZMS]: (DZMSUnitsMajor) 6 AI Spawned, 6 units in mission.
+15:21:16 No owner
+15:21:16 No owner
+15:21:16 No owner
+15:21:16 [DZMS]: (DZMSUnitsMajor) 6 AI Spawned, 12 units in mission.
+15:21:21 No owner
+15:21:21 No owner
+15:21:21 No owner
+15:21:21 [DZMS]: (DZMSUnitsMajor) 4 AI Spawned, 16 units in mission.
+15:21:26 [DZMS]: (DZMSUnitsMajor) 4 AI Spawned, 20 units in mission.
+15:21:26 [DZMS]: (DZMSUnitsMajor) Waiting for 20/20 Units or Less to be Alive and a Player to be Near the Objective.
+15:21:54 "** scp_killed initializing"
+15:21:54 "<*> Survivor B 1-1-H:1 killed by O 1-1-M:2"
+15:21:54 "** scp_publishunit B 1-1-H:1,true,false,0,false,false,false"
+15:21:56 "** scp_spwn_fr initializing"
+15:21:56 "<*> Replacing dead survivor #4 with B 1-1-D:1"
+15:21:56 "** scp_behavoir initializing"
+15:21:56 "** scp_behavoir initialized"
+15:21:56 "** scp_task_patrol initializing"
+15:21:56 "** scp_task_patrol initialized"
+15:21:56 "** scp_publishunit B 1-1-D:1,true,false,0,false,false,true"
+15:21:56 "** scp_spwn_fr Unit created : SurvivorWcombat_DZ,1057.87,2836.63"
+15:21:56 "** scp_spwn_fr initialized"
+15:21:58 "** scp_killed initialized"
+15:22:26 "TIME SYNC: Local Time set to [2013,8,3,14,22]"
+15:22:26 "CLEANUP: Deleted 2 Animals out of 2"
+15:22:55 Server: Object 3:519 not found (message 91)
+15:22:55 Server: Object 3:518 not found (message 99)
+15:22:57 Server: Object 3:523 not found (message 91)
+15:22:57 Server: Object 3:522 not found (message 99)
+15:22:59 Server: Object 3:527 not found (message 91)
+15:22:59 Server: Object 3:529 not found (message 91)
+15:23:01 Server: Object 3:524 not found (message 99)
+15:23:01 Server: Object 3:532 not found (message 99)
+15:23:01 Server: Object 3:533 not found (message 91)
+15:23:03 Server: Object 3:537 not found (message 91)
+15:23:03 Server: Object 3:536 not found (message 99)
+15:23:05 Server: Object 3:536 not found (message 99)
+15:23:31 "CLEANUP: Deleted 9 Loot Piles out of 86"
+15:24:30 "CLEANUP: Deleted 14 Loot Piles out of 77"
+15:24:49 "DZAI Monitor :: Server Uptime: [0d 0h 37m 24s]. Active AI Groups: 12."
+15:24:49 "DZAI Monitor :: Static Spawns: 1. Respawn Queue: 0 groups queued."
+15:24:49 "DZAI Monitor :: Dynamic Spawns: 0. Air Patrols: 3. Land Patrols: 9. Sea Patrols: 0."
+15:25:05 "RUNNING EVENT: crash_spawner on [2016,6,3,14,25]"
+15:25:05 "RUNNING EVENT: Treasure on [2016,6,3,14,25]"
+15:25:05 "Spawning loot event at [8760.22,6195.37]"
+15:25:05 "Creating ammo box at [8681.73,6065.73]"
+15:25:05 "Loot event setup, waiting for 900 seconds"
+15:27:27 "TIME SYNC: Local Time set to [2013,8,3,14,27]"
+15:28:54 Server: Object 3:574 not found (message 91)
+15:28:54 Server: Object 3:573 not found (message 99)
+15:28:56 Server: Object 3:578 not found (message 91)
+15:28:56 Server: Object 3:577 not found (message 99)
+15:28:56 Server: Object 3:580 not found (message 91)
+15:28:56 Server: Object 3:579 not found (message 99)
+15:28:56 Server: Object 3:581 not found (message 99)
+15:28:56 Server: Object 3:582 not found (message 91)
+15:28:56 Server: Object 3:584 not found (message 91)
+15:28:57 Server: Object 3:589 not found (message 99)
+15:28:57 Server: Object 3:590 not found (message 91)
+15:28:58 Server: Object 3:592 not found (message 91)
+15:28:58 Server: Object 3:596 not found (message 91)
+15:28:58 Server: Object 3:595 not found (message 99)
+15:28:58 Server: Object 3:597 not found (message 98)
+15:29:00 Server: Object 3:598 not found (message 91)
+15:29:00 "PLAYERHIT: B 1-1-K:1 (Aquiles) REMOTE was hit by B 1-1-I:1 (Mateuus) REMOTE with DMR from 3.07068m with 1.47914 dmg"
+15:29:00 "PLAYERHIT: B 1-1-K:1 (Aquiles) REMOTE was hit by B 1-1-I:1 (Mateuus) REMOTE with DMR from 3.07068m with 1.47917 dmg"
+15:29:01 "PLAYERHIT: B 1-1-K:1 (Aquiles) REMOTE was hit by B 1-1-I:1 (Mateuus) REMOTE with DMR from 3.07068m with 1.47907 dmg"
+15:29:01 "PLAYERHIT: B 1-1-K:1 (Aquiles) REMOTE was hit by B 1-1-I:1 (Mateuus) REMOTE with DMR from 3.07068m with 1.47908 dmg"
+15:29:01 "PLAYERHIT: B 1-1-K:1 (Aquiles) REMOTE was hit by B 1-1-I:1 (Mateuus) REMOTE with DMR from 3.07068m with 1.47909 dmg"
+15:29:01 "PLAYERHIT: B 1-1-K:1 (Aquiles) REMOTE was hit by B 1-1-I:1 (Mateuus) REMOTE with DMR from 3.07068m with 1.47909 dmg"
+15:29:50 "DZAI Monitor :: Server Uptime: [0d 0h 42m 25s]. Active AI Groups: 12."
+15:29:50 "DZAI Monitor :: Static Spawns: 1. Respawn Queue: 0 groups queued."
+15:29:50 "DZAI Monitor :: Dynamic Spawns: 0. Air Patrols: 3. Land Patrols: 9. Sea Patrols: 0."
+15:30:05 "RUNNING EVENT: crash_spawner on [2016,6,3,14,30]"
+15:30:05 Warning Message: No entry 'bin\config.bin/CfgWeapons.FHQ_ACR_TAN_G33_GL_F'.
+15:30:05 Warning Message: No entry '.scope'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: Error: creating weapon FHQ_ACR_TAN_G33_GL_F with scope=private
+15:30:05 Warning Message: No entry '.displayName'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: No entry '.nameSound'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: No entry '.type'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: No entry '.picture'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: No entry '.Library'.
+15:30:05 Warning Message: No entry '.libTextDesc'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: No entry '.model'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: No entry '.simulation'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: No entry '.fireLightDuration'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: No entry '.fireLightIntensity'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: No entry '.weaponLockDelay'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: No entry '.weaponLockSystem'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: No entry '.cmImmunity'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: No entry '.lockingTargetSound'.
+15:30:05 Warning Message: Size: '/' not an array
+15:30:05 Warning Message: No entry '.lockedTargetSound'.
+15:30:05 Warning Message: Size: '/' not an array
+15:30:05 Warning Message: No entry '.muzzles'.
+15:30:05 Warning Message: Size: '/' not an array
+15:30:05 Warning Message: No entry 'bin\config.bin/CfgMagazines.RH_15Rnd_9x19_uspsd'.
+15:30:05 Warning Message: No entry '.picture'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: No entry '.scope'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: Error: creating magazine RH_15Rnd_9x19_uspsd with scope=private
+15:30:05 Warning Message: No entry '.displayName'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: No entry '.displayNameShort'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: No entry '.nameSound'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: No entry '.Library'.
+15:30:05 Warning Message: No entry '.libTextDesc'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: No entry '.type'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: No entry '.count'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: No entry '.maxLeadSpeed'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: No entry '.initSpeed'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: No entry '.reloadAction'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: No entry '.modelSpecial'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: No entry '.ammo'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: No entry '.model'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: No entry 'bin\config.bin/CfgMagazines.RH_20Rnd_9x19_M93'.
+15:30:05 Warning Message: No entry '.picture'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: No entry '.scope'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: Error: creating magazine RH_20Rnd_9x19_M93 with scope=private
+15:30:05 Warning Message: No entry '.displayName'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: No entry '.displayNameShort'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: No entry '.nameSound'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: No entry '.Library'.
+15:30:05 Warning Message: No entry '.libTextDesc'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: No entry '.type'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: No entry '.count'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: No entry '.maxLeadSpeed'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: No entry '.initSpeed'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: No entry '.reloadAction'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: No entry '.modelSpecial'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: No entry '.ammo'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: No entry '.model'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: No entry 'bin\config.bin/CfgMagazines.vil_32Rnd_uzi'.
+15:30:05 Warning Message: No entry '.picture'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: No entry '.scope'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: Error: creating magazine vil_32Rnd_uzi with scope=private
+15:30:05 Warning Message: No entry '.displayName'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: No entry '.displayNameShort'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: No entry '.nameSound'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: No entry '.Library'.
+15:30:05 Warning Message: No entry '.libTextDesc'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: No entry '.type'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: No entry '.count'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: No entry '.maxLeadSpeed'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: No entry '.initSpeed'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: No entry '.reloadAction'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: No entry '.modelSpecial'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: No entry '.ammo'.
+15:30:05 Warning Message: '/' is not a value
+15:30:05 Warning Message: No entry '.model'.
+15:30:05 Warning Message: '/' is not a value
+15:30:06 Warning Message: No entry 'bin\config.bin/CfgMagazines.RH_6Rnd_44_Mag'.
+15:30:06 Warning Message: No entry '.picture'.
+15:30:06 Warning Message: '/' is not a value
+15:30:06 Warning Message: No entry '.scope'.
+15:30:06 Warning Message: '/' is not a value
+15:30:06 Warning Message: Error: creating magazine RH_6Rnd_44_Mag with scope=private
+15:30:06 Warning Message: No entry '.displayName'.
+15:30:06 Warning Message: '/' is not a value
+15:30:06 Warning Message: No entry '.displayNameShort'.
+15:30:06 Warning Message: '/' is not a value
+15:30:06 Warning Message: No entry '.nameSound'.
+15:30:06 Warning Message: '/' is not a value
+15:30:06 Warning Message: No entry '.Library'.
+15:30:06 Warning Message: No entry '.libTextDesc'.
+15:30:06 Warning Message: '/' is not a value
+15:30:06 Warning Message: No entry '.type'.
+15:30:06 Warning Message: '/' is not a value
+15:30:06 Warning Message: No entry '.count'.
+15:30:06 Warning Message: '/' is not a value
+15:30:06 Warning Message: No entry '.maxLeadSpeed'.
+15:30:06 Warning Message: '/' is not a value
+15:30:06 Warning Message: No entry '.initSpeed'.
+15:30:06 Warning Message: '/' is not a value
+15:30:06 Warning Message: No entry '.reloadAction'.
+15:30:06 Warning Message: '/' is not a value
+15:30:06 Warning Message: No entry '.modelSpecial'.
+15:30:06 Warning Message: '/' is not a value
+15:30:06 Warning Message: No entry '.ammo'.
+15:30:06 Warning Message: '/' is not a value
+15:30:06 Warning Message: No entry '.model'.
+15:30:06 Warning Message: '/' is not a value

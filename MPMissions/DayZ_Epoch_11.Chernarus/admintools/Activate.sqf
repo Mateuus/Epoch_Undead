@@ -18,7 +18,7 @@ if ((getPlayerUID player) in AdminList || (getPlayerUID player) in ModList) then
 		usageLogger = format["%1 %2 -- has logged on",name player,getPlayerUID player];
 		[] spawn {publicVariable "usageLogger";};
 	};
-
+	/*
 	while {alive player} do
 	{
 		if(toolsAreActive) then
@@ -41,6 +41,7 @@ if ((getPlayerUID player) in AdminList || (getPlayerUID player) in ModList) then
 		};
 		Sleep 2;
 	};
+	*/
 	// reset actions 
 	dayz_resetSelfActions;
 	

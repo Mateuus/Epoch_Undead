@@ -67,7 +67,7 @@ DZE_DeathMsgSide = true;
 DZE_BackpackGuard = false; //Default = true, true to enable, false to disable - wipes backpack on combat/ALT+F4 logging
 DZE_ForceNameTagsOff = false;
 DZE_R3F_WEIGHT = false; //use weight system
-DZE_PlotPole = [100,115];	
+DZE_PlotPole = [50,100];	
 DZE_BuildingLimit = 400;//how many items can a player build
 DZE_PlayerZed = false; // should players have chance of becoming a ZOMBIE when they respawn after death
 DZE_LootSpawnTimer = 10;// in minutes
@@ -279,6 +279,7 @@ if(WaterMarkScript)then{
 	  };
 	};
 };
+/*
 if(logoWatermark)then{
 	_piclogo = "pictures\logo.paa";
 	[
@@ -291,6 +292,7 @@ if(logoWatermark)then{
 		3090
 	] spawn bis_fnc_dynamicText;
 };
+*/
 if(RecruitSurvivorsScript)then{
 	if (isServer) then {
 		DBPV_SrvrUnits = [];

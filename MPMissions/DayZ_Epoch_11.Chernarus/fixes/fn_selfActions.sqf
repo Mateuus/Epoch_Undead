@@ -1054,6 +1054,9 @@ if (CannibalismScript) then {
 				_cancel = player addAction [format[localize "STR_EPOCH_ACTIONS_HUMANITY",_low_high], "\z\addons\dayz_code\actions\trade_cancel.sqf",["na"], 0, true, false, "",""];
 				s_player_parts set [count s_player_parts,_cancel];
 			} else {
+			
+			_buyV = player addAction ["<t color='#0059FF'>Advanced Trading</t>", "scripts\advancedTrading\init.sqf",(_traderMenu select 0), 999, true, false, "",""];
+			s_player_parts set [count s_player_parts,_buyV];
 				
 				// Static Menu
 				{

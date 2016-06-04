@@ -1589,6 +1589,10 @@ class CfgSounds
 #include "scripts\Buildables\MT_Defines.hpp"
 #include "scripts\Buildables\Crafting_Dialogs.hpp"
 
+//Advanced Trading
+#include "scripts\advancedTrading\ZSCdefines.hpp" // if u don't have it from ZSC
+#include "scripts\advancedTrading\advancedTrading.hpp"
+
 //plot management
 #include "scripts\plotManagement\plotManagement.hpp"
 

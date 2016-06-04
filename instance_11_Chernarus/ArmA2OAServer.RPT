@@ -18237,3 +18237,1868 @@ _unit addweapo>
 13:52:26 "TIME SYNC: Local Time set to [2013,8,3,14,52]"
 13:53:30 "CLEANUP: Deleted 3 Loot Piles out of 88"
 13:54:34 "PLANE: 75% chance to start a AN2 Cargo Plane Carepackagedrop at 6812.96 with 5 drop points"
+13:54:41 Server: Object 3:694 not found (message 99)
+13:54:41 Server: Object 3:694 not found (message 99)
+
+
+=====================================================================
+== C:\Program Files (x86)\Steam\steamapps\common\Arma 2 Operation Arrowhead\Expansion\beta\ArmA2OAServer.exe
+== "Expansion\beta\arma2oaserver.exe"  -port=2302 "-config=instance_11_Chernarus\config.cfg" "-cfg=instance_11_Chernarus\basic.cfg" "-profiles=instance_11_Chernarus" -name=instance_11_Chernarus "-mod=@DayZ_Epoch;@DayZ_Epoch_Server;"
+=====================================================================
+Exe timestamp: 2016/05/31 01:00:13
+Current time:  2016/06/03 13:58:15
+
+Version 1.63.116523
+Item STR_EQUIP_NAME_41 listed twice
+Item STR_EQUIP_DESC_41 listed twice
+Updating base class ->NonStrategic, by ca\config.bin/CfgVehicles/HouseBase/
+Updating base class ->HouseBase, by ca\config.bin/CfgVehicles/Ruins/
+Updating base class ->DestructionEffects, by ca\config.bin/CfgVehicles/House/DestructionEffects/
+Updating base class ->FlagCarrierCore, by ca\ca_pmc\config.bin/CfgVehicles/FlagCarrier/
+Updating base class ->VehicleMagazine, by ca\weapons\config.bin/CfgMagazines/14Rnd_FFAR/
+Updating base class ->PistolCore, by ca\weapons\config.bin/cfgWeapons/Pistol/
+Updating base class ->LauncherCore, by ca\weapons\config.bin/cfgWeapons/RocketPods/
+Updating base class ->RocketPods, by ca\weapons\config.bin/cfgWeapons/FFARLauncher/
+Updating base class ->Default, by ca\weapons\config.bin/cfgWeapons/ItemCore/
+Updating base class ->Citizen, by ca\characters2\config.bin/CfgVehicles/Citizen1/
+Updating base class ->SkodaBase, by ca\wheeled\config.bin/CfgVehicles/car_sedan/
+Updating base class ->UH60_Base, by ca\air\config.bin/CfgVehicles/MH60S/
+Updating base class ->House, by ca\misc3\config.bin/CfgVehicles/Land_Fire/
+Updating base class ->House, by ca\misc3\config.bin/CfgVehicles/Land_A_tent/
+Updating base class ->Camp_base, by ca\misc3\config.bin/CfgVehicles/ACamp/
+Updating base class ->Car, by ca\wheeled2\lada\config.bin/CfgVehicles/Lada_base/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_Lamp_Small_EP1/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_Lamp_Street1_EP1/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_Lamp_Street2_EP1/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_Lampa_Ind_EP1/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_PowLines_Conc2L_EP1/
+Updating base class StreetLamp_BaseMediumOrange->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_sidl/
+Updating base class StreetLamp_BaseMediumOrange->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_sidl_2/
+Updating base class StreetLamp_BaseMediumOrange->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_sidl_3/
+Updating base class StreetLamp_BaseWeakYellow->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_ind/
+Updating base class StreetLamp_BaseWeakYellow->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_ind_zebr/
+Updating base class RscStandardDisplay->, by z\addons\dayz_code\config.bin/RscDisplayStart/
+Updating base class RscShortcutButton->RscShortcutButtonMain, by z\addons\dayz_code\config.bin/RscDisplayMain/controls/CA_Exit/
+Updating base class RscText->, by z\addons\dayz_code\config.bin/RscTitles/Default/
+Updating base class zZombie_Base->zZombie_new_Base, by z\addons\dayz_code\config.bin/CfgVehicles/z_villager1/
+Updating base class zZombie_Base->zZombie_new_Base, by z\addons\dayz_code\config.bin/CfgVehicles/z_worker1/
+Updating base class Soldier_Crew_PMC->Soldier_Bodyguard_M4_PMC, by z\addons\dayz_code\config.bin/CfgVehicles/SurvivorW2_DZ/
+Updating base class HighCommand->Logic, by z\addons\dayz_code\config.bin/CfgVehicles/HighCommandSubordinate/
+Updating base class ->ViewOptics, by z\addons\dayz_code\config.bin/CfgVehicles/Mi17_base/Turrets/MainTurret/ViewOptics/
+Updating base class HouseBase->, by z\addons\dayz_code\config.bin/CfgVehicles/House/
+Updating base class NonStrategic->BuiltItems, by z\addons\dayz_code\config.bin/CfgVehicles/Fort_RazorWire/
+Updating base class MeleeHatchet->MeleeWeapon, by z\addons\dayz_code\config.bin/CfgWeapons/MeleeCrowbar/
+Updating base class VehicleMagazine->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/29Rnd_30mm_AGS30/
+Updating base class VehicleMagazine->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/48Rnd_40mm_MK19/
+Updating base class 4000Rnd_762x51_M134->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/2000Rnd_762x51_M134/
+Updating base class VehicleMagazine->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/100Rnd_127x99_M2/
+Updating base class VehicleMagazine->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/50Rnd_127x107_DSHKM/
+Updating base class Hatchet_Swing->Melee_Swing, by z\addons\dayz_code\config.bin/CfgMagazines/crowbar_swing/
+Updating base class CA_Magazine->Melee_Swing, by z\addons\dayz_code\config.bin/CfgMagazines/Hatchet_Swing/
+Updating base class Land_HouseV_1I2->House, by zero_buildings\config.cpp/CfgVehicles/Land_HouseV_1L2/
+Updating base class Land_HouseV_1I2->House, by zero_buildings\config.cpp/CfgVehicles/Land_HouseV_3I3/
+Updating base class ->Plane, by ca\air2\mv22\config.bin/CfgVehicles/MV22/
+Updating base class ViewOptics->, by ca\air2\uh1y\config.bin/CfgVehicles/UH1_Base/Turrets/MainTurret/ViewOptics/
+Updating base class ->HouseBase, by ca\misc_e\config.bin/CfgVehicles/House/
+Updating base class ->Land_CamoNet_EAST, by ca\misc_e\config.bin/CfgVehicles/Land_CamoNet_EAST_EP1/
+Updating base class ->Land_CamoNetB_EAST, by ca\misc_e\config.bin/CfgVehicles/Land_CamoNetB_EAST_EP1/
+Updating base class ->Sign_1L_Noentry, by ca\misc_e\config.bin/CfgVehicles/Sign_1L_Noentry_EP1/
+Updating base class ->Sign_circle, by ca\misc_e\config.bin/CfgVehicles/Helper_Base_EP1/
+Updating base class ->Rifle, by ca\weapons_baf\config.bin/cfgWeapons/BAF_AS50_scoped/
+Updating base class ->Rifle, by ca\weapons_e\config.bin/cfgWeapons/M60A4_EP1/
+Updating base class ->M249, by ca\weapons_e\config.bin/cfgWeapons/M249_EP1/
+Updating base class ->M249, by ca\weapons_e\config.bin/cfgWeapons/M249_m145_EP1/
+Updating base class ->m107, by ca\weapons_e\m107\config.bin/CfgWeapons/m107_TWS_EP1/
+Updating base class ->M240, by ca\weapons_e\m240\config.bin/CfgWeapons/m240_scoped_EP1/
+Updating base class ->V3S_Base, by ca\wheeled_e\v3s\config.bin/CfgVehicles/V3S_Base_EP1/
+Updating base class ->V3S_Base_EP1, by ca\wheeled_e\v3s\config.bin/CfgVehicles/V3S_Refuel_TK_GUE_EP1/
+Updating base class House->DZE_OpenHouse, by warehouse\config.bin/CfgVehicles/Land_Ind_Pec_03/
+Updating base class ->C130J_base, by ca\air_e\config.bin/CfgVehicles/C130J_US_EP1/
+Updating base class ->Helicopter, by ca\air_e\ah6j\config.bin/CfgVehicles/AH6_Base_EP1/
+Updating base class ->Plane, by ca\air_e\an2\config.bin/CfgVehicles/An2_Base_EP1/
+Updating base class ->CH47_base_EP1, by ca\air_e\ch47\config.bin/CfgVehicles/CH_47F_EP1/
+Updating base class ViewOptics->, by ca\air_e\uh1h\config.bin/CfgVehicles/UH1H_base/Turrets/MainTurret/ViewOptics/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_Crew_PMC/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_TL_PMC/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_Bodyguard_M4_PMC/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_Bodyguard_AA12_PMC/
+Updating base class ->BAF_Soldier_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_W/
+Updating base class ->BAF_Soldier_L_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_L_W/
+Updating base class ->BAF_Soldier_Officer_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_Officer_W/
+Updating base class ->BAF_Soldier_SniperH_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_SniperH_W/
+Updating base class ->M113Ambul_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M113Ambul_UN_EP1/
+Updating base class ->M113_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M113_UN_EP1/
+Updating base class ->M113Ambul_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M113Ambul_TK_EP1/
+Updating base class ->M113_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M113_TK_EP1/
+Updating base class ->Helicopter, by ca\air_d_baf\config.bin/CfgVehicles/BAF_Merlin_HC3_D/
+Updating base class ReammoBox->Small_items, by corepatch\corepatch_additionalobjects\config.cpp/CfgVehicles/CardboardBox/
+Updating base class CA_Magazine->4000Rnd_762x51_M134, by corepatch\corepatch_ccp_71142_cit_13602_25047\config.cpp/CfgMagazines/2000Rnd_762x51_M134/
+13:58:43 Server error: Player without identity Aquiles (id 241508496)
+13:58:44 Server error: Player without identity Aquiles (id 241508496)
+13:58:44 Server error: Player without identity Aquiles (id 241508496)
+13:58:50 Warning Message: No challenge value was received from the master server.
+13:58:50 GameSpy QR2 error: 5, No challenge value was received from the master server.
+13:59:55 Strange convex component81 in zero_buildings\models\housev_3i3_i.p3d:geometryFire
+13:59:56 Strange convex component288 in warehouse\models\warehouse.p3d:geometry
+13:59:56 Strange convex component289 in warehouse\models\warehouse.p3d:geometry
+13:59:56 Strange convex component290 in warehouse\models\warehouse.p3d:geometry
+13:59:56 Strange convex component291 in warehouse\models\warehouse.p3d:geometry
+13:59:56 Strange convex component292 in warehouse\models\warehouse.p3d:geometry
+13:59:56 Strange convex component293 in warehouse\models\warehouse.p3d:geometry
+13:59:56 Strange convex component294 in warehouse\models\warehouse.p3d:geometry
+13:59:56 Strange convex component295 in warehouse\models\warehouse.p3d:geometry
+13:59:56 Strange convex component296 in warehouse\models\warehouse.p3d:geometry
+13:59:56 Strange convex component297 in warehouse\models\warehouse.p3d:geometry
+13:59:56 Strange convex component298 in warehouse\models\warehouse.p3d:geometry
+13:59:56 Strange convex component299 in warehouse\models\warehouse.p3d:geometry
+13:59:56 Strange convex component300 in warehouse\models\warehouse.p3d:geometry
+13:59:56 Strange convex component301 in warehouse\models\warehouse.p3d:geometry
+13:59:56 Strange convex component302 in warehouse\models\warehouse.p3d:geometry
+13:59:56 Strange convex component303 in warehouse\models\warehouse.p3d:geometry
+13:59:56 Strange convex component304 in warehouse\models\warehouse.p3d:geometry
+13:59:56 Strange convex component305 in warehouse\models\warehouse.p3d:geometry
+13:59:56 Strange convex component306 in warehouse\models\warehouse.p3d:geometry
+13:59:56 Strange convex component307 in warehouse\models\warehouse.p3d:geometry
+13:59:56 Strange convex component308 in warehouse\models\warehouse.p3d:geometry
+13:59:56 Strange convex component309 in warehouse\models\warehouse.p3d:geometry
+13:59:56 Strange convex component310 in warehouse\models\warehouse.p3d:geometry
+13:59:56 Strange convex component311 in warehouse\models\warehouse.p3d:geometry
+13:59:56 Strange convex component312 in warehouse\models\warehouse.p3d:geometry
+13:59:56 Strange convex component313 in warehouse\models\warehouse.p3d:geometry
+13:59:56 Strange convex component314 in warehouse\models\warehouse.p3d:geometry
+13:59:56 Strange convex component315 in warehouse\models\warehouse.p3d:geometry
+13:59:56 Strange convex component316 in warehouse\models\warehouse.p3d:geometry
+13:59:56 Strange convex component317 in warehouse\models\warehouse.p3d:geometry
+13:59:56 Strange convex component252 in warehouse\models\warehouse.p3d:geometryFire
+13:59:56 Strange convex component253 in warehouse\models\warehouse.p3d:geometryFire
+13:59:56 Strange convex component254 in warehouse\models\warehouse.p3d:geometryFire
+13:59:56 Strange convex component255 in warehouse\models\warehouse.p3d:geometryFire
+13:59:56 Strange convex component256 in warehouse\models\warehouse.p3d:geometryFire
+13:59:56 Strange convex component257 in warehouse\models\warehouse.p3d:geometryFire
+13:59:56 Strange convex component258 in warehouse\models\warehouse.p3d:geometryFire
+13:59:56 Strange convex component259 in warehouse\models\warehouse.p3d:geometryFire
+13:59:56 Strange convex component260 in warehouse\models\warehouse.p3d:geometryFire
+13:59:56 Strange convex component261 in warehouse\models\warehouse.p3d:geometryFire
+13:59:56 Strange convex component262 in warehouse\models\warehouse.p3d:geometryFire
+13:59:56 Strange convex component263 in warehouse\models\warehouse.p3d:geometryFire
+13:59:56 Strange convex component264 in warehouse\models\warehouse.p3d:geometryFire
+13:59:56 Strange convex component265 in warehouse\models\warehouse.p3d:geometryFire
+13:59:56 Strange convex component266 in warehouse\models\warehouse.p3d:geometryFire
+13:59:56 Strange convex component267 in warehouse\models\warehouse.p3d:geometryFire
+13:59:56 Strange convex component268 in warehouse\models\warehouse.p3d:geometryFire
+13:59:56 Strange convex component269 in warehouse\models\warehouse.p3d:geometryFire
+13:59:56 Strange convex component270 in warehouse\models\warehouse.p3d:geometryFire
+13:59:56 Strange convex component271 in warehouse\models\warehouse.p3d:geometryFire
+13:59:56 Strange convex component272 in warehouse\models\warehouse.p3d:geometryFire
+13:59:56 Strange convex component273 in warehouse\models\warehouse.p3d:geometryFire
+13:59:56 Strange convex component274 in warehouse\models\warehouse.p3d:geometryFire
+13:59:56 Strange convex component275 in warehouse\models\warehouse.p3d:geometryFire
+13:59:56 Strange convex component276 in warehouse\models\warehouse.p3d:geometryFire
+13:59:56 Strange convex component277 in warehouse\models\warehouse.p3d:geometryFire
+13:59:56 Strange convex component278 in warehouse\models\warehouse.p3d:geometryFire
+13:59:56 Strange convex component279 in warehouse\models\warehouse.p3d:geometryFire
+13:59:56 Strange convex component280 in warehouse\models\warehouse.p3d:geometryFire
+13:59:56 Strange convex component281 in warehouse\models\warehouse.p3d:geometryFire
+13:59:56 Strange convex component249 in warehouse\models\warehouse.p3d:geometryView
+13:59:56 Strange convex component250 in warehouse\models\warehouse.p3d:geometryView
+13:59:56 Strange convex component251 in warehouse\models\warehouse.p3d:geometryView
+13:59:56 Strange convex component252 in warehouse\models\warehouse.p3d:geometryView
+13:59:56 Strange convex component253 in warehouse\models\warehouse.p3d:geometryView
+13:59:56 Strange convex component254 in warehouse\models\warehouse.p3d:geometryView
+13:59:56 Strange convex component255 in warehouse\models\warehouse.p3d:geometryView
+13:59:56 Strange convex component256 in warehouse\models\warehouse.p3d:geometryView
+13:59:56 Strange convex component257 in warehouse\models\warehouse.p3d:geometryView
+13:59:56 Strange convex component258 in warehouse\models\warehouse.p3d:geometryView
+13:59:56 Strange convex component259 in warehouse\models\warehouse.p3d:geometryView
+13:59:56 Strange convex component260 in warehouse\models\warehouse.p3d:geometryView
+13:59:56 Strange convex component261 in warehouse\models\warehouse.p3d:geometryView
+13:59:56 Strange convex component262 in warehouse\models\warehouse.p3d:geometryView
+13:59:56 Strange convex component263 in warehouse\models\warehouse.p3d:geometryView
+13:59:56 Strange convex component264 in warehouse\models\warehouse.p3d:geometryView
+13:59:56 Strange convex component265 in warehouse\models\warehouse.p3d:geometryView
+13:59:56 Strange convex component266 in warehouse\models\warehouse.p3d:geometryView
+13:59:56 Strange convex component267 in warehouse\models\warehouse.p3d:geometryView
+13:59:56 Strange convex component268 in warehouse\models\warehouse.p3d:geometryView
+13:59:56 Strange convex component269 in warehouse\models\warehouse.p3d:geometryView
+13:59:56 Strange convex component270 in warehouse\models\warehouse.p3d:geometryView
+13:59:56 Strange convex component271 in warehouse\models\warehouse.p3d:geometryView
+13:59:56 Strange convex component272 in warehouse\models\warehouse.p3d:geometryView
+13:59:56 Strange convex component273 in warehouse\models\warehouse.p3d:geometryView
+13:59:56 Strange convex component274 in warehouse\models\warehouse.p3d:geometryView
+13:59:56 Strange convex component275 in warehouse\models\warehouse.p3d:geometryView
+13:59:56 Strange convex component276 in warehouse\models\warehouse.p3d:geometryView
+13:59:56 Strange convex component277 in warehouse\models\warehouse.p3d:geometryView
+13:59:56 Strange convex component278 in warehouse\models\warehouse.p3d:geometryView
+13:59:58 "DayZ Epoch: PRELOAD Functions\init [[<No group>:0 (FunctionsManager)],any]"
+13:59:58 "DayZ Epoch: MPframework inited"
+13:59:58 ca\misc\pallets_column.p3d: No geometry and no visual shape
+13:59:58 ca\misc\pallets_column.p3d: No geometry and no visual shape
+13:59:58 ca\misc\pallets_column.p3d: No geometry and no visual shape
+13:59:58 ca\misc\pallets_column.p3d: No geometry and no visual shape
+13:59:59 Strange convex component93 in zero_buildings\models\mil_house_i.p3d:geometryView
+13:59:59 Strange convex component94 in zero_buildings\models\mil_house_i.p3d:geometryView
+13:59:59 Strange convex component95 in zero_buildings\models\mil_house_i.p3d:geometryView
+13:59:59 Strange convex component96 in zero_buildings\models\mil_house_i.p3d:geometryView
+13:59:59 Strange convex component99 in zero_buildings\models\mil_house_i.p3d:geometryView
+13:59:59 Strange convex component100 in zero_buildings\models\mil_house_i.p3d:geometryView
+13:59:59 Strange convex component101 in zero_buildings\models\mil_house_i.p3d:geometryView
+13:59:59 Strange convex component102 in zero_buildings\models\mil_house_i.p3d:geometryView
+13:59:59 Strange convex component103 in zero_buildings\models\mil_house_i.p3d:geometryView
+13:59:59 Strange convex component104 in zero_buildings\models\mil_house_i.p3d:geometryView
+13:59:59 Strange convex component105 in zero_buildings\models\mil_house_i.p3d:geometryView
+13:59:59 Strange convex component106 in zero_buildings\models\mil_house_i.p3d:geometryView
+13:59:59 Strange convex component107 in zero_buildings\models\mil_house_i.p3d:geometryView
+13:59:59 Strange convex component108 in zero_buildings\models\mil_house_i.p3d:geometryView
+13:59:59 Strange convex component109 in zero_buildings\models\mil_house_i.p3d:geometryView
+13:59:59 Strange convex component110 in zero_buildings\models\mil_house_i.p3d:geometryView
+13:59:59 Strange convex component111 in zero_buildings\models\mil_house_i.p3d:geometryView
+13:59:59 Strange convex component112 in zero_buildings\models\mil_house_i.p3d:geometryView
+13:59:59 Strange convex component113 in zero_buildings\models\mil_house_i.p3d:geometryView
+13:59:59 Strange convex component114 in zero_buildings\models\mil_house_i.p3d:geometryView
+13:59:59 Strange convex component115 in zero_buildings\models\mil_house_i.p3d:geometryView
+13:59:59 Strange convex component116 in zero_buildings\models\mil_house_i.p3d:geometryView
+13:59:59 Strange convex component117 in zero_buildings\models\mil_house_i.p3d:geometryView
+13:59:59 Strange convex component118 in zero_buildings\models\mil_house_i.p3d:geometryView
+13:59:59 Strange convex component119 in zero_buildings\models\mil_house_i.p3d:geometryView
+13:59:59 Strange convex component120 in zero_buildings\models\mil_house_i.p3d:geometryView
+13:59:59 Strange convex component121 in zero_buildings\models\mil_house_i.p3d:geometryView
+13:59:59 Strange convex component122 in zero_buildings\models\mil_house_i.p3d:geometryView
+13:59:59 Strange convex component123 in zero_buildings\models\mil_house_i.p3d:geometryView
+13:59:59 Strange convex component124 in zero_buildings\models\mil_house_i.p3d:geometryView
+13:59:59 Strange convex component125 in zero_buildings\models\mil_house_i.p3d:geometryView
+13:59:59 Strange convex component126 in zero_buildings\models\mil_house_i.p3d:geometryView
+13:59:59 Strange convex component127 in zero_buildings\models\mil_house_i.p3d:geometryView
+13:59:59 Strange convex component128 in zero_buildings\models\mil_house_i.p3d:geometryView
+13:59:59 Strange convex component129 in zero_buildings\models\mil_house_i.p3d:geometryView
+13:59:59 Strange convex component130 in zero_buildings\models\mil_house_i.p3d:geometryView
+13:59:59 Strange convex component131 in zero_buildings\models\mil_house_i.p3d:geometryView
+13:59:59 Strange convex component132 in zero_buildings\models\mil_house_i.p3d:geometryView
+13:59:59 Strange convex component133 in zero_buildings\models\mil_house_i.p3d:geometryView
+13:59:59 Strange convex component134 in zero_buildings\models\mil_house_i.p3d:geometryView
+14:00:00 MAP_Dum_mesto3test: Hit1 - unknown animation source Hit1
+14:00:00 MAP_Dum_mesto3test: Hit2 - unknown animation source Hit2
+14:00:00 MAP_Dum_mesto3test: Hit3 - unknown animation source Hit3
+14:00:00 MAP_Dum_mesto3test: Hit4 - unknown animation source Hit4
+14:00:00 MAP_Dum_mesto3test: Hit5 - unknown animation source Hit5
+14:00:00 MAP_Dum_mesto3test: Hit6 - unknown animation source Hit6
+14:00:00 MAP_Dum_mesto3test: Hit7 - unknown animation source Hit7
+14:00:00 MAP_Dum_mesto3test: Hit8 - unknown animation source Hit8
+14:00:00 MAP_Dum_mesto3test: Hit9 - unknown animation source Hit9
+14:00:00 MAP_Dum_mesto3test: Hit10 - unknown animation source Hit10
+14:00:00 MAP_Dum_mesto3test: Hit11 - unknown animation source Hit11
+14:00:00 MAP_Dum_mesto3test: Hit12 - unknown animation source Hit12
+14:00:00 MAP_Dum_mesto3test: HitS - unknown animation source HitS
+14:00:00 ca\buildings2\a_advertisingcolumn\a_advertcolumn.p3d: No geometry and no visual shape
+14:00:00 ca\buildings2\a_advertisingcolumn\a_advertcolumn.p3d: No geometry and no visual shape
+14:00:00 ca\buildings2\a_advertisingcolumn\a_advertcolumn.p3d: No geometry and no visual shape
+14:00:00 ca\buildings2\a_advertisingcolumn\a_advertcolumn.p3d: No geometry and no visual shape
+14:00:00 ca\misc\pallets_column.p3d: No geometry and no visual shape
+14:00:00 ca\misc\pallets_column.p3d: No geometry and no visual shape
+14:00:00 ca\misc\pallets_column.p3d: No geometry and no visual shape
+14:00:00 ca\misc\pallets_column.p3d: No geometry and no visual shape
+14:00:00 Cannot create non-ai vehicle Land_A_FuelStation_Sign,
+14:00:00 Cannot create non-ai vehicle Land_A_FuelStation_Sign,
+14:00:00 No owner
+14:00:00 ca\buildings2\a_advertisingcolumn\a_advertcolumn.p3d: No geometry and no visual shape
+14:00:00 ca\buildings2\a_advertisingcolumn\a_advertcolumn.p3d: No geometry and no visual shape
+14:00:00 ca\buildings2\a_advertisingcolumn\a_advertcolumn.p3d: No geometry and no visual shape
+14:00:00 ca\buildings2\a_advertisingcolumn\a_advertcolumn.p3d: No geometry and no visual shape
+14:00:00 Warning: z\addons\dayz_communityassets\models\compass.p3d:0 Error while trying to generate ST for points: 863, 853, 852
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\buildings2\a_advertisingcolumn\a_advertcolumn.p3d: No geometry and no visual shape
+14:00:01 ca\buildings2\a_advertisingcolumn\a_advertcolumn.p3d: No geometry and no visual shape
+14:00:01 ca\buildings2\a_advertisingcolumn\a_advertcolumn.p3d: No geometry and no visual shape
+14:00:01 ca\buildings2\a_advertisingcolumn\a_advertcolumn.p3d: No geometry and no visual shape
+14:00:01 No owner
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:01 Cannot create non-ai vehicle Land_Misc_Cargo2A,
+14:00:02 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:02 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:02 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:02 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:02 class HitPoints::HitLF2Wheel not found in policecar
+14:00:02 class HitPoints::HitRF2Wheel not found in policecar
+14:00:02 class HitPoints::HitLMWheel not found in policecar
+14:00:02 class HitPoints::HitRMWheel not found in policecar
+14:00:02 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:02 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:02 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:02 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+14:00:02 ca\misc\pallets_column.p3d: No geometry and no visual shape
+14:00:02 ca\misc\pallets_column.p3d: No geometry and no visual shape
+14:00:02 ca\misc\pallets_column.p3d: No geometry and no visual shape
+14:00:02 ca\misc\pallets_column.p3d: No geometry and no visual shape
+14:00:02 ca\misc\pallets_column.p3d: No geometry and no visual shape
+14:00:02 ca\misc\pallets_column.p3d: No geometry and no visual shape
+14:00:02 ca\misc\pallets_column.p3d: No geometry and no visual shape
+14:00:02 ca\misc\pallets_column.p3d: No geometry and no visual shape
+14:00:02 Cannot create non-ai vehicle Lands_Barn_W_01,
+14:00:02 Cannot create non-ai vehicle Land_Stan,
+14:00:02 Cannot create non-ai vehicle Land_Stan,
+14:00:02 Cannot create non-ai vehicle Land_Stan_east,
+14:00:02 "infiSTAR.de - Waiting for BIS_fnc_init..."
+14:00:02 "infiSTAR.de - BIS_fnc_init done - AntiHack STARTING...!"
+14:00:02 Warning Message: Script low_admins.sqf not found
+14:00:02 Warning Message: Script normal_admins.sqf not found
+14:00:02 Warning Message: Script super_admins.sqf not found
+14:00:02 Warning Message: Script blacklist.sqf not found
+14:00:02 "infiSTAR.de - iproductVersion: 28112014IAHAT339A | Server productVersion: ["ArmA 2 OA","ArmA2OA",163,116523] | worldName: Chernarus | dayz_instance: 11 | missionName: DayZ_Epoch_11"
+14:00:02 "infiSTAR.de - _fnc_RandomGen: {
+_arr = ["n","W","f","Z","4","5","u","w","r","w","C","n","z","e","t","B","z","a","o","X","u","b","H","I","0","d","S","D","q","f"];
+_gen = "p";
+for "_i" from 1 to 7 do {_gen = _gen + (_arr select (random ((count _arr)-1)));};
+_num = str(round(random 999998));
+_gen = _gen + '_' + _num;
+_gen
+}"
+14:00:02 "infiSTAR.de - _randvar1: pqDBZ5ff_323994"
+14:00:02 "infiSTAR.de - _randvar2: p5qz4aXW_892747"
+14:00:02 "infiSTAR.de - _randvar3: pwXnnzBn_751089"
+14:00:02 "infiSTAR.de - _randvar4: pafoufb4_118254"
+14:00:02 "infiSTAR.de - _randvar5: pfdWo4Xz_636203"
+14:00:02 "infiSTAR.de - _randvar6: pqXqBnqo_678227"
+14:00:02 "infiSTAR.de - _randvar7: pwuCfHtf_532529"
+14:00:02 "infiSTAR.de - _randvar8: pb0HIHIe_460823"
+14:00:02 "infiSTAR.de - _randvar9: pwq4BWfW_631929"
+14:00:02 "infiSTAR.de - _randvar11: pDIHuwwC_930364"
+14:00:02 "infiSTAR.de - _randvar12: pzqtDbB0_639940"
+14:00:02 "infiSTAR.de - _randvar13: pXXX4BoW_2351"
+14:00:02 "infiSTAR.de - _randvar19: pwnfB4be_650770"
+14:00:02 "infiSTAR.de - _randvar20: prnzfaab_918447"
+14:00:02 "infiSTAR.de - _randvar21: po4bznrZ_22299"
+14:00:02 "infiSTAR.de - _randvar27: pDartHqz_121498"
+14:00:02 "infiSTAR.de - _randvar26: pzra5nez_251076"
+14:00:02 "infiSTAR.de - _randvar25: pSebXHaC_130512"
+14:00:02 "infiSTAR.de - _randvar28: pdduCW0n_847326"
+14:00:02 "infiSTAR.de - _randvar29: pqoru4uw_415676"
+14:00:02 "infiSTAR.de - _randvar30: pSIZuozu_209946"
+14:00:02 "infiSTAR.de - _randvar31: puq4wbCS_273345"
+14:00:02 "infiSTAR.de - _randvar32: pzuBnrHD_501500"
+14:00:02 "infiSTAR.de - _randvar33: pfXIe04w_701047"
+14:00:02 "infiSTAR.de - _randvar34: pISzfw0u_523229"
+14:00:02 "infiSTAR.de - _randvar35: pwdwIHCu_272485"
+14:00:02 "infiSTAR.de - _AHpos: pwuWeWWw_590044"
+14:00:02 "infiSTAR.de - _randvar10: PVAHR_0_drsbebk_12527"
+14:00:02 "infiSTAR.de - infiSTAR_DLL_PATH: "
+14:00:02 "infiSTAR.de - AntiHack LOADED!"
+14:00:02 "infiSTAR.de - CREATING AdminMenu"
+14:00:02 "infiSTAR.de - ADDING PublicVariableEventHandlers"
+14:00:02 "infiSTAR.de - AntiHack FULLY LOADED"
+14:00:13 "Admin Tools: AdminList.sqf loaded"
+14:00:13 "Res3tting B!S effects..."
+14:00:13 "infiSTAR.de - infiSTAR_LoadStatus1: infiSTAR is already loaded!"
+14:00:13 "BUS:Waypoint Added: [B 1-1-C,2] at [12984,8362.67,0]"
+14:00:13 "BUS:Waypoint Added: [B 1-1-C,3] at [13279.1,6991.32,0]"
+14:00:13 "BUS:Waypoint Added: [B 1-1-C,4] at [13464.2,6255.24,0]"
+14:00:13 "BUS:Waypoint Added: [B 1-1-C,5] at [13386.8,5405.25,0]"
+14:00:13 "BUS:Waypoint Added: [B 1-1-C,6] at [12025.6,3481.76,0]"
+14:00:13 "BUS:Waypoint Added: [B 1-1-C,7] at [10504.4,2324.99,0]"
+14:00:13 "BUS:Waypoint Added: [B 1-1-C,8] at [10321.8,2149.75,0]"
+14:00:13 "BUS:Waypoint Added: [B 1-1-C,9] at [10028,2071.8,0]"
+14:00:13 "BUS:Waypoint Added: [B 1-1-C,10] at [9503.53,2028.21,0]"
+14:00:13 "BUS:Waypoint Added: [B 1-1-C,11] at [6587.65,2884.59,0]"
+14:00:13 "BUS:Waypoint Added: [B 1-1-C,12] at [6354.47,2452.24,0]"
+14:00:13 "BUS:Waypoint Added: [B 1-1-C,13] at [4565.79,2432.13,0]"
+14:00:14 "BUS:Waypoint Added: [B 1-1-C,14] at [1907.21,2240.25,0]"
+14:00:14 "BUS:Waypoint Added: [B 1-1-C,15] at [1689.06,2209.53,0]"
+14:00:14 "BUS:Waypoint Added: [B 1-1-C,16] at [1845.55,2219.14,0]"
+14:00:14 "BUS:Waypoint Added: [B 1-1-C,17] at [1940.8,2255.24,0]"
+14:00:14 "BUS:Waypoint Added: [B 1-1-C,18] at [3559.56,2448.9,0]"
+14:00:14 "BUS:Waypoint Added: [B 1-1-C,19] at [4541.37,2443.16,0]"
+14:00:14 "BUS:Waypoint Added: [B 1-1-C,20] at [5816.09,2167.39,0]"
+14:00:14 "BUS:Waypoint Added: [B 1-1-C,21] at [6408.19,2685.99,0]"
+14:00:14 "BUS:Waypoint Added: [B 1-1-C,22] at [6570.5,2877.59,0]"
+14:00:14 "BUS:Waypoint Added: [B 1-1-C,23] at [9945.28,2049.85,0]"
+14:00:14 "BUS:Waypoint Added: [B 1-1-C,24] at [10283.4,2146.71,0]"
+14:00:14 "BUS:Waypoint Added: [B 1-1-C,25] at [10389.4,2221.85,0]"
+14:00:14 "BUS:Waypoint Added: [B 1-1-C,26] at [10498.9,2320.29,0]"
+14:00:14 "BUS:Waypoint Added: [B 1-1-C,27] at [10888.2,2772.58,0]"
+14:00:14 "BUS:Waypoint Added: [B 1-1-C,28] at [12025.9,3485.04,0]"
+14:00:14 "BUS:Waypoint Added: [B 1-1-C,29] at [13005.9,3816.02,0]"
+14:00:14 "BUS:Waypoint Added: [B 1-1-C,30] at [13451.5,6211.28,0]"
+14:00:14 "BUS:Waypoint Added: [B 1-1-C,31] at [13419.9,6557.19,0]"
+14:00:14 "BUS:Waypoint Added: [B 1-1-C,32] at [13287.7,6961.19,0]"
+14:00:14 "BUS:Waypoint Added: [B 1-1-C,33] at [12930.4,10133,0]"
+14:00:14 No owner
+14:00:14 No owner
+14:00:14 "[NAC BLOWOUT SERVER] :: Next blowout in _delay (_delay = 2776.68), delay modifier is 0.74 (ns_blow_delaymod)"
+14:00:14 "[Random_Weed_Farm]: waiting for BIS_fnc_findSafePos"
+14:00:14 "[Random_Weed_Farm]: Function loaded ... Server Building 2 Weed Farm(s)"
+14:00:14 "[Random_Weed_Farm]: Found Location for a farm (135999) [13523.3,15410.4] with 8 plants"
+14:00:14 "[Random_Weed_Farm]: Found Location for a farm (083026) [8387.67,12734.5] with 4 plants"
+14:00:14 "[Random_Weed_Farm]: Weed Farm(s) Done ... Broadcasting locations for clients"
+14:00:14 "** DB groups server side initializing"
+14:00:14 "** scp_crtsrvrs initializing"
+14:00:14 "** scp_crtsrvrs initialized"
+14:00:14 "** DB groups initialized"
+14:00:14 "HIVE: Starting"
+14:00:14 "HIVE: trying to get objects"
+14:00:16 "HIVE: found 205 objects"
+14:00:16 "HIVE: Commence Object Streaming..."
+14:00:16 "HIVE: got 0 Epoch Objects and 205 Vehicles"
+14:00:16 Cannot create non-ai vehicle 350z,
+14:00:16 Cannot create non-ai vehicle 350z,
+14:00:17 Cannot create non-ai vehicle Civcarsl,
+14:00:17 Cannot create non-ai vehicle Civcarge,
+14:00:17 Cannot create non-ai vehicle 350z_kiwi,
+14:00:17 Cannot create non-ai vehicle Civcarwh,
+14:00:17 Cannot create non-ai vehicle 350z_gold,
+14:00:17 Cannot create non-ai vehicle 350z_kiwi,
+14:00:17 Cannot create non-ai vehicle 350z_silver,
+14:00:17 Cannot create non-ai vehicle 350z_silver,
+14:00:17 Cannot create non-ai vehicle Civcarbl,
+14:00:17 Cannot create non-ai vehicle 350z_black,
+14:00:17 Cannot create non-ai vehicle 350z_white,
+14:00:18 Cannot create non-ai vehicle CYBP_Camel_civ,
+14:00:18 Cannot create non-ai vehicle 350z_ruben,
+14:00:18 Cannot create non-ai vehicle CYBP_Camel_rus,
+14:00:18 Cannot create non-ai vehicle CYBP_Camel_rus,
+14:00:18 AH6X_DZ: FLIR_turret - unknown animation source FLIR_turret
+14:00:18 AH6X_DZ: FLIR_gun - unknown animation source FLIR_gun
+14:00:18 Cannot create non-ai vehicle 350z_mod,
+14:00:18 Cannot create non-ai vehicle 350z_blue,
+14:00:18 Cannot create non-ai vehicle 350z_blue,
+14:00:18 Cannot create non-ai vehicle Civcarge,
+14:00:18 Cannot create non-ai vehicle Civcarbu,
+14:00:18 Cannot create non-ai vehicle Civcar,
+14:00:18 Cannot create non-ai vehicle Civcarbu,
+14:00:18 UH1Y_DZE: ObsTurret - unknown animation source ObsTurret
+14:00:18 UH1Y_DZE: ObsGun - unknown animation source ObsGun
+14:00:18 Cannot create non-ai vehicle 350z_black,
+14:00:18 Cannot create non-ai vehicle CYBP_Camel_us,
+14:00:20 "HIVE: Spawning # of Vehicles: 126"
+14:00:20 "HIVE: Spawning # of Debris: 500"
+14:00:20 "HIVE: Spawning # of Ammo Boxes: 3"
+14:00:20 "HIVE: Spawning # of Veins: 50"
+14:00:20 "Total Number of spawn locations 5"
+14:00:20 "[DZAI] Initializing DZAI version 2.1.3 Release Build 09272014 using base path z\addons\dayz_server\DZAI."
+14:00:20 "[DZAI] Reading DZAI configuration file."
+14:00:20 "[DZAI] DZAI configuration file loaded."
+14:00:20 "[DZAI] Compiling DZAI functions."
+14:00:22 "[DZAI] DZAI functions compiled."
+14:00:22 "[DZAI] Epoch classnames loaded."
+14:00:22 "[DZAI] DZAI settings: Debug Level: 0. DebugMarkers: false. WorldName: chernarus. ModName: epoch (Ver: 1.0.5.1). DZAI_dynamicWeaponList: true. VerifyTables: true."
+14:00:22 "[DZAI] AI spawn settings: Static: true. Dynamic: false. Air: true. Land: true."
+14:00:22 "[DZAI] AI settings: DZAI_findKiller: true. DZAI_useHealthSystem: true. DZAI_weaponNoise: false. DZAI_zombieEnemy: false."
+14:00:22 "[DZAI] DZAI loading completed in 1.50099 seconds."
+14:00:22 "** scp_spwn_fr initializing"
+14:00:22 "** scp_behavoir initializing"
+14:00:22 "** scp_behavoir initialized"
+14:00:22 "** scp_task_patrol initializing"
+14:00:22 "** scp_task_patrol initialized"
+14:00:22 "** scp_publishunit B 1-1-D:1,true,false,0,false,false,true"
+14:00:22 "** scp_spwn_fr Unit created : Pilot_EP1_DZ,1039.04,2928.91"
+14:00:22 "** scp_spwn_fr initializing"
+14:00:22 "** scp_behavoir initializing"
+14:00:22 "** scp_behavoir initialized"
+14:00:22 "** scp_task_patrol initializing"
+14:00:22 "** scp_task_patrol initialized"
+14:00:22 "** scp_publishunit B 1-1-E:1,true,false,0,false,false,true"
+14:00:22 "** scp_spwn_fr Unit created : SurvivorW2_DZ,8397.94,12680.7"
+14:00:22 "** scp_spwn_fr initializing"
+14:00:22 "** scp_behavoir initializing"
+14:00:22 "** scp_behavoir initialized"
+14:00:22 "** scp_task_patrol initializing"
+14:00:22 "** scp_task_patrol initialized"
+14:00:22 "** scp_publishunit B 1-1-F:1,true,false,0,false,false,true"
+14:00:22 "** scp_spwn_fr Unit created : SurvivorW3_DZ,12912.9,10157.2"
+14:00:22 "** scp_spwn_fr initializing"
+14:00:23 "** scp_behavoir initializing"
+14:00:23 "** scp_behavoir initialized"
+14:00:23 "** scp_task_patrol initializing"
+14:00:23 "** scp_task_patrol initialized"
+14:00:23 "** scp_publishunit B 1-1-G:1,true,false,0,false,false,true"
+14:00:23 "** scp_spwn_fr Unit created : Soldier1_DZ,12945.2,10198.1"
+14:00:23 "** scp_spwn_fr initializing"
+14:00:23 "** scp_behavoir initializing"
+14:00:23 "** scp_behavoir initialized"
+14:00:23 "** scp_task_patrol initializing"
+14:00:23 "** scp_task_patrol initialized"
+14:00:23 "** scp_publishunit B 1-1-H:1,true,false,0,false,false,true"
+14:00:23 "** scp_spwn_fr Unit created : Soldier_Bodyguard_AA12_PMC_DZ,10744.1,11053.5"
+14:00:25 "PUBLISH: Attempt 35066080# 1066287: tt650.p3d"
+14:00:25 "HIVE: WRITE: "CHILD:308:11:TT650_TK_CIV_EP1:0:0:[104,[12533.9,9520.2,2.38419e-006]]:[]:[["engine",0.742906],["sklo predni P",0.335944],["sklo predni L",0.50956],["karoserie",0.720196],["palivo",0.986705],["Pravy predni tlumic",0.491608],["Pravy zadni tlumic",0.194144]]:0.631935:125339952020104:""
+14:00:25 "PUBLISH: Attempt 35b610c0# 1066288: ural.p3d"
+14:00:25 "HIVE: WRITE: "CHILD:308:11:Ural_TK_CIV_EP1:0:0:[85,[8164.05,3149.52,2.14577e-005]]:[]:[["glass1",0.357864],["glass2",0.644319],["glass3",0.0771599],["glass4",0.722134],["wheel_1_1_steering",0.331637],["wheel_2_1_steering",0.594557],["wheel_1_4_steering",0.266188],["wheel_2_4_steering",0.819615],["wheel_1_3_steering",0.165239],["wheel_2_3_steering",0.394019],["wheel_1_2_steering",0.54582],["wheel_2_2_steering",0.915891],["motor",0.811281],["sklo predni P",0.685212],["sklo predni L",0.381417],["karoserie",0.686073],["palivo",0.830003]]:0.455366:8164131495085:""
+14:00:25 "PUBLISH: Attempt 34f8b040# 1066290: hilux1_civil_3_open.p3d"
+14:00:25 "HIVE: WRITE: "CHILD:308:11:hilux1_civil_3_open_EP1:0:0:[31,[2780.55,5187.06,0.213989]]:[]:[["motor",0.707807],["sklo predni P",0.969801],["sklo predni L",0.640414],["karoserie",0.731669],["palivo",0.433168],["wheel_1_1_steering",0.780148],["wheel_2_1_steering",0.469933],["wheel_1_4_steering",0.318535],["wheel_2_4_steering",0.0631436],["wheel_1_3_steering",0.325388],["wheel_2_3_steering",0.0300549],["wheel_1_2_steering",0.31243],["wheel_2_2_steering",0.555817],["glass1",0.863053],["glass2",0.346075],["glass3",0.869166],["glass4",0.226075]]:0.202454:2780551871231:""
+14:00:25 "PUBLISH: Attempt 34f57040# 1066292: smallboat_1.p3d"
+14:00:25 "HIVE: WRITE: "CHILD:308:11:Smallboat_1:0:0:[55,[14457.2,10766.8,95.7402]]:[]:[["motor",0.448819]]:0.0503315:14457210766895755:""
+14:00:25 Warning Message: No entry 'bin\config.bin/CfgMagazines.RH_8Rnd_45cal_m1911'.
+14:00:25 Warning Message: No entry '.picture'.
+14:00:25 Warning Message: '/' is not a value
+14:00:25 Warning Message: No entry '.scope'.
+14:00:25 Warning Message: '/' is not a value
+14:00:25 Warning Message: Error: creating magazine RH_8Rnd_45cal_m1911 with scope=private
+14:00:25 Warning Message: No entry '.displayName'.
+14:00:25 Warning Message: '/' is not a value
+14:00:25 Warning Message: No entry '.displayNameShort'.
+14:00:25 Warning Message: '/' is not a value
+14:00:25 Warning Message: No entry '.nameSound'.
+14:00:25 Warning Message: '/' is not a value
+14:00:25 Warning Message: No entry '.Library'.
+14:00:25 Warning Message: No entry '.libTextDesc'.
+14:00:25 Warning Message: '/' is not a value
+14:00:25 Warning Message: No entry '.type'.
+14:00:25 Warning Message: '/' is not a value
+14:00:25 Warning Message: No entry '.count'.
+14:00:25 Warning Message: '/' is not a value
+14:00:25 Warning Message: No entry '.maxLeadSpeed'.
+14:00:25 Warning Message: '/' is not a value
+14:00:25 Warning Message: No entry '.initSpeed'.
+14:00:25 Warning Message: '/' is not a value
+14:00:25 Warning Message: No entry '.reloadAction'.
+14:00:25 Warning Message: '/' is not a value
+14:00:25 Warning Message: No entry '.modelSpecial'.
+14:00:25 Warning Message: '/' is not a value
+14:00:25 Warning Message: No entry '.ammo'.
+14:00:25 Warning Message: '/' is not a value
+14:00:25 "PUBLISH: Attempt 34f56080# 1066294: lr.p3d"
+14:00:25 "HIVE: WRITE: "CHILD:308:11:LandRover_CZ_EP1:0:0:[62,[2615.56,5709.14,0.0301208]]:[]:[["glass1",0.56089],["glass2",0.541774],["glass3",0.354118],["motor",0.831699],["palivo",0.922956],["wheel_1_1_steering",0.409213],["wheel_1_2_steering",0.0461528],["wheel_2_1_steering",0.00563526],["wheel_2_2_steering",0.44483],["sklo predni P",0.433471],["sklo predni L",0.581978],["karoserie",0.561517],["wheel_1_4_steering",0.427863],["wheel_2_4_steering",0.90249],["wheel_1_3_steering",0.755556],["wheel_2_3_steering",0.436954],["glass4",0.583524]]:0.0453652:2615657091062:""
+14:00:25 "PUBLISH: Attempt 34f550c0# 1066297: jetskiyanahui.p3d"
+14:00:25 "HIVE: WRITE: "CHILD:308:11:JetSkiYanahui_Case_Yellow:0:0:[148,[13421.9,1607.31,105.637]]:[]:[["motor",0.0997998]]:0.04845:134219160731056148:""
+14:00:25 "PUBLISH: Attempt 34f54100# 1066299: csj_gyroc.p3d"
+14:00:25 "HIVE: WRITE: "CHILD:308:11:CSJ_GyroC:0:0:[113,[3697.12,8369.61,0.00308228]]:[]:[["NEtrup",0.332378],["motor",0.762323],["elektronika",0.28344],["mala vrtule",0.754457],["velka vrtule",0.42869],["munice",0.804851],["sklo predni P",0.167894],["sklo predni L",0.206436],["glass1",0.583894],["glass2",0.362571],["glass3",0.622529],["glass4",0.698006],["glass5",0.959671],["glass6",0.542219]]:0.373473:36971836960113:""
+14:00:26 "PUBLISH: Attempt 34f3f040# 1066300: volha.p3d"
+14:00:26 "HIVE: WRITE: "CHILD:308:11:Volha_2_TK_CIV_EP1:0:0:[86,[3659.56,8889.88,0.0113831]]:[]:[["wheel_1_1_steering",0.461392],["wheel_1_2_steering",0.4066],["wheel_2_1_steering",0.0434875],["wheel_2_2_steering",0.548487],["palivo",0.886417],["motor",0.438767],["glass1",0.119958],["glass2",0.603872],["glass3",0.34988],["glass4",0.618613],["sklo predni P",0.846388],["sklo predni L",0.960842],["karoserie",0.977036],["wheel_1_4_steering",0.217145],["wheel_2_4_steering",0.544041],["wheel_1_3_steering",0.695011],["wheel_2_3_steering",0.691744]]:0.13555:3659688899086:""
+14:00:26 "PUBLISH: Attempt 34f3e080# 1066302: tt650.p3d"
+14:00:26 "HIVE: WRITE: "CHILD:308:11:TT650_Ins:0:0:[107,[5987.78,7775.75,0.0241394]]:[]:[["engine",0.00388127],["sklo predni P",0.659964],["sklo predni L",0.64144],["karoserie",0.161795],["palivo",0.0746383],["Pravy predni tlumic",0.599448],["Pravy zadni tlumic",0.676392]]:0.256416:59878777580107:""
+14:00:29 "PUBLISH: Attempt 34f3d0c0# 1066318: uh60m.p3d"
+14:00:29 "HIVE: WRITE: "CHILD:308:11:UH60M_EP1_DZE:0:0:[66,[1443.79,13304.3,0.00802612]]:[]:[["glass1",0.944203],["glass2",0.861521],["glass3",0.196268],["glass4",0.626629],["glass5",0.904339],["NEtrup",0.84179],["motor",0.783247],["elektronika",0.526429],["mala vrtule",0.141345],["velka vrtule",0.41468],["munice",0.827316],["sklo predni P",0.440232],["sklo predni L",0.947324],["glass6",0.643016]]:0.953855:14438133043066:""
+14:00:29 "PUBLISH: Attempt 34f3c100# 1066322: ikarus.p3d"
+14:00:29 "HIVE: WRITE: "CHILD:308:11:Ikarus_TK_CIV_EP1:0:0:[42,[7102.9,2782.14,0]]:[]:[["glass5",0.752109],["glass6",0.712099],["motor",0.544254],["sklo predni P",0.016916],["sklo predni L",0.33498],["karoserie",0.130264],["palivo",0.68885],["wheel_1_1_steering",0.0312584],["wheel_2_1_steering",0.407846],["wheel_1_4_steering",0.165782],["wheel_2_4_steering",0.153327],["wheel_1_3_steering",0.0311081],["wheel_2_3_steering",0.390469],["wheel_1_2_steering",0.176382],["wheel_2_2_steering",0.614901],["glass1",0.933124],["glass2",0.789481],["glass3",0.192874],["glass4",0.796379]]:0.58969:7102927821042:""
+14:00:29 "infiSTAR.de - Player-Log: Aquiles(76561198056083521) - 0h 00min | ******ADMIN******"
+14:00:30 "PUBLISH: Attempt 34df7040# 1066333: old_bike.p3d"
+14:00:30 "HIVE: WRITE: "CHILD:308:11:Old_bike_TK_INS_EP1:0:0:[9,[10849.1,2458.81,-0.0128007]]:[]:[]:0:1084912458819:""
+14:00:30 "PUBLISH: Attempt 34df6080# 1066335: uh1h.p3d"
+14:00:31 "HIVE: WRITE: "CHILD:308:11:UH1H_DZE:0:0:[52,[5515.48,15266.9,0.300537]]:[]:[["glass1",0.294173],["glass2",0.793079],["glass3",0.951098],["glass4",0.243818],["glass5",0.843943],["NEtrup",0.063164],["motor",0.762375],["elektronika",0.26059],["mala vrtule",0.569501],["velka vrtule",0.983386],["munice",0.708705],["sklo predni P",0.538227],["sklo predni L",0.624324],["glass6",0.181631]]:0.377136:55155152669352:""
+14:00:32 "DEBUG: Too many at [6678.7,2506.55]"
+14:00:33 "PUBLISH: Attempt 34df50c0# 1066346: smallboat_1.p3d"
+14:00:33 "HIVE: WRITE: "CHILD:308:11:Smallboat_1:0:0:[8,[13479.5,9817.82,41.3057]]:[]:[["motor",0.870967]]:0.531221:134795981784138:""
+14:00:33 "PUBLISH: Attempt 34df4100# 1066349: s1203.p3d"
+14:00:33 "HIVE: WRITE: "CHILD:308:11:S1203_TK_CIV_EP1:0:0:[77,[10744.3,8062.63,0.0150452]]:[]:[["wheel_1_1_steering",0.657027],["wheel_1_2_steering",0.58928],["wheel_2_1_steering",0.964508],["wheel_2_2_steering",0.100218],["motor",0.115479],["sklo predni P",0.727675],["sklo predni L",0.830825],["karoserie",0.0430361],["palivo",0.52111],["wheel_1_4_steering",0.166263],["wheel_2_4_steering",0.9556],["wheel_1_3_steering",0.136101],["wheel_2_3_steering",0.366548],["glass1",0.240579],["glass2",0.428947],["glass3",0.913033],["glass4",0.210213]]:0.117234:10744380626077:""
+14:00:33 "DEBUG: Too many vehicles at [9509.35,5936.61]"
+14:00:33 "DEBUG: Too many vehicles at [4407.39,10820.9]"
+14:00:33 "DEBUG: Too many vehicles at [12893,10198.1]"
+14:00:35 Warning Message: No entry 'bin\config.bin/CfgMagazines.vil_usp45sd_mag'.
+14:00:35 Warning Message: No entry '.picture'.
+14:00:35 Warning Message: '/' is not a value
+14:00:35 Warning Message: No entry '.scope'.
+14:00:35 Warning Message: '/' is not a value
+14:00:35 Warning Message: Error: creating magazine vil_usp45sd_mag with scope=private
+14:00:35 Warning Message: No entry '.displayName'.
+14:00:35 Warning Message: '/' is not a value
+14:00:35 Warning Message: No entry '.displayNameShort'.
+14:00:35 Warning Message: '/' is not a value
+14:00:35 Warning Message: No entry '.nameSound'.
+14:00:35 Warning Message: '/' is not a value
+14:00:35 Warning Message: No entry '.Library'.
+14:00:35 Warning Message: No entry '.libTextDesc'.
+14:00:35 Warning Message: '/' is not a value
+14:00:35 Warning Message: No entry '.type'.
+14:00:35 Warning Message: '/' is not a value
+14:00:35 Warning Message: No entry '.count'.
+14:00:35 Warning Message: '/' is not a value
+14:00:35 Warning Message: No entry '.maxLeadSpeed'.
+14:00:35 Warning Message: '/' is not a value
+14:00:35 Warning Message: No entry '.initSpeed'.
+14:00:35 Warning Message: '/' is not a value
+14:00:35 Warning Message: No entry '.reloadAction'.
+14:00:35 Warning Message: '/' is not a value
+14:00:35 Warning Message: No entry '.modelSpecial'.
+14:00:35 Warning Message: '/' is not a value
+14:00:35 Warning Message: No entry '.ammo'.
+14:00:35 Warning Message: '/' is not a value
+14:00:35 Warning Message: No entry 'bin\config.bin/CfgMagazines.RH_15Rnd_9x19_uspsd'.
+14:00:35 Warning Message: No entry '.picture'.
+14:00:35 Warning Message: '/' is not a value
+14:00:35 Warning Message: No entry '.scope'.
+14:00:35 Warning Message: '/' is not a value
+14:00:35 Warning Message: Error: creating magazine RH_15Rnd_9x19_uspsd with scope=private
+14:00:35 Warning Message: No entry '.displayName'.
+14:00:35 Warning Message: '/' is not a value
+14:00:35 Warning Message: No entry '.displayNameShort'.
+14:00:35 Warning Message: '/' is not a value
+14:00:35 Warning Message: No entry '.nameSound'.
+14:00:35 Warning Message: '/' is not a value
+14:00:35 Warning Message: No entry '.Library'.
+14:00:35 Warning Message: No entry '.libTextDesc'.
+14:00:35 Warning Message: '/' is not a value
+14:00:35 Warning Message: No entry '.type'.
+14:00:35 Warning Message: '/' is not a value
+14:00:35 Warning Message: No entry '.count'.
+14:00:35 Warning Message: '/' is not a value
+14:00:35 Warning Message: No entry '.maxLeadSpeed'.
+14:00:35 Warning Message: '/' is not a value
+14:00:35 Warning Message: No entry '.initSpeed'.
+14:00:35 Warning Message: '/' is not a value
+14:00:35 Warning Message: No entry '.reloadAction'.
+14:00:35 Warning Message: '/' is not a value
+14:00:35 Warning Message: No entry '.modelSpecial'.
+14:00:35 Warning Message: '/' is not a value
+14:00:35 Warning Message: No entry '.ammo'.
+14:00:35 Warning Message: '/' is not a value
+14:00:35 "PUBLISH: Attempt 34e1c100# 1066365: datsun_pk.p3d"
+14:00:35 "HIVE: WRITE: "CHILD:308:11:Pickup_PK_GUE_DZE:0:0:[21,[5567.72,8788.88,0.00476074]]:[]:[["motor",0.0848892],["sklo predni P",0.751932],["sklo predni L",0.541786],["karoserie",0.643759],["palivo",0.160716],["wheel_1_1_steering",0.550463],["wheel_2_1_steering",0.996585],["wheel_1_4_steering",0.0165267],["wheel_2_4_steering",0.954881],["wheel_1_3_steering",0.0266414],["wheel_2_3_steering",0.0204758],["wheel_1_2_steering",0.157983],["wheel_2_2_steering",0.0611013],["glass1",0.512855],["glass2",0.0187391],["glass3",0.699034],["glass4",0.75332]]:0.302878:5567787889021:""
+14:00:38 "PUBLISH: Attempt 34e1d0c0# 1066390: hilux1_civil_1_open.p3d"
+14:00:38 "HIVE: WRITE: "CHILD:308:11:hilux1_civil_1_open:0:0:[10,[1904.25,7604.82,0.0402527]]:[]:[["motor",0.881894],["sklo predni P",0.788748],["sklo predni L",0.616637],["karoserie",0.186349],["palivo",0.47504],["wheel_1_1_steering",0.08387],["wheel_2_1_steering",0.714492],["wheel_1_4_steering",0.708471],["wheel_2_4_steering",0.991644],["wheel_1_3_steering",0.0628623],["wheel_2_3_steering",0.288625],["wheel_1_2_steering",0.143048],["wheel_2_2_steering",0.961062],["glass1",0.447414],["glass2",0.246515],["glass3",0.312079],["glass4",0.663745]]:0.613289:1904276048010:""
+14:00:43 "DEBUG: Too many vehicles at [4736.58,6776.42]"
+14:00:47 "PUBLISH: Attempt 34e1e080# 1066430: ikarus.p3d"
+14:00:47 "HIVE: WRITE: "CHILD:308:11:Ikarus:0:0:[86,[13422.6,6176.43,0.00213003]]:[]:[["glass5",0.107762],["glass6",0.00644467],["motor",0.797675],["sklo predni P",0.514447],["sklo predni L",0.356136],["karoserie",0.0536609],["palivo",0.741434],["wheel_1_1_steering",0.341257],["wheel_2_1_steering",0.0270927],["wheel_1_4_steering",0.457876],["wheel_2_4_steering",0.304896],["wheel_1_3_steering",0.412297],["wheel_2_3_steering",0.922602],["wheel_1_2_steering",0.202527],["wheel_2_2_steering",0.535589],["glass1",0.236361],["glass2",0.168481],["glass3",0.105304],["glass4",0.746472]]:0.445986:13422661764086:""
+14:00:47 "PUBLISH: Attempt 34d0e080# 1066434: skodovka_green.p3d"
+14:00:47 "HIVE: WRITE: "CHILD:308:11:SkodaGreen:0:0:[160,[5936.05,7880.42,0.00915527]]:[]:[["motor",0.228575],["sklo predni P",0.364807],["sklo predni L",0.826849],["karoserie",0.362533],["palivo",0.427742],["wheel_1_1_steering",0.310748],["wheel_2_1_steering",0.359737],["wheel_1_4_steering",0.709928],["wheel_2_4_steering",0.830438],["wheel_1_3_steering",0.529753],["wheel_2_3_steering",0.346355],["wheel_1_2_steering",0.646851],["wheel_2_2_steering",0.725424],["glass1",0.782136],["glass2",0.644415],["glass3",0.255876],["glass4",0.520776]]:0.33757:59361788040160:""
+14:00:47 "PUBLISH: Attempt 34ce3040# 1066436: skodovka_green.p3d"
+14:00:47 "HIVE: WRITE: "CHILD:308:11:SkodaGreen:0:0:[45,[12280.8,9142.92,7.62939e-006]]:[]:[["motor",0.0558326],["sklo predni P",0.596866],["sklo predni L",0.827419],["karoserie",0.929654],["palivo",0.706007],["wheel_1_1_steering",0.944953],["wheel_2_1_steering",0.926511],["wheel_1_4_steering",0.502159],["wheel_2_4_steering",0.550086],["wheel_1_3_steering",0.483201],["wheel_2_3_steering",0.344226],["wheel_1_2_steering",0.912093],["wheel_2_2_steering",0.463965],["glass1",0.0993476],["glass2",0.484746],["glass3",0.944819],["glass4",0.968335]]:0.296172:12280891429045:""
+14:00:47 Cannot create non-ai vehicle 350z_kiwi,
+14:00:47 "PUBLISH: Attempt <NULL-object>"
+14:00:47 "HIVE: WRITE: "CHILD:308:11:350z_kiwi:0:0:[118,[0,0,0]]:[]:[]:0.86868:000118:""
+14:00:47 "PUBLISH: Attempt 34ce2080# 1066439: gaz39371_vodnik.p3d"
+14:00:47 "HIVE: WRITE: "CHILD:308:11:GAZ_Vodnik_DZE:0:0:[26,[4116.53,8801.35,0.0278625]]:[]:[["wheel_1_1_steering",0.307104],["wheel_1_2_steering",0.743261],["wheel_2_1_steering",0.452409],["wheel_2_2_steering",0.221127],["palivo",0.0755998],["glass1",0.639375],["glass2",0.19889],["glass3",0.284635],["glass4",0.988131],["motor",0.290559],["sklo predni P",0.0930771],["sklo predni L",0.682022],["karoserie",0.568798],["wheel_1_4_steering",0.0923885],["wheel_2_4_steering",0.926826],["wheel_1_3_steering",0.0744991],["wheel_2_3_steering",0.292344]]:0.549075:4116588013026:""
+14:00:47 "PUBLISH: Attempt 34ce10c0# 1066441: ural.p3d"
+14:00:48 "HIVE: WRITE: "CHILD:308:11:Ural_UN_EP1:0:0:[167,[2245.2,5329.77,0.00137329]]:[]:[["glass1",0.502556],["glass2",0.982492],["glass3",0.587706],["glass4",0.620925],["wheel_1_1_steering",0.768848],["wheel_2_1_steering",0.825442],["wheel_1_4_steering",0.70966],["wheel_2_4_steering",0.0527686],["wheel_1_3_steering",0.719049],["wheel_2_3_steering",0.755423],["wheel_1_2_steering",0.144343],["wheel_2_2_steering",0.156519],["motor",0.670962],["sklo predni P",0.0947343],["sklo predni L",0.22263],["karoserie",0.220443],["palivo",0.216794]]:0.42363:22452532980167:""
+14:00:48 "DEBUG: Too many vehicles at [4615.77,2421]"
+14:00:48 "PUBLISH: Attempt 34ce0100# 1066443: mtvr.p3d"
+14:00:48 "HIVE: WRITE: "CHILD:308:11:MTVR_DES_EP1:0:0:[180,[9685.11,8894.8,0]]:[]:[["wheel_1_1_steering",0.792538],["wheel_1_2_steering",0.491578],["wheel_1_3_steering",0.480574],["wheel_2_1_steering",0.124905],["wheel_2_2_steering",0.803866],["wheel_2_3_steering",0.514447],["palivo",0.156167],["wheel_1_4_steering",0.969979],["wheel_2_4_steering",0.944668],["motor",0.922588],["sklo predni P",0.232495],["sklo predni L",0.85735],["karoserie",0.542803],["glass1",0.500001],["glass2",0.176744],["glass3",0.28275],["glass4",0.911296]]:0.104625:96851889480180:""
+14:00:48 "PUBLISH: Attempt 34cc7040# 1066445: vwgolf.p3d"
+14:00:48 "HIVE: WRITE: "CHILD:308:11:VWGolf:0:0:[165,[10416.6,2463.49,1.90735e-006]]:[]:[["wheel_1_1_steering",0.165408],["wheel_1_2_steering",0.299037],["wheel_2_1_steering",0.704624],["wheel_2_2_steering",0.720982],["motor",0.412776],["sklo predni P",0.64101],["sklo predni L",0.755498],["karoserie",0.40464],["palivo",0.160661],["wheel_1_4_steering",0.518906],["wheel_2_4_steering",0.793015],["wheel_1_3_steering",0.582156],["wheel_2_3_steering",0.764338],["glass1",0.0757735],["glass2",0.869694],["glass3",0.515594],["glass4",0.235262]]:0.607334:104166246350165:""
+14:00:48 Warning Message: No entry 'bin\config.bin/CfgMagazines.RH_17Rnd_9x19_g17SD'.
+14:00:48 Warning Message: No entry '.picture'.
+14:00:48 Warning Message: '/' is not a value
+14:00:48 Warning Message: No entry '.scope'.
+14:00:48 Warning Message: '/' is not a value
+14:00:48 Warning Message: Error: creating magazine RH_17Rnd_9x19_g17SD with scope=private
+14:00:48 Warning Message: No entry '.displayName'.
+14:00:48 Warning Message: '/' is not a value
+14:00:48 Warning Message: No entry '.displayNameShort'.
+14:00:48 Warning Message: '/' is not a value
+14:00:48 Warning Message: No entry '.nameSound'.
+14:00:48 Warning Message: '/' is not a value
+14:00:48 Warning Message: No entry '.Library'.
+14:00:48 Warning Message: No entry '.libTextDesc'.
+14:00:48 Warning Message: '/' is not a value
+14:00:48 Warning Message: No entry '.type'.
+14:00:48 Warning Message: '/' is not a value
+14:00:48 Warning Message: No entry '.count'.
+14:00:48 Warning Message: '/' is not a value
+14:00:48 Warning Message: No entry '.maxLeadSpeed'.
+14:00:48 Warning Message: '/' is not a value
+14:00:48 Warning Message: No entry '.initSpeed'.
+14:00:48 Warning Message: '/' is not a value
+14:00:48 Warning Message: No entry '.reloadAction'.
+14:00:48 Warning Message: '/' is not a value
+14:00:48 Warning Message: No entry '.modelSpecial'.
+14:00:48 Warning Message: '/' is not a value
+14:00:48 Warning Message: No entry '.ammo'.
+14:00:48 Warning Message: '/' is not a value
+14:00:48 "PUBLISH: Attempt 34cbc100# 1066446: armoredsuv_pmc.p3d"
+14:00:48 "HIVE: WRITE: "CHILD:308:11:ArmoredSUV_PMC_DZE:0:0:[60,[10188.4,5417.04,0.162018]]:[]:[["wheel_1_1_steering",0.967047],["wheel_1_2_steering",0.135864],["wheel_2_1_steering",0.430483],["wheel_2_2_steering",0.0364707],["palivo",0.268573],["motor",0.599307],["glass1",0.491901],["glass2",0.489322],["glass3",0.166745],["glass4",0.566181],["sklo predni P",0.503692],["sklo predni L",0.592593],["karoserie",0.38727],["wheel_1_4_steering",0.0907931],["wheel_2_4_steering",0.570951],["wheel_1_3_steering",0.928007],["wheel_2_3_steering",0.470878]]:0.49099:10188454170260:""
+14:00:50 Cannot create non-ai vehicle CYBP_Camel_us,
+14:00:50 "PUBLISH: Attempt <NULL-object>"
+14:00:50 "HIVE: WRITE: "CHILD:308:11:CYBP_Camel_us:0:0:[68,[0,0,0]]:[]:[]:0.427128:00068:""
+14:00:51 Cannot create non-ai vehicle 350z_pink,
+14:00:51 "PUBLISH: Attempt <NULL-object>"
+14:00:51 "HIVE: WRITE: "CHILD:308:11:350z_pink:0:0:[5,[0,0,0]]:[]:[]:0.042366:0005:""
+14:00:51 Cannot create non-ai vehicle 350z_white,
+14:00:51 "PUBLISH: Attempt <NULL-object>"
+14:00:51 "HIVE: WRITE: "CHILD:308:11:350z_white:0:0:[162,[0,0,0]]:[]:[]:0.310177:000162:""
+14:00:51 "PUBLISH: Attempt 34c93040# 1066461: datsun_pk.p3d"
+14:00:51 "HIVE: WRITE: "CHILD:308:11:Pickup_PK_TK_GUE_EP1_DZE:0:0:[104,[11054,12437.2,0.0145874]]:[]:[["motor",0.740824],["sklo predni P",0.819385],["sklo predni L",0.715054],["karoserie",0.59019],["palivo",0.842064],["wheel_1_1_steering",0.503435],["wheel_2_1_steering",0.657933],["wheel_1_4_steering",0.453663],["wheel_2_4_steering",0.129013],["wheel_1_3_steering",0.980486],["wheel_2_3_steering",0.153938],["wheel_1_2_steering",0.630297],["wheel_2_2_steering",0.03057],["glass1",0.324045],["glass2",0.850529],["glass3",0.784555],["glass4",0.27418]]:0.512399:1105401243720104:""
+14:00:53 "PUBLISH: Attempt 34c92080# 1066467: ural.p3d"
+14:00:53 "HIVE: WRITE: "CHILD:308:11:Ural_TK_CIV_EP1:0:0:[153,[11413.1,9405.38,0.00552368]]:[]:[["glass1",0.113107],["glass2",0.237663],["glass3",0.228576],["glass4",0.0792818],["wheel_1_1_steering",0.46422],["wheel_2_1_steering",0.7431],["wheel_1_4_steering",0.711778],["wheel_2_4_steering",0.107916],["wheel_1_3_steering",0.557331],["wheel_2_3_steering",0.979542],["wheel_1_2_steering",0.537862],["wheel_2_2_steering",0.495018],["motor",0.101279],["sklo predni P",0.907174],["sklo predni L",0.664171],["karoserie",0.851817],["palivo",0.542477]]:0.71353:114131940540153:""
+14:00:53 "PUBLISH: Attempt 34c90100# 1066471: mi_8amt.p3d"
+14:00:53 "HIVE: WRITE: "CHILD:308:11:Mi17_Civilian_DZ:0:0:[22,[2118.79,11700.4,0.480865]]:[]:[["glass1",0.0864771],["glass2",0.574106],["glass3",0.518828],["glass4",0.460026],["glass5",0.374606],["glass6",0.723578],["NEtrup",0.954417],["motor",0.443471],["elektronika",0.512778],["mala vrtule",0.380735],["velka vrtule",0.0385641],["munice",0.628141],["sklo predni P",0.27091],["sklo predni L",0.251059]]:0.546005:21188117004522:""
+14:00:53 Warning Message: No entry 'bin\config.bin/CfgMagazines.RH_7Rnd_32cal_ppk'.
+14:00:53 Warning Message: No entry '.picture'.
+14:00:53 Warning Message: '/' is not a value
+14:00:53 Warning Message: No entry '.scope'.
+14:00:53 Warning Message: '/' is not a value
+14:00:53 Warning Message: Error: creating magazine RH_7Rnd_32cal_ppk with scope=private
+14:00:53 Warning Message: No entry '.displayName'.
+14:00:53 Warning Message: '/' is not a value
+14:00:53 Warning Message: No entry '.displayNameShort'.
+14:00:53 Warning Message: '/' is not a value
+14:00:53 Warning Message: No entry '.nameSound'.
+14:00:53 Warning Message: '/' is not a value
+14:00:53 Warning Message: No entry '.Library'.
+14:00:53 Warning Message: No entry '.libTextDesc'.
+14:00:53 Warning Message: '/' is not a value
+14:00:53 Warning Message: No entry '.type'.
+14:00:53 Warning Message: '/' is not a value
+14:00:53 Warning Message: No entry '.count'.
+14:00:53 Warning Message: '/' is not a value
+14:00:53 Warning Message: No entry '.maxLeadSpeed'.
+14:00:53 Warning Message: '/' is not a value
+14:00:53 Warning Message: No entry '.initSpeed'.
+14:00:53 Warning Message: '/' is not a value
+14:00:53 Warning Message: No entry '.reloadAction'.
+14:00:53 Warning Message: '/' is not a value
+14:00:53 Warning Message: No entry '.modelSpecial'.
+14:00:53 Warning Message: '/' is not a value
+14:00:53 Warning Message: No entry '.ammo'.
+14:00:53 Warning Message: '/' is not a value
+14:00:53 Warning Message: No entry 'bin\config.bin/CfgMagazines.RH_17Rnd_9x19_g17SD'.
+14:00:53 Warning Message: No entry '.picture'.
+14:00:53 Warning Message: '/' is not a value
+14:00:53 Warning Message: No entry '.scope'.
+14:00:53 Warning Message: '/' is not a value
+14:00:53 Warning Message: Error: creating magazine RH_17Rnd_9x19_g17SD with scope=private
+14:00:53 Warning Message: No entry '.displayName'.
+14:00:53 Warning Message: '/' is not a value
+14:00:53 Warning Message: No entry '.displayNameShort'.
+14:00:53 Warning Message: '/' is not a value
+14:00:53 Warning Message: No entry '.nameSound'.
+14:00:53 Warning Message: '/' is not a value
+14:00:53 Warning Message: No entry '.Library'.
+14:00:53 Warning Message: No entry '.libTextDesc'.
+14:00:53 Warning Message: '/' is not a value
+14:00:53 Warning Message: No entry '.type'.
+14:00:53 Warning Message: '/' is not a value
+14:00:53 Warning Message: No entry '.count'.
+14:00:53 Warning Message: '/' is not a value
+14:00:53 Warning Message: No entry '.maxLeadSpeed'.
+14:00:53 Warning Message: '/' is not a value
+14:00:53 Warning Message: No entry '.initSpeed'.
+14:00:53 Warning Message: '/' is not a value
+14:00:53 Warning Message: No entry '.reloadAction'.
+14:00:53 Warning Message: '/' is not a value
+14:00:53 Warning Message: No entry '.modelSpecial'.
+14:00:53 Warning Message: '/' is not a value
+14:00:53 Warning Message: No entry '.ammo'.
+14:00:53 Warning Message: '/' is not a value
+14:00:53 "PUBLISH: Attempt 34c910c0# 1066469: datsun_pk.p3d"
+14:00:53 "HIVE: WRITE: "CHILD:308:11:Pickup_PK_GUE_DZE:0:0:[37,[10572.2,6961.49,0.0870361]]:[]:[["motor",0.0829046],["sklo predni P",0.354609],["sklo predni L",0.976623],["karoserie",0.493099],["palivo",0.220421],["wheel_1_1_steering",0.0428319],["wheel_2_1_steering",0.276908],["wheel_1_4_steering",0.805058],["wheel_2_4_steering",0.281282],["wheel_1_3_steering",0.651931],["wheel_2_3_steering",0.206817],["wheel_1_2_steering",0.629697],["wheel_2_2_steering",0.138118],["glass1",0.510591],["glass2",0.0932895],["glass3",0.00509262],["glass4",0.0920469]]:0.734904:10572269615137:""
+14:00:54 "PUBLISH: Attempt 34c37040# 1066472: atv.p3d"
+14:00:54 "HIVE: WRITE: "CHILD:308:11:ATV_CZ_EP1:0:0:[21,[11877.2,9092.51,0.00334167]]:[]:[["motor",0.730682],["palivo",0.113515],["wheel_1_1_steering",0.917796],["wheel_1_2_steering",0.0837845],["wheel_2_1_steering",0.681994],["wheel_2_2_steering",0.326731],["sklo predni P",0.471516],["sklo predni L",0.834898],["karoserie",0.972577],["wheel_1_4_steering",0.461105],["wheel_2_4_steering",0.420885],["wheel_1_3_steering",0.797912],["wheel_2_3_steering",0.160809],["glass1",0.129079],["glass2",0.567195],["glass3",0.111951],["glass4",0.778784]]:0.254:11877290925021:""
+14:00:54 "PUBLISH: Attempt 34c36080# 1066473: uaz.p3d"
+14:00:54 "HIVE: WRITE: "CHILD:308:11:UAZ_INS:0:0:[18,[6656.44,2547.26,9.53674e-007]]:[]:[["glass1",0.649858],["glass2",0.242924],["glass3",0.248021],["glass4",0.41046],["wheel_1_1_steering",0.32899],["wheel_1_2_steering",0.457458],["wheel_2_1_steering",0.396564],["wheel_2_2_steering",0.292072],["motor",0.962904],["sklo predni P",0.505572],["sklo predni L",0.993061],["karoserie",0.710932],["palivo",0.250604],["wheel_1_4_steering",0.116126],["wheel_2_4_steering",0.929828],["wheel_1_3_steering",0.976432],["wheel_2_3_steering",0.926855]]:0.950866:6656425473018:""
+14:00:55 Warning Message: No entry 'bin\config.bin/CfgMagazines.RH_30Rnd_9x19_tec'.
+14:00:55 Warning Message: No entry '.picture'.
+14:00:55 Warning Message: '/' is not a value
+14:00:55 Warning Message: No entry '.scope'.
+14:00:55 Warning Message: '/' is not a value
+14:00:55 Warning Message: Error: creating magazine RH_30Rnd_9x19_tec with scope=private
+14:00:55 Warning Message: No entry '.displayName'.
+14:00:55 Warning Message: '/' is not a value
+14:00:55 Warning Message: No entry '.displayNameShort'.
+14:00:55 Warning Message: '/' is not a value
+14:00:55 Warning Message: No entry '.nameSound'.
+14:00:55 Warning Message: '/' is not a value
+14:00:55 Warning Message: No entry '.Library'.
+14:00:55 Warning Message: No entry '.libTextDesc'.
+14:00:55 Warning Message: '/' is not a value
+14:00:55 Warning Message: No entry '.type'.
+14:00:55 Warning Message: '/' is not a value
+14:00:55 Warning Message: No entry '.count'.
+14:00:55 Warning Message: '/' is not a value
+14:00:55 Warning Message: No entry '.maxLeadSpeed'.
+14:00:55 Warning Message: '/' is not a value
+14:00:55 Warning Message: No entry '.initSpeed'.
+14:00:55 Warning Message: '/' is not a value
+14:00:55 Warning Message: No entry '.reloadAction'.
+14:00:55 Warning Message: '/' is not a value
+14:00:55 Warning Message: No entry '.modelSpecial'.
+14:00:55 Warning Message: '/' is not a value
+14:00:55 Warning Message: No entry '.ammo'.
+14:00:55 Warning Message: '/' is not a value
+14:00:55 "PUBLISH: Attempt 34c350c0# 1066478: lada.p3d"
+14:00:55 "HIVE: WRITE: "CHILD:308:11:Lada2_TK_CIV_EP1:0:0:[113,[3169.9,5514.69,0.0167084]]:[]:[["motor",0.13967],["sklo predni P",0.647217],["sklo predni L",0.079007],["karoserie",0.138101],["palivo",0.983499],["wheel_1_1_steering",0.249948],["wheel_2_1_steering",0.846278],["wheel_1_4_steering",0.97079],["wheel_2_4_steering",0.0386274],["wheel_1_3_steering",0.59289],["wheel_2_3_steering",0.755178],["wheel_1_2_steering",0.224408],["wheel_2_2_steering",0.295606],["glass1",0.0595876],["glass2",0.0400324],["glass3",0.964824],["glass4",0.496781]]:0.779793:31699551470113:""
+14:00:56 Cannot create non-ai vehicle CYBP_Camel_rus,
+14:00:56 "PUBLISH: Attempt <NULL-object>"
+14:00:56 "HIVE: WRITE: "CHILD:308:11:CYBP_Camel_rus:0:0:[154,[0,0,0]]:[]:[]:0.427404:000154:""
+14:00:56 "PUBLISH: Attempt 34c34100# 1066484: suv.p3d"
+14:00:56 "HIVE: WRITE: "CHILD:308:11:SUV_Silver:0:0:[0,[3106.46,8051.32,0.00775146]]:[]:[["wheel_1_1_steering",0.653874],["wheel_1_2_steering",0.0646408],["wheel_2_1_steering",0.350205],["wheel_2_2_steering",0.086409],["palivo",0.359567],["motor",0.291609],["glass1",0.393355],["glass2",0.292704],["glass3",0.937753],["glass4",0.498398],["sklo predni P",0.639401],["sklo predni L",0.551193],["karoserie",0.641707],["wheel_1_4_steering",0.0267512],["wheel_2_4_steering",0.286609],["wheel_1_3_steering",0.232727],["wheel_2_3_steering",0.610257]]:0.434923:310658051300:""
+14:00:56 Cannot create non-ai vehicle Civcarwh,
+14:00:56 "PUBLISH: Attempt <NULL-object>"
+14:00:56 "HIVE: WRITE: "CHILD:308:11:Civcarwh:0:0:[30,[0,0,0]]:[]:[]:0.369589:00030:""
+14:00:57 "PUBLISH: Attempt 34c23040# 1066487: suv.p3d"
+14:00:57 "HIVE: WRITE: "CHILD:308:11:SUV_Pink:0:0:[11,[7965.14,11341,0.168106]]:[]:[["wheel_1_1_steering",0.0422143],["wheel_1_2_steering",0.54347],["wheel_2_1_steering",0.711357],["wheel_2_2_steering",0.158157],["palivo",0.310307],["motor",0.282145],["glass1",0.358429],["glass2",0.483754],["glass3",0.0839438],["glass4",0.809545],["sklo predni P",0.950182],["sklo predni L",0.9373],["karoserie",0.551196],["wheel_1_4_steering",0.854247],["wheel_2_4_steering",0.711442],["wheel_1_3_steering",0.66964],["wheel_2_3_steering",0.309795]]:0.895463:79651113410211:""
+14:00:58 "PUBLISH: Attempt 34c1b040# 1066489: suv.p3d"
+14:00:58 "HIVE: WRITE: "CHILD:308:11:SUV_Red:0:0:[134,[9527.96,6635.53,0.142929]]:[]:[["wheel_1_1_steering",0.644916],["wheel_1_2_steering",0.0208144],["wheel_2_1_steering",0.758607],["wheel_2_2_steering",0.0687341],["palivo",0.63174],["motor",0.220301],["glass1",0.620473],["glass2",0.316661],["glass3",0.503685],["glass4",0.988725],["sklo predni P",0.751422],["sklo predni L",0.708588],["karoserie",0.350191],["wheel_1_4_steering",0.803687],["wheel_2_4_steering",0.519834],["wheel_1_3_steering",0.542822],["wheel_2_3_steering",0.34223]]:0.127797:95280663551134:""
+14:00:58 "PUBLISH: Attempt 34c1a080# 1066492: mh6j.p3d"
+14:00:58 "HIVE: WRITE: "CHILD:308:11:MH6J_DZ:0:0:[85,[5253.91,8769.28,0.00531006]]:[]:[["glass1",0.124848],["glass2",0.270668],["glass3",0.832726],["glass4",0.767847],["glass5",0.788288],["NEtrup",0.332768],["motor",0.917697],["elektronika",0.0553326],["mala vrtule",0.493956],["velka vrtule",0.333135],["munice",0.943316],["sklo predni P",0.623445],["sklo predni L",0.844277],["glass6",0.953824]]:0.0710998:5253987693085:""
+14:00:58 "DEBUG: Too many at [8749.18,2355.45]"
+14:00:58 "DEBUG: Too many vehicles at [9983.07,1827.43]"
+14:00:58 "DEBUG: Too many at [2545.97,5485.34]"
+14:00:59 "PUBLISH: Attempt 34c190c0# 1066494: tt650.p3d"
+14:00:59 "HIVE: WRITE: "CHILD:308:11:TT650_Civ:0:0:[113,[3961.37,3610.87,0.00778198]]:[]:[["engine",0.983049],["sklo predni P",0.0308793],["sklo predni L",0.388722],["karoserie",0.737587],["palivo",0.137264],["Pravy predni tlumic",0.203366],["Pravy zadni tlumic",0.243864]]:0.0491234:39614361090113:""
+14:00:59 "infiSTAR.de PlayerConnected: ["","__SERVER__"]"
+14:00:59 Cannot create non-ai vehicle 350z_gold,
+14:00:59 "PUBLISH: Attempt <NULL-object>"
+14:00:59 "HIVE: WRITE: "CHILD:308:11:350z_gold:0:0:[56,[0,0,0]]:[]:[]:0.842888:00056:""
+14:00:59 "PUBLISH: Attempt 389f10c0# 1066511: old_bike.p3d"
+14:00:59 "HIVE: WRITE: "CHILD:308:11:Old_bike_TK_INS_EP1:0:0:[25,[12147,3502.07,-0.012815]]:[]:[]:0:12147035021125:""
+14:00:59 Cannot create non-ai vehicle 350z_yellow,
+14:00:59 "PUBLISH: Attempt <NULL-object>"
+14:00:59 "HIVE: WRITE: "CHILD:308:11:350z_yellow:0:0:[142,[0,0,0]]:[]:[]:0.588585:000142:""
+14:00:59 Cannot create non-ai vehicle 350z_v,
+14:00:59 "PUBLISH: Attempt <NULL-object>"
+14:00:59 "HIVE: WRITE: "CHILD:308:11:350z_v:0:0:[119,[0,0,0]]:[]:[]:0.524363:000119:""
+14:00:59 "DEBUG: Too many vehicles at [10183,5431.95]"
+14:01:00 "DEBUG: Too many vehicles at [8154.46,3124.91]"
+14:01:00 "DEBUG: Too many vehicles at [10780.4,8089.02]"
+14:01:00 "PUBLISH: Attempt 38e42080# 1066518: mh6j.p3d"
+14:01:00 "HIVE: WRITE: "CHILD:308:11:MH6J_DZ:0:0:[107,[2731.62,8311.73,0.0259399]]:[]:[["glass1",0.898914],["glass2",0.414944],["glass3",0.284465],["glass4",0.799278],["glass5",0.49605],["NEtrup",0.38419],["motor",0.521961],["elektronika",0.354782],["mala vrtule",0.745561],["velka vrtule",0.578437],["munice",0.306994],["sklo predni P",0.0717688],["sklo predni L",0.470957],["glass6",0.395146]]:0.0540253:27316831170107:""
+14:01:00 "PUBLISH: Attempt 38ebe080# 1066519: csj_gyroc.p3d"
+14:01:01 "CRASHSPAWNER: 100% chance to start a crashing C-130J with loot table 'MilitarySpecial'"
+14:01:01 "CRASHSPAWNER: C-130J started flying from [16240,10000] to [6865.29,15385.5] NOW!(TIME:2||LT:MilitarySpecial)"
+14:01:01 "EPOCH EVENTS INIT"
+14:01:01 "CRASHSPAWNER: 100% chance to start a crashing AN2 Cargo Plane with loot table 'MilitarySpecial'"
+14:01:01 "CRASHSPAWNER: AN2 Cargo Plane started flying from [9712,663.067] to [3779.54,14520.1] NOW!(TIME:2||LT:MilitarySpecial)"
+14:01:01 "PLANE: Starting spawn logic for animated AN2 Carepackage drops - written by Grafzahl, modded by fofinho [CD:1]"
+14:01:01 "PLANE: 75% chance to start a AN2 Cargo Plane Carepackagedrop at 3676.74 with 3 drop points"
+14:01:01 "PUBLISH: Attempt 38ebf040# 1066550: uh1h.p3d"
+14:01:01 "PUBLISH: Attempt 39a6f040# 1066558: mh6j.p3d"
+14:01:01 "HIVE: WRITE: "CHILD:308:11:MH6J_DZ:0:0:[104,[8182.28,5948.11,0.0359802]]:[]:[["glass1",0.926471],["glass2",0.874284],["glass3",0.214946],["glass4",0.598768],["glass5",0.693282],["NEtrup",0.953524],["motor",0.214569],["elektronika",0.619302],["mala vrtule",0.874168],["velka vrtule",0.951438],["munice",0.758579],["sklo predni P",0.483313],["sklo predni L",0.410468],["glass6",0.693948]]:0.224438:81823594810104:""
+14:01:02 Cannot create non-ai vehicle 350z_silver,
+14:01:02 "PUBLISH: Attempt <NULL-object>"
+14:01:02 "HIVE: WRITE: "CHILD:308:11:350z_silver:0:0:[61,[0,0,0]]:[]:[]:0.654401:00061:""
+14:01:03 "DEBUG: Too many at [4811.55,2519.74]"
+14:01:03 "** scp_spwn_fr initialized"
+14:01:03 "** scp_spwn_fr initialized"
+14:01:03 "** scp_spwn_fr initialized"
+14:01:03 "** scp_spwn_fr initialized"
+14:01:03 "** scp_spwn_fr initialized"
+14:01:04 "PUBLISH: Attempt 36884100# 1066509: hilux1_civil_1_open.p3d"
+14:01:04 "HIVE: WRITE: "CHILD:308:11:hilux1_civil_1_open:0:0:[151,[12863.5,8048.35,0.021677]]:[]:[["motor",0.535908],["sklo predni P",0.858484],["sklo predni L",0.17461],["karoserie",0.963691],["palivo",0.895073],["wheel_1_1_steering",0.512701],["wheel_2_1_steering",0.646001],["wheel_1_4_steering",0.750534],["wheel_2_4_steering",0.766084],["wheel_1_3_steering",0.224826],["wheel_2_3_steering",0.520768],["wheel_1_2_steering",0.0144479],["wheel_2_2_steering",0.578325],["glass1",0.295005],["glass2",0.0968528],["glass3",0.573989],["glass4",0.318453]]:0.410762:128635804840151:""
+14:01:04 "HIVE: WRITE: "CHILD:388:13422661764086:""
+14:01:04 "CUSTOM: Selected "228""
+14:01:04 "HIVE: WRITE: "CHILD:388:59361788040160:""
+14:01:04 "CUSTOM: Selected "229""
+14:01:04 "HIVE: WRITE: "CHILD:388:1904276048010:""
+14:01:04 "CUSTOM: Selected "227""
+14:01:04 "HIVE: WRITE: "CHILD:388:12280891429045:""
+14:01:04 "CUSTOM: Selected "230""
+14:01:04 "HIVE: WRITE: "CHILD:388:5567787889021:""
+14:01:04 "CUSTOM: Selected "226""
+14:01:04 "HIVE: WRITE: "CHILD:388:000118:""
+14:01:04 "CUSTOM: Selected "231""
+14:01:04 "PUBLISH: Created 350z_kiwi with ID "000118""
+14:01:04 "HIVE: WRITE: "CHILD:388:10744380626077:""
+14:01:04 "CUSTOM: Selected "225""
+14:01:04 "HIVE: WRITE: "CHILD:388:4116588013026:""
+14:01:04 "CUSTOM: Selected "232""
+14:01:04 "HIVE: WRITE: "CHILD:388:134795981784138:""
+14:01:04 "CUSTOM: Selected "224""
+14:01:04 "PUBLISH: Created Smallboat_1 with ID "134795981784138""
+14:01:04 "HIVE: WRITE: "CHILD:388:22452532980167:""
+14:01:04 "CUSTOM: Selected "233""
+14:01:04 "HIVE: WRITE: "CHILD:388:55155152669352:""
+14:01:04 "CUSTOM: Selected "223""
+14:01:04 "HIVE: WRITE: "CHILD:388:96851889480180:""
+14:01:04 "CUSTOM: Selected "234""
+14:01:04 "HIVE: WRITE: "CHILD:388:1084912458819:""
+14:01:04 "CUSTOM: Selected "222""
+14:01:04 "PUBLISH: Created Old_bike_TK_INS_EP1 with ID "1084912458819""
+14:01:04 "HIVE: WRITE: "CHILD:388:104166246350165:""
+14:01:04 "CUSTOM: Selected "235""
+14:01:04 "HIVE: WRITE: "CHILD:388:7102927821042:""
+14:01:04 "CUSTOM: Selected "221""
+14:01:04 "HIVE: WRITE: "CHILD:388:10188454170260:""
+14:01:04 "CUSTOM: Selected "236""
+14:01:04 "HIVE: WRITE: "CHILD:388:14438133043066:""
+14:01:04 "CUSTOM: Selected "220""
+14:01:04 "HIVE: WRITE: "CHILD:388:00068:""
+14:01:04 "CUSTOM: Selected "237""
+14:01:04 "PUBLISH: Created CYBP_Camel_us with ID "00068""
+14:01:04 "HIVE: WRITE: "CHILD:388:59878777580107:""
+14:01:04 "CUSTOM: Selected "219""
+14:01:04 "PUBLISH: Created TT650_Ins with ID "59878777580107""
+14:01:04 "HIVE: WRITE: "CHILD:388:0005:""
+14:01:04 "CUSTOM: Selected "238""
+14:01:04 "PUBLISH: Created 350z_pink with ID "0005""
+14:01:04 "HIVE: WRITE: "CHILD:388:000162:""
+14:01:04 "CUSTOM: Selected "71""
+14:01:04 "PUBLISH: Created 350z_white with ID "000162""
+14:01:04 "HIVE: WRITE: "CHILD:388:8164131495085:""
+14:01:04 "CUSTOM: Selected "212""
+14:01:04 "HIVE: WRITE: "CHILD:388:39614361090113:""
+14:01:04 "CUSTOM: Selected "253""
+14:01:04 "PUBLISH: Created TT650_Civ with ID "39614361090113""
+14:01:04 "HIVE: WRITE: "CHILD:388:36971836960113:""
+14:01:04 "CUSTOM: Selected "217""
+14:01:04 "PUBLISH: Created CSJ_GyroC with ID "36971836960113""
+14:01:04 "HIVE: WRITE: "CHILD:388:21188117004522:""
+14:01:04 "CUSTOM: Selected "242""
+14:01:04 "HIVE: WRITE: "CHILD:388:11877290925021:""
+14:01:04 "CUSTOM: Selected "244""
+14:01:04 "HIVE: WRITE: "CHILD:388:10572269615137:""
+14:01:04 "CUSTOM: Selected "243""
+14:01:04 "HIVE: WRITE: "CHILD:388:6656425473018:""
+14:01:04 "CUSTOM: Selected "245""
+14:01:05 "HIVE: WRITE: "CHILD:388:114131940540153:""
+14:01:05 "CUSTOM: Selected "241""
+14:01:05 "HIVE: WRITE: "CHILD:388:31699551470113:""
+14:01:05 "CUSTOM: Selected "246""
+14:01:05 "HIVE: WRITE: "CHILD:388:310658051300:""
+14:01:05 "CUSTOM: Selected "248""
+14:01:05 "HIVE: WRITE: "CHILD:388:1105401243720104:""
+14:01:05 "CUSTOM: Selected "240""
+14:01:05 "HIVE: WRITE: "CHILD:388:00030:""
+14:01:05 "CUSTOM: Selected "249""
+14:01:05 "PUBLISH: Created Civcarwh with ID "00030""
+14:01:05 "HIVE: WRITE: "CHILD:388:000154:""
+14:01:05 "CUSTOM: Selected "247""
+14:01:05 "PUBLISH: Created CYBP_Camel_rus with ID "000154""
+14:01:05 "HIVE: WRITE: "CHILD:388:134219160731056148:""
+14:01:05 "CUSTOM: Selected "216""
+14:01:05 "PUBLISH: Created JetSkiYanahui_Case_Yellow with ID "134219160731056148""
+14:01:05 "HIVE: WRITE: "CHILD:388:125339952020104:""
+14:01:05 "CUSTOM: Selected "211""
+14:01:05 "PUBLISH: Created TT650_TK_CIV_EP1 with ID "125339952020104""
+14:01:05 "HIVE: WRITE: "CHILD:388:3659688899086:""
+14:01:05 "CUSTOM: Selected "218""
+14:01:05 "HIVE: WRITE: "CHILD:388:79651113410211:""
+14:01:05 "CUSTOM: Selected "250""
+14:01:05 "HIVE: WRITE: "CHILD:388:2615657091062:""
+14:01:05 "CUSTOM: Selected "215""
+14:01:05 "HIVE: WRITE: "CHILD:388:2780551871231:""
+14:01:05 "CUSTOM: Selected "213""
+14:01:05 "HIVE: WRITE: "CHILD:388:14457210766895755:""
+14:01:05 "CUSTOM: Selected "214""
+14:01:05 "PUBLISH: Created Smallboat_1 with ID "14457210766895755""
+14:01:05 "HIVE: WRITE: "CHILD:388:95280663551134:""
+14:01:05 "CUSTOM: Selected "251""
+14:01:05 "PUBLISH: Attempt 38a490c0# 1066510: mi_8amt.p3d"
+14:01:05 "HIVE: WRITE: "CHILD:308:11:Mi17_Civilian_DZ:0:0:[6,[4233.4,5503.3,0.523468]]:[]:[["glass1",0.69708],["glass2",0.66959],["glass3",0.681983],["glass4",0.662471],["glass5",0.46549],["glass6",0.317848],["NEtrup",0.150494],["motor",0.963424],["elektronika",0.810659],["mala vrtule",0.126756],["velka vrtule",0.75097],["munice",0.203353],["sklo predni P",0.496904],["sklo predni L",0.371088]]:0.896713:423345503356:""
+14:01:05 Warning Message: No entry 'bin\config.bin/CfgMagazines.vil_bhp_mag'.
+14:01:05 Warning Message: No entry '.picture'.
+14:01:05 Warning Message: '/' is not a value
+14:01:05 Warning Message: No entry '.scope'.
+14:01:05 Warning Message: '/' is not a value
+14:01:05 Warning Message: Error: creating magazine vil_bhp_mag with scope=private
+14:01:05 Warning Message: No entry '.displayName'.
+14:01:05 Warning Message: '/' is not a value
+14:01:05 Warning Message: No entry '.displayNameShort'.
+14:01:05 Warning Message: '/' is not a value
+14:01:05 Warning Message: No entry '.nameSound'.
+14:01:05 Warning Message: '/' is not a value
+14:01:05 Warning Message: No entry '.Library'.
+14:01:05 Warning Message: No entry '.libTextDesc'.
+14:01:05 Warning Message: '/' is not a value
+14:01:05 Warning Message: No entry '.type'.
+14:01:05 Warning Message: '/' is not a value
+14:01:05 Warning Message: No entry '.count'.
+14:01:05 Warning Message: '/' is not a value
+14:01:05 Warning Message: No entry '.maxLeadSpeed'.
+14:01:05 Warning Message: '/' is not a value
+14:01:05 Warning Message: No entry '.initSpeed'.
+14:01:05 Warning Message: '/' is not a value
+14:01:05 Warning Message: No entry '.reloadAction'.
+14:01:05 Warning Message: '/' is not a value
+14:01:05 Warning Message: No entry '.modelSpecial'.
+14:01:05 Warning Message: '/' is not a value
+14:01:05 Warning Message: No entry '.ammo'.
+14:01:05 Warning Message: '/' is not a value
+14:01:05 "PUBLISH: Attempt 389f0100# 1066512: skodovka_red.p3d"
+14:01:05 "HIVE: WRITE: "CHILD:308:11:SkodaRed:0:0:[112,[10644,12490.1,0.0962219]]:[]:[["motor",0.199972],["sklo predni P",0.689132],["sklo predni L",0.628502],["karoserie",0.309201],["palivo",0.917725],["wheel_1_1_steering",0.00596697],["wheel_2_1_steering",0.561342],["wheel_1_4_steering",0.558542],["wheel_2_4_steering",0.967966],["wheel_1_3_steering",0.972534],["wheel_2_3_steering",0.242458],["wheel_1_2_steering",0.897815],["wheel_2_2_steering",0.185375],["glass1",0.0233069],["glass2",0.92825],["glass3",0.105773],["glass4",0.440789]]:0.490763:1064401249011112:""
+14:01:05 "PUBLISH: Attempt 38ab7040# 1066513: lada.p3d"
+14:01:05 "HIVE: WRITE: "CHILD:308:11:Lada2:0:0:[93,[4713.06,9949.59,0]]:[]:[["motor",0.892262],["sklo predni P",0.945174],["sklo predni L",0.483047],["karoserie",0.44818],["palivo",0.216712],["wheel_1_1_steering",0.77836],["wheel_2_1_steering",0.578964],["wheel_1_4_steering",0.792907],["wheel_2_4_steering",0.757426],["wheel_1_3_steering",0.379154],["wheel_2_3_steering",0.36189],["wheel_1_2_steering",0.244106],["wheel_2_2_steering",0.352403],["glass1",0.813312],["glass2",0.276542],["glass3",0.407794],["glass4",0.829287]]:0.28763:4713199496093:""
+14:01:05 Warning Message: No entry 'bin\config.bin/CfgMagazines.RH_12Rnd_45cal_usp'.
+14:01:05 Warning Message: No entry '.picture'.
+14:01:05 Warning Message: '/' is not a value
+14:01:05 Warning Message: No entry '.scope'.
+14:01:05 Warning Message: '/' is not a value
+14:01:05 Warning Message: Error: creating magazine RH_12Rnd_45cal_usp with scope=private
+14:01:05 Warning Message: No entry '.displayName'.
+14:01:05 Warning Message: '/' is not a value
+14:01:05 Warning Message: No entry '.displayNameShort'.
+14:01:05 Warning Message: '/' is not a value
+14:01:05 Warning Message: No entry '.nameSound'.
+14:01:05 Warning Message: '/' is not a value
+14:01:05 Warning Message: No entry '.Library'.
+14:01:05 Warning Message: No entry '.libTextDesc'.
+14:01:05 Warning Message: '/' is not a value
+14:01:05 Warning Message: No entry '.type'.
+14:01:05 Warning Message: '/' is not a value
+14:01:05 Warning Message: No entry '.count'.
+14:01:05 Warning Message: '/' is not a value
+14:01:05 Warning Message: No entry '.maxLeadSpeed'.
+14:01:05 Warning Message: '/' is not a value
+14:01:05 Warning Message: No entry '.initSpeed'.
+14:01:05 Warning Message: '/' is not a value
+14:01:05 Warning Message: No entry '.reloadAction'.
+14:01:05 Warning Message: '/' is not a value
+14:01:05 Warning Message: No entry '.modelSpecial'.
+14:01:05 Warning Message: '/' is not a value
+14:01:05 Warning Message: No entry '.ammo'.
+14:01:05 Warning Message: '/' is not a value
+14:01:05 "PUBLISH: Attempt 38ab6080# 1066514: m997a2_ambulance.p3d"
+14:01:05 "HIVE: WRITE: "CHILD:308:11:HMMWV_Ambulance:0:0:[104,[8826.94,11658.8,0.000335693]]:[]:[["glass1",0.173134],["glass2",0.758154],["glass3",0.454839],["glass4",0.582988],["wheel_1_1_steering",0.0445221],["wheel_1_2_steering",0.33063],["wheel_2_1_steering",0.428536],["wheel_2_2_steering",0.779643],["fueltank",0.888331],["engine",0.681032],["sklo predni P",0.0272],["sklo predni L",0.71445],["karoserie",0.967157],["wheel_1_4_steering",0.754795],["wheel_2_4_steering",0.33192],["wheel_1_3_steering",0.714584],["wheel_2_3_steering",0.0675122]]:0.20209:882691165880104:""
+14:01:05 "PUBLISH: Attempt 38ab50c0# 1066515: datsun_pk.p3d"
+14:01:05 "HIVE: WRITE: "CHILD:308:11:Pickup_PK_INS_DZE:0:0:[143,[8782.67,11752.4,0.0555725]]:[]:[["motor",0.45072],["sklo predni P",0.253564],["sklo predni L",0.368773],["karoserie",0.039602],["palivo",0.288915],["wheel_1_1_steering",0.123613],["wheel_2_1_steering",0.235072],["wheel_1_4_steering",0.680093],["wheel_2_4_steering",0.578331],["wheel_1_3_steering",0.836304],["wheel_2_3_steering",0.184085],["wheel_1_2_steering",0.541915],["wheel_2_2_steering",0.681353],["glass1",0.0824096],["glass2",0.668463],["glass3",0.110042],["glass4",0.722049]]:0.814169:878271175241143:""
+14:01:05 "PUBLISH: Attempt 38dbb040# 1066516: datsun_pk.p3d"
+14:01:05 "HIVE: WRITE: "CHILD:308:11:Pickup_PK_GUE_DZE:0:0:[21,[10403.9,2255.75,0.00466919]]:[]:[["motor",0.216631],["sklo predni P",0.233356],["sklo predni L",0.533634],["karoserie",0.436953],["palivo",0.634804],["wheel_1_1_steering",0.0591772],["wheel_2_1_steering",0.907284],["wheel_1_4_steering",0.676044],["wheel_2_4_steering",0.640542],["wheel_1_3_steering",0.927318],["wheel_2_3_steering",0.860232],["wheel_1_2_steering",0.393421],["wheel_2_2_steering",0.420442],["glass1",0.21522],["glass2",0.086518],["glass3",0.389085],["glass4",0.862114]]:0.511375:10403922558021:""
+14:01:05 "PUBLISH: Attempt 38dba080# 1066517: zodiac.p3d"
+14:01:05 "HIVE: WRITE: "CHILD:308:11:Zodiac:0:0:[91,[14782.4,1426.41,120.221]]:[]:[["motor",0.359658]]:0.819956:14782414264120291:""
+14:01:05 "HIVE: WRITE: "CHILD:308:11:CSJ_GyroC:0:0:[112,[11834.5,15128.8,0.0465851]]:[]:[["NEtrup",0.805628],["motor",0.205903],["elektronika",0.672337],["mala vrtule",0.0652246],["velka vrtule",0.37639],["munice",0.524659],["sklo predni P",0.550974],["sklo predni L",0.882947],["glass1",0.0278157],["glass2",0.535699],["glass3",0.309035],["glass4",0.988105],["glass5",0.180703],["glass6",0.640309]]:0.812355:1183451512880112:""
+14:01:05 "PUBLISH: Attempt 38ebd0c0# 1066520: zodiac.p3d"
+14:01:05 "HIVE: WRITE: "CHILD:308:11:Zodiac:0:0:[54,[14441.8,2261.32,37.9996]]:[]:[["motor",0.667089]]:0.55142:1444182261338054:""
+14:01:05 "PUBLISH: Attempt 38f03040# 1066521: datsun_pk.p3d"
+14:01:05 "HIVE: WRITE: "CHILD:308:11:Pickup_PK_INS_DZE:0:0:[178,[8818.65,8622.26,0.0665588]]:[]:[["motor",0.856474],["sklo predni P",0.346579],["sklo predni L",0.624174],["karoserie",0.786098],["palivo",0.675291],["wheel_1_1_steering",0.936473],["wheel_2_1_steering",0.212813],["wheel_1_4_steering",0.0962947],["wheel_2_4_steering",0.285938],["wheel_1_3_steering",0.658296],["wheel_2_3_steering",0.565772],["wheel_1_2_steering",0.483703],["wheel_2_2_steering",0.777023],["glass1",0.293534],["glass2",0.178958],["glass3",0.572673],["glass4",0.268273]]:0.425947:88187862231178:""
+14:01:05 "PUBLISH: Attempt 3914f040# 1066522: datsun1_civil_3_open.p3d"
+14:01:05 "HIVE: WRITE: "CHILD:308:11:datsun1_civil_3_open:0:0:[78,[2919.67,5595.77,0.0318298]]:[]:[["motor",0.359595],["sklo predni P",0.627471],["sklo predni L",0.244056],["karoserie",0.749987],["palivo",0.861469],["wheel_1_1_steering",0.123515],["wheel_2_1_steering",0.668641],["wheel_1_4_steering",0.756522],["wheel_2_4_steering",0.0287514],["wheel_1_3_steering",0.904163],["wheel_2_3_steering",0.879801],["wheel_1_2_steering",0.103509],["wheel_2_2_steering",0.52181],["glass1",0.229988],["glass2",0.231502],["glass3",0.952716],["glass4",0.497189]]:0.120711:2919755958078:""
+14:01:05 "PUBLISH: Attempt 38ebc100# 1066523: hmmwv.p3d"
+14:01:05 "HIVE: WRITE: "CHILD:308:11:HMMWV_DES_EP1:0:0:[66,[10348.1,9799.46,0.145981]]:[]:[["glass1",0.909769],["glass2",0.818776],["glass3",0.957848],["glass4",0.840116],["wheel_1_1_steering",0.70317],["wheel_1_2_steering",0.407419],["wheel_2_1_steering",0.79207],["wheel_2_2_steering",0.0215385],["fueltank",0.711409],["engine",0.161831],["sklo predni P",0.891116],["sklo predni L",0.692673],["karoserie",0.923171],["wheel_1_4_steering",0.72589],["wheel_2_4_steering",0.92703],["wheel_1_3_steering",0.837267],["wheel_2_3_steering",0.0895843]]:0.322474:10348197995166:""
+14:01:05 "HIVE: WRITE: "CHILD:388:5253987693085:""
+14:01:05 "CUSTOM: Selected "252""
+14:01:05 "PUBLISH: Attempt 3900f040# 1066524: suv.p3d"
+14:01:05 "HIVE: WRITE: "CHILD:308:11:SUV_Charcoal:0:0:[86,[5925.74,11221.2,0.036377]]:[]:[["wheel_1_1_steering",0.0883277],["wheel_1_2_steering",0.48464],["wheel_2_1_steering",0.577971],["wheel_2_2_steering",0.174478],["palivo",0.50294],["motor",0.703303],["glass1",0.368528],["glass2",0.395788],["glass3",0.959734],["glass4",0.941182],["sklo predni P",0.29024],["sklo predni L",0.686313],["karoserie",0.572122],["wheel_1_4_steering",0.95284],["wheel_2_4_steering",0.283187],["wheel_1_3_steering",0.386339],["wheel_2_3_steering",0.281876]]:0.506902:59257112212086:""
+14:01:06 "PUBLISH: Attempt 3900c100# 1066548: suv.p3d"
+14:01:06 "HIVE: WRITE: "CHILD:308:11:SUV_Charcoal:0:0:[115,[5318.64,11823.3,0.00872803]]:[]:[["wheel_1_1_steering",0.803036],["wheel_1_2_steering",0.940537],["wheel_2_1_steering",0.983195],["wheel_2_2_steering",0.753056],["palivo",0.416819],["motor",0.937796],["glass1",0.156565],["glass2",0.148123],["glass3",0.763154],["glass4",0.034972],["sklo predni P",0.313884],["sklo predni L",0.613954],["karoserie",0.317727],["wheel_1_4_steering",0.153431],["wheel_2_4_steering",0.0562936],["wheel_1_3_steering",0.310849],["wheel_2_3_steering",0.250827]]:0.758297:531861182330115:""
+14:01:06 "HIVE: WRITE: "CHILD:308:11:UH1H_DZE:0:0:[32,[4066.08,12837.7,0.0125275]]:[]:[["glass1",0.46698],["glass2",0.522874],["glass3",0.432462],["glass4",0.814049],["glass5",0.933826],["NEtrup",0.358305],["motor",0.191568],["elektronika",0.00630428],["mala vrtule",0.979603],["velka vrtule",0.868875],["munice",0.519222],["sklo predni P",0.909357],["sklo predni L",0.436995],["glass6",0.145409]]:0.982645:40661128377032:""
+14:01:06 "PUBLISH: Attempt 39aeb040# 1066555: mtvr.p3d"
+14:01:06 "HIVE: WRITE: "CHILD:308:11:MTVR_DES_EP1:0:0:[65,[13008.8,8286.8,3.33786e-006]]:[]:[["wheel_1_1_steering",0.985523],["wheel_1_2_steering",0.611989],["wheel_1_3_steering",0.518419],["wheel_2_1_steering",0.117301],["wheel_2_2_steering",0.533542],["wheel_2_3_steering",0.804161],["palivo",0.0480482],["wheel_1_4_steering",0.108331],["wheel_2_4_steering",0.656675],["motor",0.40867],["sklo predni P",0.163591],["sklo predni L",0.127022],["karoserie",0.377542],["glass1",0.393367],["glass2",0.975326],["glass3",0.549455],["glass4",0.336675]]:0.5512:13008982868065:""
+14:01:06 "PUBLISH: Attempt 39aab040# 1066556: ural_refuel.p3d"
+14:01:06 "HIVE: WRITE: "CHILD:308:11:UralRefuel_TK_EP1_DZ:0:0:[61,[12152.3,7222.73,0.219635]]:[]:[["glass1",0.976647],["glass2",0.243571],["glass3",0.22714],["glass4",0.951262],["wheel_1_1_steering",0.999571],["wheel_2_1_steering",0.0757824],["wheel_1_4_steering",0.582222],["wheel_2_4_steering",0.346909],["wheel_1_3_steering",0.360647],["wheel_2_3_steering",0.494816],["wheel_1_2_steering",0.488443],["wheel_2_2_steering",0.85061],["motor",0.355481],["sklo predni P",0.44757],["sklo predni L",0.648264],["karoserie",0.367957],["palivo",0.818582]]:0.422074:12152372227261:""
+14:01:06 "PUBLISH: Attempt 39a6e080# 1066559: lada.p3d"
+14:01:06 "HIVE: WRITE: "CHILD:308:11:Lada2:0:0:[150,[4896.71,5697.33,0.00189209]]:[]:[["motor",0.321075],["sklo predni P",0.137206],["sklo predni L",0.578666],["karoserie",0.696942],["palivo",0.0870065],["wheel_1_1_steering",0.0560345],["wheel_2_1_steering",0.112933],["wheel_1_4_steering",0.861026],["wheel_2_4_steering",0.997424],["wheel_1_3_steering",0.119474],["wheel_2_3_steering",0.777252],["wheel_1_2_steering",0.657561],["wheel_2_2_steering",0.0661353],["glass1",0.377841],["glass2",0.354303],["glass3",0.266102],["glass4",0.289731]]:0.164679:48967569730150:""
+14:01:06 Warning Message: No entry 'bin\config.bin/CfgMagazines.RH_8Rnd_9x19_P38'.
+14:01:06 Warning Message: No entry '.picture'.
+14:01:06 Warning Message: '/' is not a value
+14:01:06 Warning Message: No entry '.scope'.
+14:01:06 Warning Message: '/' is not a value
+14:01:06 Warning Message: Error: creating magazine RH_8Rnd_9x19_P38 with scope=private
+14:01:06 Warning Message: No entry '.displayName'.
+14:01:06 Warning Message: '/' is not a value
+14:01:06 Warning Message: No entry '.displayNameShort'.
+14:01:06 Warning Message: '/' is not a value
+14:01:06 Warning Message: No entry '.nameSound'.
+14:01:06 Warning Message: '/' is not a value
+14:01:06 Warning Message: No entry '.Library'.
+14:01:06 Warning Message: No entry '.libTextDesc'.
+14:01:06 Warning Message: '/' is not a value
+14:01:06 Warning Message: No entry '.type'.
+14:01:06 Warning Message: '/' is not a value
+14:01:06 Warning Message: No entry '.count'.
+14:01:06 Warning Message: '/' is not a value
+14:01:06 Warning Message: No entry '.maxLeadSpeed'.
+14:01:06 Warning Message: '/' is not a value
+14:01:06 Warning Message: No entry '.initSpeed'.
+14:01:06 Warning Message: '/' is not a value
+14:01:06 Warning Message: No entry '.reloadAction'.
+14:01:06 Warning Message: '/' is not a value
+14:01:06 Warning Message: No entry '.modelSpecial'.
+14:01:06 Warning Message: '/' is not a value
+14:01:06 Warning Message: No entry '.ammo'.
+14:01:06 Warning Message: '/' is not a value
+14:01:06 "PUBLISH: Attempt 39a6d0c0# 1066563: skodovka_green.p3d"
+14:01:06 "HIVE: WRITE: "CHILD:308:11:SkodaGreen:0:0:[44,[9735.57,6570.89,0.0318909]]:[]:[["motor",0.919556],["sklo predni P",0.305506],["sklo predni L",0.829724],["karoserie",0.503109],["palivo",0.858482],["wheel_1_1_steering",0.535608],["wheel_2_1_steering",0.34587],["wheel_1_4_steering",0.0626775],["wheel_2_4_steering",0.937408],["wheel_1_3_steering",0.899797],["wheel_2_3_steering",0.228619],["wheel_1_2_steering",0.695573],["wheel_2_2_steering",0.790027],["glass1",0.15761],["glass2",0.50009],["glass3",0.0483683],["glass4",0.94758]]:0.0767528:9735665709044:""
+14:01:06 "PUBLISH: Attempt 39a6c100# 1066564: tractor_2.p3d"
+14:01:06 "HIVE: WRITE: "CHILD:308:11:tractor:0:0:[19,[5837.13,2725.89,0.0331497]]:[]:[["motor",0.762316],["sklo predni P",0.178085],["sklo predni L",0.222045],["karoserie",0.108702],["palivo",0.499598],["wheel_1_1_steering",0.409556],["wheel_2_1_steering",0.398655],["wheel_1_4_steering",0.290488],["wheel_2_4_steering",0.67074],["wheel_1_3_steering",0.0809568],["wheel_2_3_steering",0.718383],["wheel_1_2_steering",0.213129],["wheel_2_2_steering",0.581951],["glass1",0.264633],["glass2",0.757743],["glass3",0.375177],["glass4",0.221134]]:0.403988:5837127259019:""
+14:01:06 "PUBLISH: Attempt 39a2b040# 1066569: ikarus.p3d"
+14:01:06 "HIVE: WRITE: "CHILD:308:11:Ikarus_TK_CIV_EP1:0:0:[91,[10424.3,7038.29,0.0595856]]:[]:[["glass5",0.197478],["glass6",0.142423],["motor",0.968237],["sklo predni P",0.802881],["sklo predni L",0.319368],["karoserie",0.14874],["palivo",0.840509],["wheel_1_1_steering",0.971381],["wheel_2_1_steering",0.443315],["wheel_1_4_steering",0.302157],["wheel_2_4_steering",0.819951],["wheel_1_3_steering",0.0618828],["wheel_2_3_steering",0.684396],["wheel_1_2_steering",0.114344],["wheel_2_2_steering",0.56778],["glass1",0.914013],["glass2",0.523009],["glass3",0.592452],["glass4",0.41223]]:0.0290708:10424370383191:""
+14:01:06 "PUBLISH: Attempt 39a2a080# 1066570: zodiac.p3d"
+14:01:06 "HIVE: WRITE: "CHILD:308:11:Zodiac:0:0:[94,[14363.6,8255.78,130.871]]:[]:[["motor",0.501438]]:0.635214:14363682558130994:""
+14:01:06 Warning Message: No entry 'bin\config.bin/CfgMagazines.RH_30Rnd_9x19_tec'.
+14:01:06 Warning Message: No entry '.picture'.
+14:01:06 Warning Message: '/' is not a value
+14:01:06 Warning Message: No entry '.scope'.
+14:01:06 Warning Message: '/' is not a value
+14:01:06 Warning Message: Error: creating magazine RH_30Rnd_9x19_tec with scope=private
+14:01:06 Warning Message: No entry '.displayName'.
+14:01:06 Warning Message: '/' is not a value
+14:01:06 Warning Message: No entry '.displayNameShort'.
+14:01:06 Warning Message: '/' is not a value
+14:01:06 Warning Message: No entry '.nameSound'.
+14:01:06 Warning Message: '/' is not a value
+14:01:06 Warning Message: No entry '.Library'.
+14:01:06 Warning Message: No entry '.libTextDesc'.
+14:01:06 Warning Message: '/' is not a value
+14:01:06 Warning Message: No entry '.type'.
+14:01:06 Warning Message: '/' is not a value
+14:01:06 Warning Message: No entry '.count'.
+14:01:06 Warning Message: '/' is not a value
+14:01:06 Warning Message: No entry '.maxLeadSpeed'.
+14:01:06 Warning Message: '/' is not a value
+14:01:06 Warning Message: No entry '.initSpeed'.
+14:01:06 Warning Message: '/' is not a value
+14:01:06 Warning Message: No entry '.reloadAction'.
+14:01:06 Warning Message: '/' is not a value
+14:01:06 Warning Message: No entry '.modelSpecial'.
+14:01:06 Warning Message: '/' is not a value
+14:01:06 Warning Message: No entry '.ammo'.
+14:01:06 Warning Message: '/' is not a value
+14:01:06 "PUBLISH: Attempt 39a290c0# 1066599: suv.p3d"
+14:01:06 "HIVE: WRITE: "CHILD:308:11:SUV_Green:0:0:[151,[3750.8,8791.39,0.0368652]]:[]:[["wheel_1_1_steering",0.75587],["wheel_1_2_steering",0.626359],["wheel_2_1_steering",0.907095],["wheel_2_2_steering",0.670921],["palivo",0.418437],["motor",0.480613],["glass1",0.711507],["glass2",0.593796],["glass3",0.677351],["glass4",0.231288],["sklo predni P",0.486825],["sklo predni L",0.699531],["karoserie",0.412417],["wheel_1_4_steering",0.556783],["wheel_2_4_steering",0.0235696],["wheel_1_3_steering",0.631945],["wheel_2_3_steering",0.646866]]:0.678978:37508879140151:""
+14:01:06 "PUBLISH: Attempt 39a28100# 1066602: volha.p3d"
+14:01:06 "HIVE: WRITE: "CHILD:308:11:VolhaLimo_TK_CIV_EP1:0:0:[90,[13390.9,5278.5,1.14441e-005]]:[]:[["wheel_1_1_steering",0.863374],["wheel_1_2_steering",0.000142103],["wheel_2_1_steering",0.380404],["wheel_2_2_steering",0.623585],["palivo",0.27411],["motor",0.627555],["glass1",0.296531],["glass2",0.673532],["glass3",0.410377],["glass4",0.645265],["sklo predni P",0.415462],["sklo predni L",0.994154],["karoserie",0.620389],["wheel_1_4_steering",0.720825],["wheel_2_4_steering",0.500661],["wheel_1_3_steering",0.704583],["wheel_2_3_steering",0.540226]]:0.981069:13390952785090:""
+14:01:07 Cannot create non-ai vehicle 350z_green,
+14:01:07 "PUBLISH: Attempt <NULL-object>"
+14:01:07 "HIVE: WRITE: "CHILD:308:11:350z_green:0:0:[40,[0,0,0]]:[]:[]:0.68331:00040:""
+14:01:07 "DEBUG VEIN: Too many objects at [10898.2,7579.04]"
+14:01:07 "DEBUG VEIN: Too many objects at [10897.2,7580.49]"
+14:01:07 "PUBLISH: Created Ikarus with ID "13422661764086""
+14:01:07 "PUBLISH: Created SkodaGreen with ID "59361788040160""
+14:01:07 "PUBLISH: Created hilux1_civil_1_open with ID "1904276048010""
+14:01:07 "PUBLISH: Created SkodaGreen with ID "12280891429045""
+14:01:07 "PUBLISH: Created Pickup_PK_GUE_DZE with ID "5567787889021""
+14:01:07 "PUBLISH: Created S1203_TK_CIV_EP1 with ID "10744380626077""
+14:01:07 "PUBLISH: Created GAZ_Vodnik_DZE with ID "4116588013026""
+14:01:07 "PUBLISH: Created Ural_UN_EP1 with ID "22452532980167""
+14:01:07 "PUBLISH: Created UH1H_DZE with ID "55155152669352""
+14:01:07 "PUBLISH: Created MTVR_DES_EP1 with ID "96851889480180""
+14:01:07 "PUBLISH: Created VWGolf with ID "104166246350165""
+14:01:07 "PUBLISH: Created Ikarus_TK_CIV_EP1 with ID "7102927821042""
+14:01:07 "PUBLISH: Created ArmoredSUV_PMC_DZE with ID "10188454170260""
+14:01:07 "PUBLISH: Created UH60M_EP1_DZE with ID "14438133043066""
+14:01:07 "HIVE: WRITE: "CHILD:388:00056:""
+14:01:07 "CUSTOM: Selected "254""
+14:01:07 "PUBLISH: Created 350z_gold with ID "00056""
+14:01:07 "PUBLISH: Created Ural_TK_CIV_EP1 with ID "8164131495085""
+14:01:07 "PUBLISH: Created Mi17_Civilian_DZ with ID "21188117004522""
+14:01:07 "PUBLISH: Created ATV_CZ_EP1 with ID "11877290925021""
+14:01:07 "PUBLISH: Created Pickup_PK_GUE_DZE with ID "10572269615137""
+14:01:07 "PUBLISH: Created UAZ_INS with ID "6656425473018""
+14:01:07 "PUBLISH: Created Ural_TK_CIV_EP1 with ID "114131940540153""
+14:01:07 "PUBLISH: Created Lada2_TK_CIV_EP1 with ID "31699551470113""
+14:01:07 "PUBLISH: Created SUV_Silver with ID "310658051300""
+14:01:07 "PUBLISH: Created Pickup_PK_TK_GUE_EP1_DZE with ID "1105401243720104""
+14:01:07 "PUBLISH: Created Volha_2_TK_CIV_EP1 with ID "3659688899086""
+14:01:07 "PUBLISH: Created SUV_Pink with ID "79651113410211""
+14:01:07 "PUBLISH: Created LandRover_CZ_EP1 with ID "2615657091062""
+14:01:07 "PUBLISH: Created hilux1_civil_3_open_EP1 with ID "2780551871231""
+14:01:07 "PUBLISH: Created SUV_Red with ID "95280663551134""
+14:01:07 "HIVE: WRITE: "CHILD:388:000142:""
+14:01:07 "CUSTOM: Selected "256""
+14:01:07 "PUBLISH: Created 350z_yellow with ID "000142""
+14:01:07 "HIVE: WRITE: "CHILD:388:12147035021125:""
+14:01:07 "CUSTOM: Selected "255""
+14:01:07 "PUBLISH: Created Old_bike_TK_INS_EP1 with ID "12147035021125""
+14:01:07 "HIVE: WRITE: "CHILD:388:000119:""
+14:01:07 "CUSTOM: Selected "257""
+14:01:07 "PUBLISH: Created 350z_v with ID "000119""
+14:01:07 "PUBLISH: Created MH6J_DZ with ID "5253987693085""
+14:01:08 "TIME SYNC: Local Time set to [2013,8,3,13,1]"
+14:01:08 "DEBUG: Too many vehicles at [9972.45,1887]"
+14:01:08 Warning Message: No entry 'bin\config.bin/CfgMagazines.RH_15Rnd_9x19_uspsd'.
+14:01:08 Warning Message: No entry '.picture'.
+14:01:08 Warning Message: '/' is not a value
+14:01:08 Warning Message: No entry '.scope'.
+14:01:08 Warning Message: '/' is not a value
+14:01:08 Warning Message: Error: creating magazine RH_15Rnd_9x19_uspsd with scope=private
+14:01:08 Warning Message: No entry '.displayName'.
+14:01:08 Warning Message: '/' is not a value
+14:01:08 Warning Message: No entry '.displayNameShort'.
+14:01:08 Warning Message: '/' is not a value
+14:01:08 Warning Message: No entry '.nameSound'.
+14:01:08 Warning Message: '/' is not a value
+14:01:08 Warning Message: No entry '.Library'.
+14:01:08 Warning Message: No entry '.libTextDesc'.
+14:01:08 Warning Message: '/' is not a value
+14:01:08 Warning Message: No entry '.type'.
+14:01:08 Warning Message: '/' is not a value
+14:01:08 Warning Message: No entry '.count'.
+14:01:08 Warning Message: '/' is not a value
+14:01:08 Warning Message: No entry '.maxLeadSpeed'.
+14:01:08 Warning Message: '/' is not a value
+14:01:08 Warning Message: No entry '.initSpeed'.
+14:01:08 Warning Message: '/' is not a value
+14:01:08 Warning Message: No entry '.reloadAction'.
+14:01:08 Warning Message: '/' is not a value
+14:01:08 Warning Message: No entry '.modelSpecial'.
+14:01:08 Warning Message: '/' is not a value
+14:01:08 Warning Message: No entry '.ammo'.
+14:01:08 Warning Message: '/' is not a value
+14:01:08 "PUBLISH: Attempt 38e4e080# 1067001: kamaz_refuel.p3d"
+14:01:08 "HIVE: WRITE: "CHILD:308:11:KamazRefuel_DZ:0:0:[82,[13052.2,6258.29,0.00260782]]:[]:[["wheel_1_1_steering",0.633058],["wheel_2_1_steering",0.516016],["wheel_1_4_steering",0.488909],["wheel_2_4_steering",0.822661],["wheel_1_3_steering",0.868121],["wheel_2_3_steering",0.416265],["wheel_1_2_steering",0.721309],["wheel_2_2_steering",0.2152],["motor",0.352192],["sklo predni P",0.414206],["sklo predni L",0.491434],["karoserie",0.645227],["palivo",0.962878],["glass1",0.285442],["glass2",0.408696],["glass3",0.891717],["glass4",0.436513]]:0.457548:13052262583082:""
+14:01:08 "HIVE: WRITE: "CHILD:388:00061:""
+14:01:08 "CUSTOM: Selected "59""
+14:01:08 "PUBLISH: Created 350z_silver with ID "00061""
+14:01:08 "Vehicle destroyed @096134 - UH1Wreck, worldspace [252.854,[9630.31,1938.22,-0.846184]], CharId 0, objID 0, objUID 0, nearby []"
+14:01:09 "PUBLISH: Attempt 38e4d0c0# 1067004: suv.p3d"
+14:01:09 "HIVE: WRITE: "CHILD:308:11:SUV_Orange:0:0:[41,[12004.5,9155.54,0.00768661]]:[]:[["wheel_1_1_steering",0.672203],["wheel_1_2_steering",0.738901],["wheel_2_1_steering",0.926559],["wheel_2_2_steering",0.887409],["palivo",0.692585],["motor",0.166036],["glass1",0.65659],["glass2",0.743756],["glass3",0.783387],["glass4",0.105592],["sklo predni P",0.918049],["sklo predni L",0.0288997],["karoserie",0.14032],["wheel_1_4_steering",0.614676],["wheel_2_4_steering",0.819681],["wheel_1_3_steering",0.330675],["wheel_2_3_steering",0.785865]]:0.903983:12004591555041:""
+14:01:09 Cannot create non-ai vehicle Civcarbu,
+14:01:09 "PUBLISH: Attempt <NULL-object>"
+14:01:09 "HIVE: WRITE: "CHILD:308:11:Civcarbu:0:0:[89,[0,0,0]]:[]:[]:0.645962:00089:""
+14:01:09 "HIVE: WRITE: "CHILD:388:128635804840151:""
+14:01:09 "CUSTOM: Selected "261""
+14:01:10 "HIVE: WRITE: "CHILD:388:423345503356:""
+14:01:10 "CUSTOM: Selected "262""
+14:01:10 "HIVE: WRITE: "CHILD:388:882691165880104:""
+14:01:10 "CUSTOM: Selected "265""
+14:01:10 "HIVE: WRITE: "CHILD:388:1064401249011112:""
+14:01:10 "CUSTOM: Selected "263""
+14:01:10 "HIVE: WRITE: "CHILD:388:4713199496093:""
+14:01:10 "CUSTOM: Selected "264""
+14:01:10 "HIVE: WRITE: "CHILD:388:878271175241143:""
+14:01:10 "CUSTOM: Selected "266""
+14:01:10 "HIVE: WRITE: "CHILD:388:10403922558021:""
+14:01:10 "CUSTOM: Selected "267""
+14:01:10 "HIVE: WRITE: "CHILD:388:14782414264120291:""
+14:01:10 "CUSTOM: Selected "268""
+14:01:10 "PUBLISH: Created Zodiac with ID "14782414264120291""
+14:01:10 "HIVE: WRITE: "CHILD:388:27316831170107:""
+14:01:10 "CUSTOM: Selected "258""
+14:01:10 "HIVE: WRITE: "CHILD:388:1183451512880112:""
+14:01:10 "CUSTOM: Selected "269""
+14:01:10 "HIVE: WRITE: "CHILD:388:88187862231178:""
+14:01:10 "CUSTOM: Selected "271""
+14:01:10 "HIVE: WRITE: "CHILD:388:1444182261338054:""
+14:01:10 "CUSTOM: Selected "270""
+14:01:10 "PUBLISH: Created Zodiac with ID "1444182261338054""
+14:01:10 "HIVE: WRITE: "CHILD:388:2919755958078:""
+14:01:10 "CUSTOM: Selected "272""
+14:01:10 "HIVE: WRITE: "CHILD:388:10348197995166:""
+14:01:10 "CUSTOM: Selected "273""
+14:01:10 "HIVE: WRITE: "CHILD:388:59257112212086:""
+14:01:10 "CUSTOM: Selected "274""
+14:01:11 "HIVE: WRITE: "CHILD:388:531861182330115:""
+14:01:11 "CUSTOM: Selected "275""
+14:01:11 "HIVE: WRITE: "CHILD:388:40661128377032:""
+14:01:11 "CUSTOM: Selected "276""
+14:01:11 "HIVE: WRITE: "CHILD:388:12152372227261:""
+14:01:11 "CUSTOM: Selected "278""
+14:01:11 "HIVE: WRITE: "CHILD:388:13008982868065:""
+14:01:11 "CUSTOM: Selected "277""
+14:01:11 "HIVE: WRITE: "CHILD:388:81823594810104:""
+14:01:11 "CUSTOM: Selected "259""
+14:01:11 "HIVE: WRITE: "CHILD:388:9735665709044:""
+14:01:11 "CUSTOM: Selected "280""
+14:01:11 "HIVE: WRITE: "CHILD:388:5837127259019:""
+14:01:11 "CUSTOM: Selected "281""
+14:01:11 "HIVE: WRITE: "CHILD:388:48967569730150:""
+14:01:11 "CUSTOM: Selected "279""
+14:01:11 "HIVE: WRITE: "CHILD:388:14363682558130994:""
+14:01:11 "CUSTOM: Selected "283""
+14:01:11 "PUBLISH: Created Zodiac with ID "14363682558130994""
+14:01:11 "HIVE: WRITE: "CHILD:388:10424370383191:""
+14:01:11 "CUSTOM: Selected "282""
+14:01:11 "HIVE: WRITE: "CHILD:388:37508879140151:""
+14:01:11 "CUSTOM: Selected "284""
+14:01:12 "HIVE: WRITE: "CHILD:388:13390952785090:""
+14:01:12 "CUSTOM: Selected "285""
+14:01:12 "HIVE: WRITE: "CHILD:388:00040:""
+14:01:12 "CUSTOM: Selected "286""
+14:01:12 "PUBLISH: Created 350z_green with ID "00040""
+14:01:13 "PUBLISH: Created hilux1_civil_1_open with ID "128635804840151""
+14:01:13 "PUBLISH: Created Mi17_Civilian_DZ with ID "423345503356""
+14:01:13 "PUBLISH: Created HMMWV_Ambulance with ID "882691165880104""
+14:01:13 "PUBLISH: Created SkodaRed with ID "1064401249011112""
+14:01:13 "PUBLISH: Created Lada2 with ID "4713199496093""
+14:01:13 "PUBLISH: Created Pickup_PK_INS_DZE with ID "878271175241143""
+14:01:13 "PUBLISH: Created Pickup_PK_GUE_DZE with ID "10403922558021""
+14:01:13 "WAI: Custom Config File Loaded"
+14:01:13 "WAI: AI Config File Loaded"
+14:01:13 "PUBLISH: Created MH6J_DZ with ID "27316831170107""
+14:01:13 "PUBLISH: Created CSJ_GyroC with ID "1183451512880112""
+14:01:13 "PUBLISH: Created Pickup_PK_INS_DZE with ID "88187862231178""
+14:01:13 "PUBLISH: Created datsun1_civil_3_open with ID "2919755958078""
+14:01:13 "PUBLISH: Created HMMWV_DES_EP1 with ID "10348197995166""
+14:01:13 "PUBLISH: Created SUV_Charcoal with ID "59257112212086""
+14:01:13 "PUBLISH: Created SUV_Charcoal with ID "531861182330115""
+14:01:13 "PUBLISH: Created UH1H_DZE with ID "40661128377032""
+14:01:13 "PUBLISH: Created UralRefuel_TK_EP1_DZ with ID "12152372227261""
+14:01:13 "PUBLISH: Created MTVR_DES_EP1 with ID "13008982868065""
+14:01:13 "PUBLISH: Created MH6J_DZ with ID "81823594810104""
+14:01:13 "PUBLISH: Created SkodaGreen with ID "9735665709044""
+14:01:13 "PUBLISH: Created tractor with ID "5837127259019""
+14:01:13 "PUBLISH: Created Lada2 with ID "48967569730150""
+14:01:14 "HIVE: WRITE: "CHILD:388:13052262583082:""
+14:01:14 "CUSTOM: Selected "287""
+14:01:14 "PUBLISH: Created Ikarus_TK_CIV_EP1 with ID "10424370383191""
+14:01:14 "PUBLISH: Created SUV_Green with ID "37508879140151""
+14:01:14 "PUBLISH: Created VolhaLimo_TK_CIV_EP1 with ID "13390952785090""
+14:01:14 "HIVE: WRITE: "CHILD:388:12004591555041:""
+14:01:14 "CUSTOM: Selected "288""
+14:01:14 "HIVE: WRITE: "CHILD:388:00089:""
+14:01:15 "CUSTOM: Selected "289""
+14:01:15 "PUBLISH: Created Civcarbu with ID "00089""
+14:01:15 "WAI: Initialising missions"
+14:01:15 "WAI: AI Monitor Started"
+14:01:15 "PUBLISH: Created KamazRefuel_DZ with ID "13052262583082""
+14:01:16 "PUBLISH: Created SUV_Orange with ID "12004591555041""
+14:01:24 "infiSTAR.de fnc_AdminFirstReq: [1234,B 1-1-K:1 (Aquiles) REMOTE,"76561198056083521"]"
+14:01:24 "infiSTAR.de fnc_AdminReqProceed: [1234,B 1-1-K:1 (Aquiles) REMOTE,"76561198056083521"]"
+14:01:24 "infiSTAR.de ******ADMIN-LOGIN******: Aquiles(76561198056083521)"
+14:01:24 Warning: looped for animation: ca\anims\characters\data\anim\sdr\mov\erc\stp\non\non\amovpercmstpsnonwnondnon_amovpercmstpsraswpstdnon_end.rtm differs (looped now 0)! MoveName: amovpercmstpsnonwnondnon_amovpercmstpsraswpstdnon_end
+14:01:25 "** scp_updateclient initializing"
+14:01:25 "** scp_publishunit B 1-1-D:1,true,false,0,false,false,true"
+14:01:25 "** scp_publishunit B 1-1-E:1,true,false,0,false,false,true"
+14:01:25 "** scp_publishunit B 1-1-F:1,true,false,0,false,false,true"
+14:01:25 "** scp_publishunit B 1-1-G:1,true,false,0,false,false,true"
+14:01:25 "** scp_publishunit B 1-1-H:1,true,false,0,false,false,true"
+14:01:25 "** scp_updateclient initialized"
+14:01:26 WMOD v1.1.0: loading...
+14:01:27 "REPACK VERSION: Overpoch - build 133"
+14:01:30 "[DZAI] Verified 205 unique classnames in 0.199997 seconds."
+14:01:30 "Chernarus spawn areas loaded."
+14:01:30 "Chernarus static spawn configuration loaded."
+14:01:39 "DZAI Warning: 350z_pink is an invalid vehicle classname!"
+14:01:40 No owner
+14:01:46 "infiSTAR.de PVAH_WriteLog: B 1-1-K:1 (Aquiles) REMOTE   Aquiles G_o_d ON"
+14:01:48 "infiSTAR.de PVAH_WriteLog: B 1-1-K:1 (Aquiles) REMOTE   Aquiles adminammo_recoil ON"
+14:01:55 No owner
+14:01:55 No owner
+14:01:55 "infiSTAR.de fnc_AdminFirstReq: [1,B 1-1-K:1 (Aquiles) REMOTE,B 1-1-K:1 (Aquiles) REMOTE,[4209.38,11610.4,0]]"
+14:01:55 "infiSTAR.de fnc_AdminReqProceed: [1,B 1-1-K:1 (Aquiles) REMOTE,B 1-1-K:1 (Aquiles) REMOTE,[4209.38,11610.4,0]]"
+14:02:00 No owner
+14:02:00 No owner
+14:02:00 [DZMS]: Starting DayZ Mission System.
+14:02:00 [DZMS]: DZAI Found! Using DZAI's Relations!
+14:02:00 [DZMS]: WickedAI Found! Using WickedAI's Relations!
+14:02:00 [DZMS]: Multiple Relations Detected! Unwanted AI Behaviour May Occur!
+14:02:00 [DZMS]: If Issues Arise, Decide on a Single AI System! (DayZAI, SargeAI, or WickedAI)
+14:02:00 [DZMS]: Currently Running Version: RC1.1
+14:02:00 [DZMS]: Outdated Configuration Detected! Please Update DZMS!
+14:02:00 [DZMS]: Old Versions are not supported by the Mod Author!
+14:02:00 [DZMS]: Mission and Extended Configuration Loaded!
+14:02:00 [DZMS]: chernarus Detected. Map Specific Settings Adjusted!
+14:02:00 [DZMS]: DayZ Epoch Detected! Some Scripts Adjusted!
+14:02:00 [DZMS]: Loading ExecVM Functions.
+14:02:00 [DZMS]: Loading Compiled Functions.
+14:02:00 [DZMSHotSpots]: Starting DayZ Mission System.
+14:02:00 [DZMSHotSpots]: DZAI Found! Using DZAI's Relations!
+14:02:00 [DZMSHotSpots]: WickedAI Found! Using WickedAI's Relations!
+14:02:00 [DZMSHotSpots]: Multiple Relations Detected! Unwanted AI Behaviour May Occur!
+14:02:00 [DZMSHotSpots]: If Issues Arise, Decide on a Single AI System! (DayZAI, SargeAI, or WickedAI)
+14:02:00 [DZMS]: Loading All Other Functions.
+14:02:00 [DZMS]: Mission Functions Script Loaded!
+14:02:00 [DZMSHotSpots]: Currently Running Version: 1.1FIN
+14:02:00 [DZMSHotSpots]: Mission and Extended Configuration Loaded!
+14:02:00 [DZMSHotSpots]: chernarus Detected. Map Specific Settings Adjusted!
+14:02:00 [DZMSHotSpots]: DayZ Epoch Detected! Some Scripts Adjusted!
+14:02:00 [DZMSHotSpots]: Loading ExecVM Functions.
+14:02:00 [DZMSHotSpots]: Loading Compiled Functions.
+14:02:00 [DZMSHotSpots]: Loading All Other Functions.
+14:02:00 [DZMSHotSpots]: Mission Functions Script Loaded!
+14:02:00 [DZMS]: Major Mission Clock Starting!
+14:02:00 [DZMS]: Minor Mission Clock Starting!
+14:02:00 [DZMS]: Mission Marker Loop for JIPs Starting!
+14:02:00 [DZMSHotSpots]: Major Mission Clock Starting!
+14:02:00 [DZMSHotSpots]: Minor Mission Clock Starting!
+14:02:02 "infiSTAR.de fnc_AdminFirstReq: [1,B 1-1-K:1 (Aquiles) REMOTE,B 1-1-K:1 (Aquiles) REMOTE,[12868.2,9728,0]]"
+14:02:02 "infiSTAR.de fnc_AdminReqProceed: [1,B 1-1-K:1 (Aquiles) REMOTE,B 1-1-K:1 (Aquiles) REMOTE,[12868.2,9728,0]]"
+14:02:12 Server: Object 3:138 not found (message 91)
+14:02:12 Server: Object 3:137 not found (message 99)
+14:02:12 Server: Object 3:140 not found (message 91)
+14:02:12 Server: Object 3:137 not found (message 99)
+14:02:15 UH1Y_DZ: ObsTurret - unknown animation source ObsTurret
+14:02:15 UH1Y_DZ: ObsGun - unknown animation source ObsGun
+14:02:15 No owner
+14:02:15 No owner
+14:02:20 No owner
+14:02:20 No owner
+14:02:20 No owner
+14:02:22 "infiSTAR.de fnc_AdminFirstReq: [-2,B 1-1-K:1 (Aquiles) REMOTE,34d48f00# 1066371: fort_barricade_ep1.p3d]"
+14:02:22 "infiSTAR.de fnc_AdminReqProceed: [-2,B 1-1-K:1 (Aquiles) REMOTE,34d48f00# 1066371: fort_barricade_ep1.p3d]"
+14:02:22 "DELETE: 76561198056083521 Deleted by ID: 1"
+14:02:22 "infiSTAR.de PVAH_WriteLog: B 1-1-K:1 (Aquiles) REMOTE   Aquiles (76561198056083521) deleted Fort_Barricade_EP1 @129056 - characterID any - objectID: 1 - objectUID: 0"
+14:02:30 Warning Message: No entry 'bin\config.bin/CfgWeapons.'.
+14:02:30 Warning Message: No entry '.scope'.
+14:02:30 Warning Message: '/' is not a value
+14:02:30 Warning Message: Error: creating weapon  with scope=private
+14:02:30 Warning Message: No entry '.displayName'.
+14:02:30 Warning Message: '/' is not a value
+14:02:30 Warning Message: No entry '.nameSound'.
+14:02:30 Warning Message: '/' is not a value
+14:02:30 Warning Message: No entry '.type'.
+14:02:30 Warning Message: '/' is not a value
+14:02:30 Warning Message: No entry '.picture'.
+14:02:30 Warning Message: '/' is not a value
+14:02:30 Warning Message: No entry '.Library'.
+14:02:30 Warning Message: No entry '.libTextDesc'.
+14:02:30 Warning Message: '/' is not a value
+14:02:30 Warning Message: No entry '.model'.
+14:02:30 Warning Message: '/' is not a value
+14:02:30 Warning Message: No entry '.simulation'.
+14:02:30 Warning Message: '/' is not a value
+14:02:30 Warning Message: No entry '.fireLightDuration'.
+14:02:30 Warning Message: '/' is not a value
+14:02:30 Warning Message: No entry '.fireLightIntensity'.
+14:02:30 Warning Message: '/' is not a value
+14:02:30 Warning Message: No entry '.weaponLockDelay'.
+14:02:30 Warning Message: '/' is not a value
+14:02:30 Warning Message: No entry '.weaponLockSystem'.
+14:02:30 Warning Message: '/' is not a value
+14:02:30 Warning Message: No entry '.cmImmunity'.
+14:02:30 Warning Message: '/' is not a value
+14:02:30 Warning Message: No entry '.lockingTargetSound'.
+14:02:30 Warning Message: Size: '/' not an array
+14:02:30 Warning Message: No entry '.lockedTargetSound'.
+14:02:30 Warning Message: Size: '/' not an array
+14:02:30 Warning Message: No entry '.muzzles'.
+14:02:30 Warning Message: Size: '/' not an array
+14:02:30 "infiSTAR.de fnc_AdminFirstReq: [-2,B 1-1-K:1 (Aquiles) REMOTE,B 1-1-C:2]"
+14:02:30 "infiSTAR.de fnc_AdminReqProceed: [-2,B 1-1-K:1 (Aquiles) REMOTE,B 1-1-C:2]"
+14:02:30 "DELETE: 76561198056083521 Deleted by ID: 1312821038190244"
+14:02:30 "infiSTAR.de PVAH_WriteLog: B 1-1-K:1 (Aquiles) REMOTE   Aquiles (76561198056083521) deleted Ikarus_TK_CIV_EP1 @129055 - characterID any - objectID: 1312821038190244 - objectUID: 0"
+14:02:40 No owner
+14:02:40 No owner
+14:02:55 [DZMSHotSpots]: Running Minor Mission RBFort.
+14:02:55 [DZMSHotSpots]: Minor Mission RBFort started at [4711.7,6356.9,0]
+14:02:55 No owner
+14:02:55 No owner
+14:02:55 No owner
+14:02:56 [DZMSHotSpots]: (DZMSHotSpotsUnitsMinor) 4 AI Spawned, 4 units in mission.
+14:02:58 "infiSTAR.de fnc_AdminFirstReq: [-2,B 1-1-K:1 (Aquiles) REMOTE,39943200# 1066582: hmmwv_wrecked.p3d]"
+14:02:58 "infiSTAR.de fnc_AdminReqProceed: [-2,B 1-1-K:1 (Aquiles) REMOTE,39943200# 1066582: hmmwv_wrecked.p3d]"
+14:02:58 "DELETE: 76561198056083521 Deleted by ID: 1"
+14:02:58 "infiSTAR.de PVAH_WriteLog: B 1-1-K:1 (Aquiles) REMOTE   Aquiles (76561198056083521) deleted HMMWVWreck @129055 - characterID any - objectID: 1 - objectUID: 0"
+14:03:00 No owner
+14:03:00 No owner
+14:03:00 No owner
+14:03:00 No owner
+14:03:01 [DZMSHotSpots]: (DZMSHotSpotsUnitsMinor) Waiting for 4/4 Units or Less to be Alive and a Player to be Near the Objective.
+14:03:20 No owner
+14:03:42 "infiSTAR.de fnc_AdminFirstReq: [1,B 1-1-K:1 (Aquiles) REMOTE,B 1-1-K:1 (Aquiles) REMOTE,[8531.26,2996.71,0]]"
+14:03:42 "infiSTAR.de fnc_AdminReqProceed: [1,B 1-1-K:1 (Aquiles) REMOTE,B 1-1-K:1 (Aquiles) REMOTE,[8531.26,2996.71,0]]"
+14:04:00 No owner
+14:04:00 No owner
+14:04:10 "CRASHSPAWNER: C-130J just exploded at [6862.81,15095.4,4.75952]!"
+14:04:10 Warning Message: No entry 'bin\config.bin/CfgWeapons.vil_AK_74m_EOT'.
+14:04:10 Warning Message: No entry '.scope'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: Error: creating weapon vil_AK_74m_EOT with scope=private
+14:04:10 Warning Message: No entry '.displayName'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.nameSound'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.type'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.picture'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.Library'.
+14:04:10 Warning Message: No entry '.libTextDesc'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.model'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.simulation'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.fireLightDuration'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.fireLightIntensity'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.weaponLockDelay'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.weaponLockSystem'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.cmImmunity'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.lockingTargetSound'.
+14:04:10 Warning Message: Size: '/' not an array
+14:04:10 Warning Message: No entry '.lockedTargetSound'.
+14:04:10 Warning Message: Size: '/' not an array
+14:04:10 Warning Message: No entry '.muzzles'.
+14:04:10 Warning Message: Size: '/' not an array
+14:04:10 "CRASHSPAWNER: Loot spawn at '[6863.57,15101.3,0]' with loot table 'MilitarySpecial'"
+14:04:10 Warning Message: No entry 'bin\config.bin/CfgWeapons.vil_RPK74M_P29'.
+14:04:10 Warning Message: No entry '.scope'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: Error: creating weapon vil_RPK74M_P29 with scope=private
+14:04:10 Warning Message: No entry '.displayName'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.nameSound'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.type'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.picture'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.Library'.
+14:04:10 Warning Message: No entry '.libTextDesc'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.model'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.simulation'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.fireLightDuration'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.fireLightIntensity'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.weaponLockDelay'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.weaponLockSystem'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.cmImmunity'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.lockingTargetSound'.
+14:04:10 Warning Message: Size: '/' not an array
+14:04:10 Warning Message: No entry '.lockedTargetSound'.
+14:04:10 Warning Message: Size: '/' not an array
+14:04:10 Warning Message: No entry '.muzzles'.
+14:04:10 Warning Message: Size: '/' not an array
+14:04:10 "CRASHSPAWNER: Loot spawn at '[6870.54,15090.8,0]' with loot table 'MilitarySpecial'"
+14:04:10 "CRASHSPAWNER: Loot spawn at '[6868.6,15099.7,0]' with loot table 'MilitarySpecial'"
+14:04:10 "CRASHSPAWNER: Loot spawn at '[6858.12,15093.9,0]' with loot table 'MilitarySpecial'"
+14:04:10 Warning Message: No entry 'bin\config.bin/CfgMagazines.RH_20Rnd_32cal_vz61'.
+14:04:10 Warning Message: No entry '.picture'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.scope'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: Error: creating magazine RH_20Rnd_32cal_vz61 with scope=private
+14:04:10 Warning Message: No entry '.displayName'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.displayNameShort'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.nameSound'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.Library'.
+14:04:10 Warning Message: No entry '.libTextDesc'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.type'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.count'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.maxLeadSpeed'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.initSpeed'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.reloadAction'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.modelSpecial'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.ammo'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.model'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry 'bin\config.bin/CfgMagazines.RH_30Rnd_9x19_tec'.
+14:04:10 Warning Message: No entry '.picture'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.scope'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: Error: creating magazine RH_30Rnd_9x19_tec with scope=private
+14:04:10 Warning Message: No entry '.displayName'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.displayNameShort'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.nameSound'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.Library'.
+14:04:10 Warning Message: No entry '.libTextDesc'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.type'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.count'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.maxLeadSpeed'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.initSpeed'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.reloadAction'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.modelSpecial'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.ammo'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.model'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 "CRASHSPAWNER: Loot spawn at '[6857.63,15097,0]' with loot table 'MilitarySpecial'"
+14:04:10 "CRASHSPAWNER: Loot spawn at '[6853.96,15098.2,0]' with loot table 'MilitarySpecial'"
+14:04:10 "CRASHSPAWNER: Loot spawn at '[6864.65,15107.3,0]' with loot table 'MilitarySpecial'"
+14:04:10 Warning Message: No entry 'bin\config.bin/CfgMagazines.RH_8Rnd_9x19_Mk'.
+14:04:10 Warning Message: No entry '.picture'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.scope'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: Error: creating magazine RH_8Rnd_9x19_Mk with scope=private
+14:04:10 Warning Message: No entry '.displayName'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.displayNameShort'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.nameSound'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.Library'.
+14:04:10 Warning Message: No entry '.libTextDesc'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.type'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.count'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.maxLeadSpeed'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.initSpeed'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.reloadAction'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.modelSpecial'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.ammo'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.model'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry 'bin\config.bin/CfgMagazines.RH_6Rnd_44_Mag'.
+14:04:10 Warning Message: No entry '.picture'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.scope'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: Error: creating magazine RH_6Rnd_44_Mag with scope=private
+14:04:10 Warning Message: No entry '.displayName'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.displayNameShort'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.nameSound'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.Library'.
+14:04:10 Warning Message: No entry '.libTextDesc'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.type'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.count'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.maxLeadSpeed'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.initSpeed'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.reloadAction'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.modelSpecial'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.ammo'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.model'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 "CRASHSPAWNER: Loot spawn at '[6861.97,15091.4,0]' with loot table 'MilitarySpecial'"
+14:04:10 Warning Message: No entry 'bin\config.bin/CfgMagazines.RH_17Rnd_9x19_g17SD'.
+14:04:10 Warning Message: No entry '.picture'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.scope'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: Error: creating magazine RH_17Rnd_9x19_g17SD with scope=private
+14:04:10 Warning Message: No entry '.displayName'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.displayNameShort'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.nameSound'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.Library'.
+14:04:10 Warning Message: No entry '.libTextDesc'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.type'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.count'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.maxLeadSpeed'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.initSpeed'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.reloadAction'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.modelSpecial'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.ammo'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.model'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry 'bin\config.bin/CfgMagazines.RH_30Rnd_9x19_tec'.
+14:04:10 Warning Message: No entry '.picture'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.scope'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: Error: creating magazine RH_30Rnd_9x19_tec with scope=private
+14:04:10 Warning Message: No entry '.displayName'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.displayNameShort'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.nameSound'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.Library'.
+14:04:10 Warning Message: No entry '.libTextDesc'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.type'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.count'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.maxLeadSpeed'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.initSpeed'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.reloadAction'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.modelSpecial'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.ammo'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.model'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry 'bin\config.bin/CfgMagazines.RH_8Rnd_45cal_m1911'.
+14:04:10 Warning Message: No entry '.picture'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.scope'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: Error: creating magazine RH_8Rnd_45cal_m1911 with scope=private
+14:04:10 Warning Message: No entry '.displayName'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.displayNameShort'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.nameSound'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.Library'.
+14:04:10 Warning Message: No entry '.libTextDesc'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.type'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.count'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.maxLeadSpeed'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.initSpeed'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.reloadAction'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.modelSpecial'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.ammo'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.model'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 "CRASHSPAWNER: Loot spawn at '[6866.14,15091.3,0]' with loot table 'MilitarySpecial'"
+14:04:10 Warning Message: No entry 'bin\config.bin/CfgWeapons.FHQ_ACR_WDL_G33_GL_F'.
+14:04:10 Warning Message: No entry '.scope'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: Error: creating weapon FHQ_ACR_WDL_G33_GL_F with scope=private
+14:04:10 Warning Message: No entry '.displayName'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.nameSound'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.type'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.picture'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.Library'.
+14:04:10 Warning Message: No entry '.libTextDesc'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.model'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.simulation'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.fireLightDuration'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.fireLightIntensity'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.weaponLockDelay'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.weaponLockSystem'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.cmImmunity'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.lockingTargetSound'.
+14:04:10 Warning Message: Size: '/' not an array
+14:04:10 Warning Message: No entry '.lockedTargetSound'.
+14:04:10 Warning Message: Size: '/' not an array
+14:04:10 Warning Message: No entry '.muzzles'.
+14:04:10 Warning Message: Size: '/' not an array
+14:04:10 "CRASHSPAWNER: Loot spawn at '[6857.23,15096.6,0]' with loot table 'MilitarySpecial'"
+14:04:10 Warning Message: No entry 'bin\config.bin/CfgWeapons.vil_G3a3'.
+14:04:10 Warning Message: No entry '.scope'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: Error: creating weapon vil_G3a3 with scope=private
+14:04:10 Warning Message: No entry '.displayName'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.nameSound'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.type'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.picture'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.Library'.
+14:04:10 Warning Message: No entry '.libTextDesc'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.model'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.simulation'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.fireLightDuration'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.fireLightIntensity'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.weaponLockDelay'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.weaponLockSystem'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.cmImmunity'.
+14:04:10 Warning Message: '/' is not a value
+14:04:10 Warning Message: No entry '.lockingTargetSound'.
+14:04:10 Warning Message: Size: '/' not an array
+14:04:10 Warning Message: No entry '.lockedTargetSound'.
+14:04:10 Warning Message: Size: '/' not an array
+14:04:10 Warning Message: No entry '.muzzles'.
+14:04:10 Warning Message: Size: '/' not an array
+14:04:10 "CRASHSPAWNER: Loot spawn at '[6857.6,15099,0]' with loot table 'MilitarySpecial'"
+14:04:10 "CRASHSPAWNER: Crash completed! Wreck at: [6862.81,15095.4,0] - Runtime: 188 Seconds || Distance from calculated POC: 293 meters"
+14:04:22 "CLEANUP: INITIALIZING CLEANUP SCRIPT"
+14:04:57 [DZMSHotSpots]: Running Major Mission HSRareAmmo.
+14:04:57 [DZMSHotSpots]: Major Mission HSRareAmmo started at [4759.8,6775.1,0]
+14:04:57 No owner
+14:04:57 No owner
+14:04:57 No owner
+14:04:57 [DZMSHotSpots]: (DZMSHotSpotsUnitsMajor) 3 AI Spawned, 3 units in mission.
+14:04:57 [DZMSHotSpots]: (DZMSHotSpotsUnitsMajor) 3 AI Spawned, 6 units in mission.
+14:05:02 [DZMSHotSpots]: (DZMSHotSpotsUnitsMajor) Waiting for 6/6 Units or Less to be Alive and a Player to be Near the Objective.
+14:05:21 "** scp_killed initializing"
+14:05:21 "<*> Survivor B 1-1-G:1 killed by O 1-1-H:2"
+14:05:21 "** scp_publishunit B 1-1-G:1,true,false,0,false,false,false"
+14:05:23 "** scp_spwn_fr initializing"
+14:05:23 "<*> Replacing dead survivor #3 with B 1-1-B:1"
+14:05:23 "** scp_behavoir initializing"
+14:05:23 "** scp_behavoir initialized"
+14:05:23 "** scp_task_patrol initializing"
+14:05:23 "** scp_task_patrol initialized"
+14:05:23 "** scp_publishunit B 1-1-B:1,true,false,0,false,false,true"
+14:05:23 "** scp_spwn_fr Unit created : SurvivorWcombat_DZ,10712.5,10785.5"
+14:05:23 "** scp_spwn_fr initialized"
+14:05:25 "** scp_killed initialized"
+14:05:40 "infiSTAR.de fnc_AdminFirstReq: [-2,B 1-1-K:1 (Aquiles) REMOTE,3986cf00# 1066603: hmmwv_wrecked.p3d]"
+14:05:40 "infiSTAR.de fnc_AdminReqProceed: [-2,B 1-1-K:1 (Aquiles) REMOTE,3986cf00# 1066603: hmmwv_wrecked.p3d]"
+14:05:40 "DELETE: 76561198056083521 Deleted by ID: 1"
+14:05:40 "infiSTAR.de PVAH_WriteLog: B 1-1-K:1 (Aquiles) REMOTE   Aquiles (76561198056083521) deleted HMMWVWreck @085127 - characterID any - objectID: 1 - objectUID: 0"

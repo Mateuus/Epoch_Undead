@@ -29,9 +29,10 @@ _playerNear = _obj call dze_isnearest_player;
 if(_playerNear) exitWith { DZE_ActionInProgress = false; cutText [(localize "str_epoch_player_11") , "PLAIN DOWN"];  };
 
 _characterID = _obj getVariable["CharacterID","0"];
-_objectID 	= _obj getVariable["ObjectID","0"];
-_objectUID	= _obj getVariable["ObjectUID","0"];
-_ownerID =  _obj getVariable["ownerPUID", "0"];
+_objectID 	 = _obj getVariable["ObjectID","0"];
+_objectUID	 = _obj getVariable["ObjectUID","0"];
+_ownerID 	 =  _obj getVariable["ownerPUID", "0"];
+_objMoney    = _obj getVariable["bankMoney",0];
 
 if((_characterID != dayz_combination) && (_ownerID != dayz_playerUID)) exitWith {DZE_ActionInProgress = false; s_player_lockvault = -1; cutText [format[(localize "str_epoch_player_115"),_text], "PLAIN DOWN"]; };
 
@@ -58,8 +59,9 @@ if(!isNull _obj) then {
 	_holder setVariable["CharacterID",_characterID,true];
 	_holder setVariable["ObjectID",_objectID,true];
 	_holder setVariable["ObjectUID",_objectUID,true];
-	_holder setVariable ["OEMPos", _pos, true];
-	_holder setVariable ["ownerPUID", _ownerID , true];
+	_holder setVariable["OEMPos", _pos, true];
+	_holder setVariable["ownerPUID", _ownerID , true];
+	_holder setVariable["bankMoney", _objMoney, true];
 
 	_weapons = 		getWeaponCargo _obj;
 	_magazines = 	getMagazineCargo _obj;

@@ -131,9 +131,11 @@ call compile preprocessFileLineNumbers "\z\addons\dayz_code\init\compiles.sqf";	
 progressLoadingScreen 0.5;
 call compile preprocessFileLineNumbers "fixes\compiles.sqf";
 progressLoadingScreen 0.6;
+call compile preprocessFileLineNumbers "ZSC\gold\ZSCinit.sqf";
 call compile preprocessFileLineNumbers "scripts\Buildables\Crafting_Compiles.sqf";
 progressLoadingScreen 0.7;
-call compile preprocessFileLineNumbers "server_traders.sqf";				//Compile trader configs
+//call compile preprocessFileLineNumbers "server_traders.sqf";				//Compile trader configs
+call compile preprocessFileLineNumbers "server_traders_cherno_11.sqf";
 progressLoadingScreen 0.8;
 call compile preprocessFileLineNumbers "logistic\init.sqf";
 progressLoadingScreen 0.9;
@@ -167,6 +169,9 @@ if (!isDedicated) then {
 	};
 	_playerMonitor = 	[] execVM "\z\addons\dayz_code\system\player_monitor.sqf";	
 	
+	//Banco
+	execVM "ZSC\compiles\playerHud.sqf";
+	
 
 	
 	if ( !((getPlayerUID player) in AdminList) && !((getPlayerUID player) in ModList)) then {
@@ -190,9 +195,9 @@ if (!isDedicated) then {
 	if (DZGMScript) then {
 		execVM "scripts\dzgm\init.sqf";
 	};
-	if (TradeFromVehicleScript) then {
+	/*if (TradeFromVehicleScript) then {
 	[] execVM "scripts\TradeFromVehicle Version 2.0\setup\init.sqf";
-	};
+	};*/
 	if (ElevatorScript) then{
 		["elevator"] execVM "scripts\elevator\elevator_init.sqf";
 	};

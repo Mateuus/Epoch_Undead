@@ -774,6 +774,10 @@ class RscPictureGUI
 #include "scripts\dzgm\defines.hpp"
 class RscTitles
 {
+
+//Banco
+#include "ZSC\config\ZSChud.hpp"
+
 //DZGM
 #include "scripts\dzgm\icons.hpp"
 titles[] = {"DeathScr","wm_disp"};
@@ -1601,3 +1605,7 @@ class CfgSounds
 
 //Skin Trader
 #include "scripts\zupa\skins\SkinGui.hpp"
+
+//Banco
+//#include "ZSC\config\ZSCdefines.hpp"
+#include "ZSC\config\ZSCdialogs.hpp"

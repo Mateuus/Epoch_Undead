@@ -34,4 +34,4 @@ if (!isNil "_haloDrop") then {
 	player allowDamage true;
 };
 
-execVM "spawn\Pick10\init.sqf"; 
+execVM "scripts\spawn\Pick10\init.sqf"; 

@@ -50,7 +50,7 @@ class Shix_Pick10
 		class Shix_Pick10TitleText: ShixRscText
 		{
 			idc = 1000;
-			text = "Chernobyl pegue 10"; 
+			text = "Undead Brasil pegue 10"; 
 			x = 0.44843 * safezoneW + safezoneX;
 			y = 0.225079 * safezoneH + safezoneY;
 			w = 0.0979825 * safezoneW;

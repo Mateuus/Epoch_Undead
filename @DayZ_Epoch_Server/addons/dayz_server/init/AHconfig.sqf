@@ -26,7 +26,7 @@
 /*  Top esc menu TXT      */ _TopOfESC = "Undead Brasil Servidores"; //do not use " in this text.
 /*  Bottom esc menu TXT   */ _LowerTop = "Teamspeak"; //do not use " in this text.
 /*  Bottom esc menu TXT2  */ _LowerBottom = "ts3.undeadbrasil.com"; //do not use " in this text.
-/*  Color esc menu TXT    */ _EscColor = [1,1,1,1];
+/*  Color esc menu TXT    */ _EscColor = [0,0,6,1];
 /*  DebugMonitor TXT      */ _BottomDebug = "www.undeadbrasil.com"; //do not use " in this text.
 /*  DebugMonitor Key      */ _ODK = 0xCF;	/* google DIK_KeyCodes (0xCF is END) */
 /*  Use DebugMonitor      */ _DMS = false;	/* true or false */	/* starts up with debugmonitor ON if true */
@@ -61,7 +61,7 @@
 /*  ALLOWED Custom Dialogs "_ALLOWED_Dialogs" are only used if you have "_CUD = true;"  */
 /*  If you want install custom scripts using dialog windows, you can add IDD numbers  */
 /*  from the custom script's desc.h file included through MPMIssions/description.ext  */
-_ALLOWED_Dialogs = [-1,106,2200,6900,6901,6902,6903,420420,41144,711194,711197,81000,64,1001,1002,101,1];
+_ALLOWED_Dialogs = [-1,106,2200,6900,6901,6902,6903,420420,41144,711194,711197,81000,845167,845168,845169,845170,845171,845172,64,1001,1002,101,1];
 //	-1			Epoch Safe/Lockbox Keycode UI
 //	106		Inventory (Gear)
 //	2200		Blood Test
@@ -75,6 +75,12 @@ _ALLOWED_Dialogs = [-1,106,2200,6900,6901,6902,6903,420420,41144,711194,711197,8
 //	711194	Plot Management	(http://epochmod.com/forum/index.php?/topic/16166-release-plot-management/)
 //  711197 	AdvancedTrading
 // 	81000	EpochPacks
+//	845167 //CCDMENU
+//	845168  RulesChoice   //CCDMENU
+//	845169  TraderRules   //CCDMENU
+//	845170  BuildingRules //CCDMENU
+//	845171  GeneralRules  //CCDMENU
+//	845172  CCDConfirm    //CCDMENU
 
 
 /*  Player that have one of these items in their inventory will get punished!  */

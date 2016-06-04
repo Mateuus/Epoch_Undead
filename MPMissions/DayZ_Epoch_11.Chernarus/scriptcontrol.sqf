@@ -3,7 +3,7 @@
 
 //Server watermark
 WaterMarkScript = true; //Watermark on/off
-server_name = "0.15"; //Watermark Text
+server_name = "UNDEAD BRASIL"; //Watermark Text
 //Gambling ( Slotmachine, Guessing Game)
 GambleingScript = true;
 //No Voice Inside chat
@@ -20,6 +20,8 @@ oilrigFillScript = true;
 RecruitSurvivorsScript = true;
 //Roaming Zombie Hordes
 HordeScript = true;
+//Menu
+MenuInfo = true;
 //Base jump
 BaseJumpScript = true;
 //AI BUS Route

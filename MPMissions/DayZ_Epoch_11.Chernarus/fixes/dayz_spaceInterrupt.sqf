@@ -104,6 +104,12 @@ if ((_dikCode in actionKeys "Gear") and (vehicle player != player) and !_shift a
 			_handled = true;
 };
 
+if (MenuInfo) then {
+	if (_dikCode == 0x0F) then {  
+		_handle=createdialog "CCDMenu";
+	};
+};
+
 if (_dikCode in (actionKeys "GetOver")) then {
 	
 	if (player isKindOf  "PZombie_VB") then {

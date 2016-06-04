@@ -1609,3 +1609,13 @@ class CfgSounds
 //Banco
 //#include "ZSC\config\ZSCdefines.hpp"
 #include "ZSC\config\ZSCdialogs.hpp"
+
+
+//Menu
+#include "scripts\Menu\menu.hpp"
+#include "scripts\Menu\CCDMenu.hpp"
+#include "scripts\Menu\rules\RulesChoice.hpp"
+#include "scripts\Menu\rules\TraderRules.hpp"
+#include "scripts\Menu\rules\BuildingRules.hpp"
+#include "scripts\Menu\rules\GeneralRules.hpp"
+#include "scripts\Menu\SuicideConfirm.hpp"

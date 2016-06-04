@@ -1,6 +1,7 @@
 //Script Control - Allows you to customize the repack by turning certain scripts on or off - true = on /false = off
 
-
+//Mensagem De Inicio
+MsgInicio = true;
 //Server watermark
 WaterMarkScript = true; //Watermark on/off
 server_name = "UNDEAD BRASIL"; //Watermark Text

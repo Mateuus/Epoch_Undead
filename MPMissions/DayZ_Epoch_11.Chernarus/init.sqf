@@ -364,6 +364,11 @@ if(BaseJumpScript)then{
 If(ZombieFreeBaseScript)then{
 	[] execVM "scripts\safebases\base_SafeArea.sqf";
 };
+//Mensagem De Inicio
+if(MsgInicio) then{
+[] execVM "scripts\weed\news.sqf";
+};
+
 //Admin Tools
 if(AdmintoolsScript)then{
 	[] execVM "admintools\Activate.sqf";

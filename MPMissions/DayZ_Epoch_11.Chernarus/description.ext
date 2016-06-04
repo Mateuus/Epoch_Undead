@@ -1431,6 +1431,12 @@ class DayZ_loadingScreen
 };
 class CfgSounds
 {	
+
+	class dieScream {
+		name="dieScream";
+		sound[]={sounds\diescream.ogg,1,1};
+		titles[] = {};
+    };
 	class Vas_yessir;	
 	class horde_sound_turning_page: Vas_yessir
 	{

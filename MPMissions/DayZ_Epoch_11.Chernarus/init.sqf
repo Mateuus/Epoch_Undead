@@ -134,8 +134,8 @@ progressLoadingScreen 0.6;
 call compile preprocessFileLineNumbers "ZSC\gold\ZSCinit.sqf";
 call compile preprocessFileLineNumbers "scripts\Buildables\Crafting_Compiles.sqf";
 progressLoadingScreen 0.7;
-//call compile preprocessFileLineNumbers "server_traders.sqf";				//Compile trader configs
-call compile preprocessFileLineNumbers "server_traders_cherno_11.sqf";
+call compile preprocessFileLineNumbers "server_traders.sqf";				//Compile trader configs
+//call compile preprocessFileLineNumbers "server_traders_cherno_11.sqf";
 progressLoadingScreen 0.8;
 call compile preprocessFileLineNumbers "logistic\init.sqf";
 progressLoadingScreen 0.9;

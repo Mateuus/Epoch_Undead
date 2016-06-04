@@ -5,10 +5,10 @@
 _onScreenTime = 5; //how long one role should stay on screen. Use value from 0 to 10 where 0 is almost instant transition to next role
 waitUntil {!isNil "dayz_animalCheck"};
 sleep 30; //Wait in seconds before the credits start after player IS ingame
-_role1 = "Welcome to";
-_role1names = ["Sheeps Epoch repack","0.15 - Sheeps Back Baby!"];
+_role1 = "Seja Bem Vindo ao";
+_role1names = ["Undead Brasil Servidores","UBS"];
 _role2 = "Admins";
-_role2names = ["Falligsheep", "Zombiesheep", "Crazy Sheep"];
+_role2names = ["Mateuus", "Aquiles", "Freak"];
 {
 sleep 2;
 _memberFunction = _x select 0;

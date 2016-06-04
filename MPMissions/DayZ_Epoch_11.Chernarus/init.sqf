@@ -161,6 +161,8 @@ if (!isDedicated) then {
 	waitUntil {!isNil "dayz_loadScreenMsg"};
 	dayz_loadScreenMsg = (localize "STR_AUTHENTICATING");
 	
+	execVM "scripts\spawn\start.sqf";
+	
 	//Run the player monitor
 	if (IntroMusicScript) then {
 		 _id = player addEventHandler ["Respawn", {_id = [] spawn player_death; _nul = [] execVM "scripts\intromusic\intromusic.sqf";}];
@@ -173,10 +175,11 @@ if (!isDedicated) then {
 	execVM "ZSC\compiles\playerHud.sqf";
 	
 
-	
+	/*
 	if ( !((getPlayerUID player) in AdminList) && !((getPlayerUID player) in ModList)) then {
 		  [] execVM "admintools\antihack\antihack.sqf"; // Epoch Antihack with bypass
 	};
+	*/
 	//Lights
 	if (LightScript) then{
 		[false,12] execVM "\z\addons\dayz_code\compile\local_lights_init.sqf";
@@ -341,7 +344,7 @@ if(HeroPerkScript)then{
 	herospawn = compile preprocessFileLineNumbers "scripts\HeroPerks\heroperk.sqf";
 };
 //ESS
-espawn = compile preprocessFileLineNumbers "scripts\spawn\spawn.sqf";
+/*
 waitUntil {!isNil "PVDZE_plr_LoginRecord"};
 if (!isDedicated && (dayzPlayerLogin2 select 2)) then {
 
@@ -349,7 +352,7 @@ if (!isDedicated && (dayzPlayerLogin2 select 2)) then {
 	if(HeroPerkScript)then{
 		player spawn herospawn;
 	};
-};
+};*/
 
 if(WeaponModScript)then{
 	call compile preprocessFileLineNumbers "scripts\wmod\init.sqf";

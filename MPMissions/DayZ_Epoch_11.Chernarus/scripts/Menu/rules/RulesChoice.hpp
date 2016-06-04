@@ -55,7 +55,7 @@ class CCD_Trader: CCD_RscButton
 	w = 0.0491365 * safezoneW;
 	h = 0.022 * safezoneH;
 	colorBackground[] = {0.176,0.329,0.564,0.8};
-	onButtonClick = "((ctrlParent (_this select 0)) closeDisplay 845168); ExecVM 'custom\Menu\rules\Traderinit.sqf';";
+	onButtonClick = "((ctrlParent (_this select 0)) closeDisplay 845168); ExecVM 'scripts\Menu\rules\Traderinit.sqf';";
 };
 class CCD_Building: CCD_RscButton
 {
@@ -66,7 +66,7 @@ class CCD_Building: CCD_RscButton
 	w = 0.0501894 * safezoneW;
 	h = 0.022 * safezoneH;
 	colorBackground[] = {0.176,0.329,0.564,0.8};
-	onButtonClick = "((ctrlParent (_this select 0)) closeDisplay 845168); ExecVM 'custom\Menu\rules\Buildinginit.sqf';";
+	onButtonClick = "((ctrlParent (_this select 0)) closeDisplay 845168); ExecVM 'scripts\Menu\rules\Buildinginit.sqf';";
 };
 class CCD_General: CCD_RscButton
 {
@@ -77,7 +77,7 @@ class CCD_General: CCD_RscButton
 	w = 0.0501894 * safezoneW;
 	h = 0.022 * safezoneH;
 	colorBackground[] = {0.176,0.329,0.564,0.8};
-	onButtonClick = "((ctrlParent (_this select 0)) closeDisplay 845168); ExecVM 'custom\Menu\rules\Generalinit.sqf';";
+	onButtonClick = "((ctrlParent (_this select 0)) closeDisplay 845168); ExecVM 'scripts\Menu\rules\Generalinit.sqf';";
 };
 
 class CCD_close: CCD_RscButton
@@ -100,7 +100,7 @@ class CCD_MMButton: CCD_RscButton
 	w = 0.0543943 * safezoneW;
 	h = 0.0239398 * safezoneH;
 	colorBackground[] = {0.176,0.329,0.564,0.8};
-	onButtonClick = "((ctrlParent (_this select 0)) closeDisplay 845168); ExecVM 'custom\Menu\MenuInit.sqf';";
+	onButtonClick = "((ctrlParent (_this select 0)) closeDisplay 845168); ExecVM 'scripts\Menu\MenuInit.sqf';";
 };
 };
 };

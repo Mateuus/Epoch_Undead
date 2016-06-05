@@ -33946,3 +33946,946 @@ _gen
 13:32:09 "** scp_spwn_fr Unit created : SurvivorWurban_DZ,5050.73,9852.75"
 13:32:09 "** scp_spwn_fr initialized"
 13:32:11 "** scp_killed initialized"
+13:33:34 "DZAI Monitor :: Server Uptime: [0d 0h 14m 35s]. Active AI Groups: 14."
+13:33:34 "DZAI Monitor :: Static Spawns: 2. Respawn Queue: 0 groups queued."
+13:33:34 "DZAI Monitor :: Dynamic Spawns: 0. Air Patrols: 3. Land Patrols: 9. Sea Patrols: 0."
+13:35:26 "infiSTAR.de PlayerConnected: ["76561198065694695","Mateuus"]"
+13:35:27 "WAI: [Mission:[Bandit] Medical Supply Camp]: Starting... [5516.17,10193.4,0]"
+13:35:28 Error in expression <n {
+for "_i" from 1 to _mags do {
+_unit addMagazine _magazine;
+};
+_unit addweapo>
+13:35:28   Error position: <addMagazine _magazine;
+};
+_unit addweapo>
+13:35:28   Error addmagazine: Type Bool, expected Array,String
+13:35:28 File z\addons\dayz_server\WAI\compile\spawn_group.sqf, line 141
+13:35:50 "infiSTAR.de fnc_AdminFirstReq: [1234,B 1-1-I:1 (Mateuus) REMOTE,"76561198065694695"]"
+13:35:50 "infiSTAR.de fnc_AdminReqProceed: [1234,B 1-1-I:1 (Mateuus) REMOTE,"76561198065694695"]"
+13:35:50 "infiSTAR.de ******ADMIN-LOGIN******: Mateuus(76561198065694695)"
+13:35:50 "** scp_updateclient initializing"
+13:35:50 "** scp_publishunit B 1-1-D:1,true,false,0,false,false,true"
+13:35:50 "** scp_publishunit B 1-1-E:1,true,false,0,false,false,true"
+13:35:50 "** scp_publishunit B 1-1-F:1,true,false,0,false,false,true"
+13:35:50 "** scp_publishunit B 1-1-G:1,true,false,0,false,false,true"
+13:35:50 "** scp_publishunit B 1-1-A:1,true,false,0,false,false,true"
+13:35:50 "** scp_updateclient initialized"
+13:36:27 "TIME SYNC: Local Time set to [2013,8,3,13,36]"
+13:38:19 [DZMS]: Running Major Mission SM2.
+13:38:26 No owner
+13:38:26 No owner
+13:38:26 No owner
+13:38:26 [DZMS]: (DZMSUnitsMajor) 6 AI Spawned, 6 units in mission.
+13:38:31 [DZMS]: (DZMSUnitsMajor) 6 AI Spawned, 12 units in mission.
+13:38:34 "DZAI Monitor :: Server Uptime: [0d 0h 19m 35s]. Active AI Groups: 12."
+13:38:34 "DZAI Monitor :: Static Spawns: 0. Respawn Queue: 0 groups queued."
+13:38:34 "DZAI Monitor :: Dynamic Spawns: 0. Air Patrols: 3. Land Patrols: 9. Sea Patrols: 0."
+13:38:36 [DZMS]: (DZMSUnitsMajor) 4 AI Spawned, 16 units in mission.
+13:39:20 "** scp_killed initializing"
+13:39:20 "<*> Survivor B 1-1-F:1 killed by O 1-1-I:3"
+13:39:20 "** scp_publishunit B 1-1-F:1,true,false,0,false,false,false"
+13:39:22 "** scp_spwn_fr initializing"
+13:39:22 "<*> Replacing dead survivor #2 with B 1-1-H:1"
+13:39:22 "** scp_behavoir initializing"
+13:39:22 "** scp_behavoir initialized"
+13:39:22 "** scp_task_patrol initializing"
+13:39:22 "** scp_task_patrol initialized"
+13:39:22 "** scp_publishunit B 1-1-H:1,true,false,0,false,false,true"
+13:39:22 "** scp_spwn_fr Unit created : SurvivorWpink_DZ,1000.08,2880.88"
+13:39:22 "** scp_spwn_fr initialized"
+13:39:24 "** scp_killed initialized"
+13:39:40 [DZMS]: Running Minor Mission SM6.
+13:39:40 "ERROR: server_playerSync: Cannot Sync Player Mateuus [15]. Position in debug! [-7240.12,19538.9,0.314728]"
+13:39:42 Warning Message: No entry 'bin\config.bin/CfgWeapons.vil_USP45'.
+13:39:42 Warning Message: No entry '.scope'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: Error: creating weapon vil_USP45 with scope=private
+13:39:42 Warning Message: No entry '.displayName'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.nameSound'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.type'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.picture'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.Library'.
+13:39:42 Warning Message: No entry '.libTextDesc'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.model'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.simulation'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.fireLightDuration'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.fireLightIntensity'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.weaponLockDelay'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.weaponLockSystem'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.cmImmunity'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.lockingTargetSound'.
+13:39:42 Warning Message: Size: '/' not an array
+13:39:42 Warning Message: No entry '.lockedTargetSound'.
+13:39:42 Warning Message: Size: '/' not an array
+13:39:42 Warning Message: No entry '.muzzles'.
+13:39:42 Warning Message: Size: '/' not an array
+13:39:42 Warning Message: No entry 'bin\config.bin/CfgWeapons.RH_g17'.
+13:39:42 Warning Message: No entry '.scope'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: Error: creating weapon RH_g17 with scope=private
+13:39:42 Warning Message: No entry '.displayName'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.nameSound'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.type'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.picture'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.Library'.
+13:39:42 Warning Message: No entry '.libTextDesc'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.model'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.simulation'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.fireLightDuration'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.fireLightIntensity'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.weaponLockDelay'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.weaponLockSystem'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.cmImmunity'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.lockingTargetSound'.
+13:39:42 Warning Message: Size: '/' not an array
+13:39:42 Warning Message: No entry '.lockedTargetSound'.
+13:39:42 Warning Message: Size: '/' not an array
+13:39:42 Warning Message: No entry '.muzzles'.
+13:39:42 Warning Message: Size: '/' not an array
+13:39:42 Warning Message: No entry 'bin\config.bin/CfgWeapons.vil_AK_74_gp'.
+13:39:42 Warning Message: No entry '.scope'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: Error: creating weapon vil_AK_74_gp with scope=private
+13:39:42 Warning Message: No entry '.displayName'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.nameSound'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.type'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.picture'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.Library'.
+13:39:42 Warning Message: No entry '.libTextDesc'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.model'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.simulation'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.fireLightDuration'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.fireLightIntensity'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.weaponLockDelay'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.weaponLockSystem'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.cmImmunity'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.lockingTargetSound'.
+13:39:42 Warning Message: Size: '/' not an array
+13:39:42 Warning Message: No entry '.lockedTargetSound'.
+13:39:42 Warning Message: Size: '/' not an array
+13:39:42 Warning Message: No entry '.muzzles'.
+13:39:42 Warning Message: Size: '/' not an array
+13:39:42 Warning Message: No entry 'bin\config.bin/CfgWeapons.vil_USP45SD'.
+13:39:42 Warning Message: No entry '.scope'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: Error: creating weapon vil_USP45SD with scope=private
+13:39:42 Warning Message: No entry '.displayName'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.nameSound'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.type'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.picture'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.Library'.
+13:39:42 Warning Message: No entry '.libTextDesc'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.model'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.simulation'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.fireLightDuration'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.fireLightIntensity'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.weaponLockDelay'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.weaponLockSystem'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.cmImmunity'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.lockingTargetSound'.
+13:39:42 Warning Message: Size: '/' not an array
+13:39:42 Warning Message: No entry '.lockedTargetSound'.
+13:39:42 Warning Message: Size: '/' not an array
+13:39:42 Warning Message: No entry '.muzzles'.
+13:39:42 Warning Message: Size: '/' not an array
+13:39:42 Warning Message: No entry 'bin\config.bin/CfgWeapons.RH_ppk'.
+13:39:42 Warning Message: No entry '.scope'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: Error: creating weapon RH_ppk with scope=private
+13:39:42 Warning Message: No entry '.displayName'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.nameSound'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.type'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.picture'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.Library'.
+13:39:42 Warning Message: No entry '.libTextDesc'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.model'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.simulation'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.fireLightDuration'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.fireLightIntensity'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.weaponLockDelay'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.weaponLockSystem'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.cmImmunity'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.lockingTargetSound'.
+13:39:42 Warning Message: Size: '/' not an array
+13:39:42 Warning Message: No entry '.lockedTargetSound'.
+13:39:42 Warning Message: Size: '/' not an array
+13:39:42 Warning Message: No entry '.muzzles'.
+13:39:42 Warning Message: Size: '/' not an array
+13:39:42 Warning Message: No entry 'bin\config.bin/CfgWeapons.FHQ_ACR_WDL_HAMR_GL_F'.
+13:39:42 Warning Message: No entry '.scope'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: Error: creating weapon FHQ_ACR_WDL_HAMR_GL_F with scope=private
+13:39:42 Warning Message: No entry '.displayName'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.nameSound'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.type'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.picture'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.Library'.
+13:39:42 Warning Message: No entry '.libTextDesc'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.model'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.simulation'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.fireLightDuration'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.fireLightIntensity'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.weaponLockDelay'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.weaponLockSystem'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.cmImmunity'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.lockingTargetSound'.
+13:39:42 Warning Message: Size: '/' not an array
+13:39:42 Warning Message: No entry '.lockedTargetSound'.
+13:39:42 Warning Message: Size: '/' not an array
+13:39:42 Warning Message: No entry '.muzzles'.
+13:39:42 Warning Message: Size: '/' not an array
+13:39:42 Warning Message: No entry 'bin\config.bin/CfgWeapons.FHQ_ACR_SNW_RCO'.
+13:39:42 Warning Message: No entry '.scope'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: Error: creating weapon FHQ_ACR_SNW_RCO with scope=private
+13:39:42 Warning Message: No entry '.displayName'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.nameSound'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.type'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.picture'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.Library'.
+13:39:42 Warning Message: No entry '.libTextDesc'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.model'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.simulation'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.fireLightDuration'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.fireLightIntensity'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.weaponLockDelay'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.weaponLockSystem'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.cmImmunity'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.lockingTargetSound'.
+13:39:42 Warning Message: Size: '/' not an array
+13:39:42 Warning Message: No entry '.lockedTargetSound'.
+13:39:42 Warning Message: Size: '/' not an array
+13:39:42 Warning Message: No entry '.muzzles'.
+13:39:42 Warning Message: Size: '/' not an array
+13:39:42 Warning Message: No entry 'bin\config.bin/CfgWeapons.FHQ_ACR_WDL_RCO_SD_F'.
+13:39:42 Warning Message: No entry '.scope'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: Error: creating weapon FHQ_ACR_WDL_RCO_SD_F with scope=private
+13:39:42 Warning Message: No entry '.displayName'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.nameSound'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.type'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.picture'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.Library'.
+13:39:42 Warning Message: No entry '.libTextDesc'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.model'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.simulation'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.fireLightDuration'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.fireLightIntensity'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.weaponLockDelay'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.weaponLockSystem'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.cmImmunity'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.lockingTargetSound'.
+13:39:42 Warning Message: Size: '/' not an array
+13:39:42 Warning Message: No entry '.lockedTargetSound'.
+13:39:42 Warning Message: Size: '/' not an array
+13:39:42 Warning Message: No entry '.muzzles'.
+13:39:42 Warning Message: Size: '/' not an array
+13:39:42 Warning Message: No entry 'bin\config.bin/CfgWeapons.FHQ_RSASS_TWS_TAN'.
+13:39:42 Warning Message: No entry '.scope'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: Error: creating weapon FHQ_RSASS_TWS_TAN with scope=private
+13:39:42 Warning Message: No entry '.displayName'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.nameSound'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.type'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.picture'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.Library'.
+13:39:42 Warning Message: No entry '.libTextDesc'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.model'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.simulation'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.fireLightDuration'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.fireLightIntensity'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.weaponLockDelay'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.weaponLockSystem'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.cmImmunity'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.lockingTargetSound'.
+13:39:42 Warning Message: Size: '/' not an array
+13:39:42 Warning Message: No entry '.lockedTargetSound'.
+13:39:42 Warning Message: Size: '/' not an array
+13:39:42 Warning Message: No entry '.muzzles'.
+13:39:42 Warning Message: Size: '/' not an array
+13:39:42 Warning Message: No entry 'bin\config.bin/CfgWeapons.RH_uspsd'.
+13:39:42 Warning Message: No entry '.scope'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: Error: creating weapon RH_uspsd with scope=private
+13:39:42 Warning Message: No entry '.displayName'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.nameSound'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.type'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.picture'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.Library'.
+13:39:42 Warning Message: No entry '.libTextDesc'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.model'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.simulation'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.fireLightDuration'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.fireLightIntensity'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.weaponLockDelay'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.weaponLockSystem'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.cmImmunity'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.lockingTargetSound'.
+13:39:42 Warning Message: Size: '/' not an array
+13:39:42 Warning Message: No entry '.lockedTargetSound'.
+13:39:42 Warning Message: Size: '/' not an array
+13:39:42 Warning Message: No entry '.muzzles'.
+13:39:42 Warning Message: Size: '/' not an array
+13:39:42 Warning Message: No entry 'bin\config.bin/CfgWeapons.RH_python'.
+13:39:42 Warning Message: No entry '.scope'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: Error: creating weapon RH_python with scope=private
+13:39:42 Warning Message: No entry '.displayName'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.nameSound'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.type'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.picture'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.Library'.
+13:39:42 Warning Message: No entry '.libTextDesc'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.model'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.simulation'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.fireLightDuration'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.fireLightIntensity'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.weaponLockDelay'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.weaponLockSystem'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.cmImmunity'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.lockingTargetSound'.
+13:39:42 Warning Message: Size: '/' not an array
+13:39:42 Warning Message: No entry '.lockedTargetSound'.
+13:39:42 Warning Message: Size: '/' not an array
+13:39:42 Warning Message: No entry '.muzzles'.
+13:39:42 Warning Message: Size: '/' not an array
+13:39:42 Warning Message: No entry 'bin\config.bin/CfgWeapons.FHQ_ACR_SNW_G33_GL'.
+13:39:42 Warning Message: No entry '.scope'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: Error: creating weapon FHQ_ACR_SNW_G33_GL with scope=private
+13:39:42 Warning Message: No entry '.displayName'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.nameSound'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.type'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.picture'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.Library'.
+13:39:42 Warning Message: No entry '.libTextDesc'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.model'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.simulation'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.fireLightDuration'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.fireLightIntensity'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.weaponLockDelay'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.weaponLockSystem'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.cmImmunity'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.lockingTargetSound'.
+13:39:42 Warning Message: Size: '/' not an array
+13:39:42 Warning Message: No entry '.lockedTargetSound'.
+13:39:42 Warning Message: Size: '/' not an array
+13:39:42 Warning Message: No entry '.muzzles'.
+13:39:42 Warning Message: Size: '/' not an array
+13:39:42 Warning Message: No entry 'bin\config.bin/CfgWeapons.FHQ_ACR_BLK_RCO'.
+13:39:42 Warning Message: No entry '.scope'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: Error: creating weapon FHQ_ACR_BLK_RCO with scope=private
+13:39:42 Warning Message: No entry '.displayName'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.nameSound'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.type'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.picture'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.Library'.
+13:39:42 Warning Message: No entry '.libTextDesc'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.model'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.simulation'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.fireLightDuration'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.fireLightIntensity'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.weaponLockDelay'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.weaponLockSystem'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.cmImmunity'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.lockingTargetSound'.
+13:39:42 Warning Message: Size: '/' not an array
+13:39:42 Warning Message: No entry '.lockedTargetSound'.
+13:39:42 Warning Message: Size: '/' not an array
+13:39:42 Warning Message: No entry '.muzzles'.
+13:39:42 Warning Message: Size: '/' not an array
+13:39:42 Warning Message: No entry 'bin\config.bin/CfgWeapons.FHQ_MSR_SD_BASE'.
+13:39:42 Warning Message: No entry '.scope'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: Error: creating weapon FHQ_MSR_SD_BASE with scope=private
+13:39:42 Warning Message: No entry '.displayName'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.nameSound'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.type'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.picture'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.Library'.
+13:39:42 Warning Message: No entry '.libTextDesc'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.model'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.simulation'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.fireLightDuration'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.fireLightIntensity'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.weaponLockDelay'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.weaponLockSystem'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.cmImmunity'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.lockingTargetSound'.
+13:39:42 Warning Message: Size: '/' not an array
+13:39:42 Warning Message: No entry '.lockedTargetSound'.
+13:39:42 Warning Message: Size: '/' not an array
+13:39:42 Warning Message: No entry '.muzzles'.
+13:39:42 Warning Message: Size: '/' not an array
+13:39:42 Warning Message: No entry 'bin\config.bin/CfgWeapons.RH_m1s'.
+13:39:42 Warning Message: No entry '.scope'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: Error: creating weapon RH_m1s with scope=private
+13:39:42 Warning Message: No entry '.displayName'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.nameSound'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.type'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.picture'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.Library'.
+13:39:42 Warning Message: No entry '.libTextDesc'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.model'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.simulation'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.fireLightDuration'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.fireLightIntensity'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.weaponLockDelay'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.weaponLockSystem'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.cmImmunity'.
+13:39:42 Warning Message: '/' is not a value
+13:39:42 Warning Message: No entry '.lockingTargetSound'.
+13:39:42 Warning Message: Size: '/' not an array
+13:39:42 Warning Message: No entry '.lockedTargetSound'.
+13:39:42 Warning Message: Size: '/' not an array
+13:39:42 Warning Message: No entry '.muzzles'.
+13:39:42 Warning Message: Size: '/' not an array
+13:39:42 [DZMS]: (DZMSUnitsMinor) 3 AI Spawned, 3 units in mission.
+13:39:43 [DZMS]: (DZMSUnitsMinor) 3 AI Spawned, 6 units in mission.
+13:39:45 [DZMS]: (DZMSUnitsMinor) 3 AI Spawned, 9 units in mission.
+13:39:46 No owner
+13:39:46 No owner
+13:39:46 No owner
+13:39:46 [DZMS]: (DZMSUnitsMinor) 3 AI Spawned, 12 units in mission.
+13:39:47 [DZMS]: (DZMSUnitsMinor) Waiting for 12/12 Units or Less to be Alive and a Player to be Near the Objective.
+13:40:09 "RUNNING EVENT: Supplyitems on [2016,6,4,13,40]"
+13:40:10 "Spawning loot event at [8774.27,12669.9]"
+13:40:10 "Creating ammo box at [8921.82,12481.1]"
+13:40:10 "Loot event setup, waiting for 900 seconds"
+13:41:28 "TIME SYNC: Local Time set to [2013,8,3,13,41]"
+13:41:28 "CLEANUP: Deleted 2 Animals out of 3"
+13:41:52 [DZMS]: (DZMSUnitsMajor) Waiting for 16/16 Units or Less to be Alive and a Player to be Near the Objective.
+13:41:52 Warning Message: No entry 'bin\config.bin/CfgWeapons.vil_APS'.
+13:41:52 Warning Message: No entry '.scope'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: Error: creating weapon vil_APS with scope=private
+13:41:52 Warning Message: No entry '.displayName'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.nameSound'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.type'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.picture'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.Library'.
+13:41:52 Warning Message: No entry '.libTextDesc'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.model'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.simulation'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.fireLightDuration'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.fireLightIntensity'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.weaponLockDelay'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.weaponLockSystem'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.cmImmunity'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.lockingTargetSound'.
+13:41:52 Warning Message: Size: '/' not an array
+13:41:52 Warning Message: No entry '.lockedTargetSound'.
+13:41:52 Warning Message: Size: '/' not an array
+13:41:52 Warning Message: No entry '.muzzles'.
+13:41:52 Warning Message: Size: '/' not an array
+13:41:52 Warning Message: No entry 'bin\config.bin/CfgWeapons.RH_anac'.
+13:41:52 Warning Message: No entry '.scope'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: Error: creating weapon RH_anac with scope=private
+13:41:52 Warning Message: No entry '.displayName'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.nameSound'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.type'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.picture'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.Library'.
+13:41:52 Warning Message: No entry '.libTextDesc'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.model'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.simulation'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.fireLightDuration'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.fireLightIntensity'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.weaponLockDelay'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.weaponLockSystem'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.cmImmunity'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.lockingTargetSound'.
+13:41:52 Warning Message: Size: '/' not an array
+13:41:52 Warning Message: No entry '.lockedTargetSound'.
+13:41:52 Warning Message: Size: '/' not an array
+13:41:52 Warning Message: No entry '.muzzles'.
+13:41:52 Warning Message: Size: '/' not an array
+13:41:52 Warning Message: No entry 'bin\config.bin/CfgWeapons.RH_hk417sdeotech'.
+13:41:52 Warning Message: No entry '.scope'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: Error: creating weapon RH_hk417sdeotech with scope=private
+13:41:52 Warning Message: No entry '.displayName'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.nameSound'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.type'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.picture'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.Library'.
+13:41:52 Warning Message: No entry '.libTextDesc'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.model'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.simulation'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.fireLightDuration'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.fireLightIntensity'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.weaponLockDelay'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.weaponLockSystem'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.cmImmunity'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.lockingTargetSound'.
+13:41:52 Warning Message: Size: '/' not an array
+13:41:52 Warning Message: No entry '.lockedTargetSound'.
+13:41:52 Warning Message: Size: '/' not an array
+13:41:52 Warning Message: No entry '.muzzles'.
+13:41:52 Warning Message: Size: '/' not an array
+13:41:52 Warning Message: No entry 'bin\config.bin/CfgWeapons.FHQ_ACR_TAN_IRN_GL'.
+13:41:52 Warning Message: No entry '.scope'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: Error: creating weapon FHQ_ACR_TAN_IRN_GL with scope=private
+13:41:52 Warning Message: No entry '.displayName'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.nameSound'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.type'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.picture'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.Library'.
+13:41:52 Warning Message: No entry '.libTextDesc'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.model'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.simulation'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.fireLightDuration'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.fireLightIntensity'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.weaponLockDelay'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.weaponLockSystem'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.cmImmunity'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.lockingTargetSound'.
+13:41:52 Warning Message: Size: '/' not an array
+13:41:52 Warning Message: No entry '.lockedTargetSound'.
+13:41:52 Warning Message: Size: '/' not an array
+13:41:52 Warning Message: No entry '.muzzles'.
+13:41:52 Warning Message: Size: '/' not an array
+13:41:52 Warning Message: No entry 'bin\config.bin/CfgWeapons.RH_m14'.
+13:41:52 Warning Message: No entry '.scope'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: Error: creating weapon RH_m14 with scope=private
+13:41:52 Warning Message: No entry '.displayName'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.nameSound'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.type'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.picture'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.Library'.
+13:41:52 Warning Message: No entry '.libTextDesc'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.model'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.simulation'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.fireLightDuration'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.fireLightIntensity'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.weaponLockDelay'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.weaponLockSystem'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.cmImmunity'.
+13:41:52 Warning Message: '/' is not a value
+13:41:52 Warning Message: No entry '.lockingTargetSound'.
+13:41:52 Warning Message: Size: '/' not an array
+13:41:52 Warning Message: No entry '.lockedTargetSound'.
+13:41:52 Warning Message: Size: '/' not an array
+13:41:52 Warning Message: No entry '.muzzles'.
+13:41:52 Warning Message: Size: '/' not an array
+13:43:35 "DZAI Monitor :: Server Uptime: [0d 0h 24m 36s]. Active AI Groups: 12."
+13:43:35 "DZAI Monitor :: Static Spawns: 0. Respawn Queue: 0 groups queued."
+13:43:35 "DZAI Monitor :: Dynamic Spawns: 0. Air Patrols: 3. Land Patrols: 9. Sea Patrols: 0."
+13:46:04 "** scp_killed initializing"
+13:46:04 "<*> Survivor B 1-1-D:1 killed by O 1-1-C:1"
+13:46:04 "** scp_publishunit B 1-1-D:1,true,false,0,false,false,false"
+13:46:06 "** scp_spwn_fr initializing"
+13:46:06 "<*> Replacing dead survivor #0 with B 1-1-F:1"
+13:46:06 "** scp_behavoir initializing"
+13:46:06 "** scp_behavoir initialized"
+13:46:06 "** scp_task_patrol initializing"
+13:46:06 "** scp_task_patrol initialized"
+13:46:06 "** scp_publishunit B 1-1-F:1,true,false,0,false,false,true"
+13:46:06 "** scp_spwn_fr Unit created : SurvivorWurban_DZ,4923.75,9967.65"
+13:46:06 "** scp_spwn_fr initialized"
+13:46:08 "** scp_killed initialized"
+13:46:28 "TIME SYNC: Local Time set to [2013,8,3,13,46]"
+13:47:08 Server: Object 3:333 not found (message 70)
+13:47:36 "CLEANUP: Deleted 63 Loot Piles out of 173"
+13:48:35 "DZAI Monitor :: Server Uptime: [0d 0h 29m 37s]. Active AI Groups: 12."
+13:48:35 "DZAI Monitor :: Static Spawns: 0. Respawn Queue: 0 groups queued."
+13:48:35 "DZAI Monitor :: Dynamic Spawns: 0. Air Patrols: 3. Land Patrols: 9. Sea Patrols: 0."
+13:49:34 "CLEANUP: Deleted 63 Loot Piles out of 111"
+13:50:01 "RUNNING EVENT: supply_drop on [2016,6,4,13,50]"
+13:50:30 "CLEANUP: Deleted 4 Loot Piles out of 55"
+13:51:28 "TIME SYNC: Local Time set to [2013,8,3,13,51]"
+13:51:30 "CLEANUP: Deleted 12 Loot Piles out of 51"
+13:53:36 "DZAI Monitor :: Server Uptime: [0d 0h 34m 37s]. Active AI Groups: 12."
+13:53:36 "DZAI Monitor :: Static Spawns: 0. Respawn Queue: 0 groups queued."
+13:53:36 "DZAI Monitor :: Dynamic Spawns: 0. Air Patrols: 3. Land Patrols: 9. Sea Patrols: 0."
+13:55:02 "RUNNING EVENT: Construction on [2016,6,4,13,55]"
+13:55:30 "CLEANUP: Deleted 1 Loot Piles out of 38"
+13:56:28 "TIME SYNC: Local Time set to [2013,8,3,13,56]"
+13:56:28 "CLEANUP: Deleted 2 Animals out of 4"
+13:58:36 "DZAI Monitor :: Server Uptime: [0d 0h 39m 37s]. Active AI Groups: 12."
+13:58:36 "DZAI Monitor :: Static Spawns: 0. Respawn Queue: 0 groups queued."
+13:58:36 "DZAI Monitor :: Dynamic Spawns: 0. Air Patrols: 3. Land Patrols: 9. Sea Patrols: 0."
+13:59:29 "infiSTAR.de PVAH_WriteLog: B 1-1-K:1 (Mateuus) REMOTE   Mateuus G_o_d ON"
+14:00:02 "RUNNING EVENT: crash_spawner on [2016,6,4,14,0]"
+14:00:22 "infiSTAR.de PlayerConnected: ["76561198056083521","Aquiles"]"
+14:00:22 "infiSTAR.de - Player-Log: Aquiles(76561198056083521) - 0h 41min | ******ADMIN******"
+14:00:31 "CLEANUP: Deleted 9 Loot Piles out of 36"
+14:00:53 "infiSTAR.de fnc_AdminFirstReq: [1234,B 1-1-L:1 (Aquiles) REMOTE,"76561198056083521"]"
+14:00:53 "infiSTAR.de fnc_AdminReqProceed: [1234,B 1-1-L:1 (Aquiles) REMOTE,"76561198056083521"]"
+14:00:53 "infiSTAR.de ******ADMIN-LOGIN******: Aquiles(76561198056083521)"
+14:00:53 "** scp_updateclient initializing"
+14:00:53 "** scp_publishunit B 1-1-F:1,true,false,0,false,false,true"
+14:00:53 "** scp_publishunit B 1-1-E:1,true,false,0,false,false,true"
+14:00:53 "** scp_publishunit B 1-1-H:1,true,false,0,false,false,true"
+14:00:53 "** scp_publishunit B 1-1-G:1,true,false,0,false,false,true"
+14:00:53 "** scp_publishunit B 1-1-A:1,true,false,0,false,false,true"
+14:00:53 "** scp_updateclient initialized"
+14:01:13 "infiSTAR.de PVAH_WriteLog: B 1-1-K:1 (Mateuus) REMOTE   Mateuus GroupIcons Activated"
+14:01:28 "TIME SYNC: Local Time set to [2013,8,3,14,1]"
+14:01:46 "infiSTAR.de PlayerConnected: ["76561198123768694","Hailori"]"
+14:01:46 "infiSTAR.de - Player-Log: Hailori(76561198123768694) - 0h 42min | ******ADMIN******"
+14:01:49 Server: Object 5:25 not found (message 94)
+14:01:52 "infiSTAR.de fnc_AdminFirstReq: [1234,B 1-1-M:1 (Hailori) REMOTE,"76561198123768694"]"
+14:01:52 "infiSTAR.de fnc_AdminReqProceed: [1234,B 1-1-M:1 (Hailori) REMOTE,"76561198123768694"]"
+14:01:52 "infiSTAR.de ******ADMIN-LOGIN******: Hailori(76561198123768694)"
+14:01:52 "** scp_updateclient initializing"
+14:01:52 "** scp_publishunit B 1-1-F:1,true,false,0,false,false,true"
+14:01:52 "** scp_publishunit B 1-1-E:1,true,false,0,false,false,true"
+14:01:52 "** scp_publishunit B 1-1-H:1,true,false,0,false,false,true"
+14:01:52 "** scp_publishunit B 1-1-G:1,true,false,0,false,false,true"
+14:01:52 "** scp_publishunit B 1-1-A:1,true,false,0,false,false,true"
+14:01:52 "** scp_updateclient initialized"
+14:02:30 "CLEANUP: Deleted 3 Loot Piles out of 28"
+14:03:37 "DZAI Monitor :: Server Uptime: [0d 0h 44m 38s]. Active AI Groups: 12."
+14:03:37 "DZAI Monitor :: Static Spawns: 0. Respawn Queue: 0 groups queued."
+14:03:37 "DZAI Monitor :: Dynamic Spawns: 0. Air Patrols: 3. Land Patrols: 9. Sea Patrols: 0."
+14:04:19 "PLANE: AN2 Cargo Plane started flying from [6993.7,173.053,300] to first waypoint NOW!(TIME:2471)"
+14:04:19 "PLANE: Adding DROPWaypoint #1 on [3190.88,3206.5]"
+14:04:24 "[NAC BLOWOUT SERVER] :: Blowout module is ON ns_blowout (ns_blowout = true)"
+14:04:24 "[NAC BLOWOUT SERVER] :: Blowout module is in DayZ mode ns_blowout_dayz (ns_blowout_dayz = true)"
+14:04:24 "[NAC BLOWOUT SERVER] :: Normal output, EMP target surroundings of Namalsk (ns_blow_emp = false)"
+14:04:24 "[NAC BLOWOUT SERVER] :: Preparations are under way (ns_blow_prep = true)"
+14:05:41 "PLANE IS AT DROPWAYPOINT #1 on [3358.95,3027.18,96.7124]"
+14:05:43 "PLANE: Adding DROPWaypoint #2 on [3184.43,3873.24]"
+14:05:50 "infiSTAR.de PVAH_WriteLog: B 1-1-L:1 (Aquiles) REMOTE   Aquiles G_o_d ON"
+14:05:55 "PLANE IS AT DROPWAYPOINT #2 on [3167.45,3637.56,96.6552]"
+14:05:57 "PLANE: Adding DROPWaypoint #3 on [5347.2,3920.01]"
+14:06:00 "CAREPACKAGE: Loot spawn at '[3321.89,3090.36,0]' with loot ["ItemMap","weapon"]"
+14:06:00 "CAREPACKAGE: Loot spawn at '[3323.04,3083.78,0]' with loot ["ItemKnife","generic"]"
+14:06:00 "CAREPACKAGE: Loot spawn at '[3317.39,3088.22,0]' with loot ["Colt1911","weapon"]"
+14:06:00 "CAREPACKAGE: Loot spawn at '[3318.74,3088.31,0]' with loot ["ItemMap","weapon"]"
+14:06:00 "CAREPACKAGE: Loot spawn at '[3323.27,3083.29,0]' with loot ["ItemFlashlightRed","military"]"
+14:06:00 "CAREPACKAGE: Loot spawn at '[3319.14,3089.04,0]' with loot ["DZ_ALICE_Pack_EP1","object"]"
+14:06:00 "CAREPACKAGE: Loot spawn at '[3323.18,3081.75,0]' with loot ["ItemKnife","generic"]"
+14:06:00 "CAREPACKAGE: Loot spawn at '[3322.33,3082.82,0]' with loot ["","food"]"
+14:06:09 "infiSTAR.de fnc_AdminFirstReq: [20,B 1-1-L:1 (Aquiles) REMOTE,13]"
+14:06:09 "infiSTAR.de fnc_AdminReqProceed: [20,B 1-1-L:1 (Aquiles) REMOTE,13]"
+14:06:09 "infiSTAR.de PVAH_WriteLog: B 1-1-L:1 (Aquiles) REMOTE   Aquiles Time to [2012,1,1,13,0]"
+14:06:13 "infiSTAR.de fnc_AdminFirstReq: [19,B 1-1-L:1 (Aquiles) REMOTE,2,0]"
+14:06:13 "infiSTAR.de fnc_AdminReqProceed: [19,B 1-1-L:1 (Aquiles) REMOTE,2,0]"
+14:06:13 "infiSTAR.de PVAH_WriteLog: B 1-1-L:1 (Aquiles) REMOTE   Aquiles Weather 0"
+14:06:14 "CAREPACKAGE: Loot spawn at '[3196.07,3711.77,0]' with loot ["M16A2","weapon"]"
+14:06:14 "CAREPACKAGE: Loot spawn at '[3194.77,3710.54,0]' with loot ["glock17_EP1","weapon"]"
+14:06:14 "CAREPACKAGE: Loot spawn at '[3202.75,3709.07,0]' with loot ["Colt1911","weapon"]"
+14:06:14 "CAREPACKAGE: Loot spawn at '[3196.38,3705.74,0]' with loot ["Binocular","weapon"]"
+14:06:14 "CAREPACKAGE: Loot spawn at '[3197.86,3704.28,0]' with loot ["Makarov","weapon"]"
+14:06:14 "CAREPACKAGE: Loot spawn at '[3196.62,3705.11,0]' with loot ["glock17_EP1","weapon"]"
+14:06:14 "CAREPACKAGE: Loot spawn at '[3201.28,3708.77,0]' with loot ["revolver_EP1","weapon"]"
+14:06:14 "CAREPACKAGE: Loot spawn at '[3195,3711.08,0]' with loot ["Makarov","weapon"]"
+14:06:14 "infiSTAR.de fnc_AdminFirstReq: [19,B 1-1-L:1 (Aquiles) REMOTE,2,0]"
+14:06:14 "infiSTAR.de fnc_AdminReqProceed: [19,B 1-1-L:1 (Aquiles) REMOTE,2,0]"
+14:06:14 "infiSTAR.de PVAH_WriteLog: B 1-1-L:1 (Aquiles) REMOTE   Aquiles Weather 0"
+14:06:28 "Purging player: 3b6c6040# 1067183: harris.p3d"
+14:06:28 "CLEANUP: Deleted 1 players && 0 zombies out of 6 dead"
+14:06:41 "PLANE IS AT DROPWAYPOINT #3 on [5128.15,3909.57,97.0225]"
+14:06:43 "PLANE: Adding DROPWaypoint #4 on [6039.12,3210.1]"
+14:06:59 "PLANE IS AT DROPWAYPOINT #4 on [5917.72,3392.09,98.0809]"
+14:07:01 "CAREPACKAGE: Loot spawn at '[5271.42,3925.27,0]' with loot ["WeaponHolder_ItemMachete","object"]"
+14:07:01 "CAREPACKAGE: Loot spawn at '[5272.31,3925.98,0]' with loot ["ItemMap","weapon"]"
+14:07:01 "CAREPACKAGE: Loot spawn at '[5272.59,3925.7,0]' with loot ["LeeEnfield","weapon"]"
+14:07:01 "CAREPACKAGE: Loot spawn at '[5272.48,3918.66,0]' with loot ["AK_47_M","weapon"]"
+14:07:01 "CAREPACKAGE: Loot spawn at '[5275.1,3921.65,0]' with loot ["UZI_EP1","weapon"]"
+14:07:01 "CAREPACKAGE: Loot spawn at '[5269.35,3923.7,0]' with loot ["MP5A5","weapon"]"
+14:07:01 "CAREPACKAGE: Loot spawn at '[5274,3918.6,0]' with loot ["AKS_74_U","weapon"]"
+14:07:01 "CAREPACKAGE: Loot spawn at '[5268.34,3921.88,0]' with loot ["ItemMap","weapon"]"
+14:07:01 "PLANE IS AT END WAYPOINT on [6993.7,173.053,300]"
+14:07:04 "infiSTAR.de PVAH_WriteLog: B 1-1-L:1 (Aquiles) REMOTE   Aquiles Moving to Mateuus"
+14:07:18 "CAREPACKAGE: Loot spawn at '[6000.47,3315.36,0]' with loot ["Remington870_lamp","weapon"]"
+14:07:18 "CAREPACKAGE: Loot spawn at '[6001.79,3314.39,0]' with loot ["ItemMatchbox","generic"]"
+14:07:18 "CAREPACKAGE: Loot spawn at '[6002.89,3314.13,0]' with loot ["LeeEnfield","weapon"]"
+14:07:18 "CAREPACKAGE: Loot spawn at '[6007.94,3317.29,0]' with loot ["ItemFlashlightRed","military"]"
+14:07:18 "CAREPACKAGE: Loot spawn at '[6004.27,3314.59,0]' with loot ["UZI_EP1","weapon"]"
+14:07:18 "CAREPACKAGE: Loot spawn at '[6005.87,3318.38,0]' with loot ["Makarov","weapon"]"
+14:07:18 "CAREPACKAGE: Loot spawn at '[6001.03,3315.7,0]' with loot ["ItemKnife","generic"]"
+14:07:35 "infiSTAR.de PVAH_WriteLog: B 1-1-L:1 (Aquiles) REMOTE   Aquiles adminammo_recoil ON"
+14:07:36 "infiSTAR.de PVAH_WriteLog: B 1-1-L:1 (Aquiles) REMOTE   Aquiles adminammo_recoil OFF"
+14:07:43 "PLANE DELETED"
+14:07:43 "PLANE: 4 Carepackagedrops completed! Runtime: 204 Seconds"
+14:07:43 "PLANE: 75% chance to start a AN2 Cargo Plane Carepackagedrop at 5693.58 with 3 drop points"
+14:08:07 "infiSTAR.de PVAH_WriteLog: B 1-1-L:1 (Aquiles) REMOTE   Aquiles adminammo_recoil ON"
+14:08:08 "infiSTAR.de PVAH_WriteLog: B 1-1-L:1 (Aquiles) REMOTE   Aquiles FastFire ON"
+14:08:26 "infiSTAR.de fnc_AdminFirstReq: [1,B 1-1-L:1 (Aquiles) REMOTE,B 1-1-L:1 (Aquiles) REMOTE,[9291.35,2058.47,0]]"
+14:08:26 "infiSTAR.de fnc_AdminReqProceed: [1,B 1-1-L:1 (Aquiles) REMOTE,B 1-1-L:1 (Aquiles) REMOTE,[9291.35,2058.47,0]]"
+14:08:26 "Vehicle destroyed @096134 - UH1Wreck, worldspace [252.854,[9630.31,1938.22,-0.846184]], CharId 0, objID 0, objUID 0, nearby []"
+14:08:30 "infiSTAR.de fnc_AdminFirstReq: [1,B 1-1-L:1 (Aquiles) REMOTE,B 1-1-L:1 (Aquiles) REMOTE,[9727.64,2024.08,0]]"
+14:08:30 "infiSTAR.de fnc_AdminReqProceed: [1,B 1-1-L:1 (Aquiles) REMOTE,B 1-1-L:1 (Aquiles) REMOTE,[9727.64,2024.08,0]]"
+14:08:37 "DZAI Monitor :: Server Uptime: [0d 0h 49m 39s]. Active AI Groups: 12."
+14:08:37 "DZAI Monitor :: Static Spawns: 0. Respawn Queue: 0 groups queued."
+14:08:37 "DZAI Monitor :: Dynamic Spawns: 0. Air Patrols: 3. Land Patrols: 9. Sea Patrols: 0."
+14:09:24 "[NAC BLOWOUT SERVER] :: Preparations are finished (ns_blow_prep = false)"
+14:09:24 "[NAC BLOWOUT SERVER] :: Blowout in progress (ns_blow_status = true)"
+14:09:26 "[NAC BLOWOUT SERVER] :: Blowout actions in progress (ns_blow_action = true)"
+14:09:55 "infiSTAR.de fnc_AdminFirstReq: [-2,B 1-1-L:1 (Aquiles) REMOTE,3ad1b200# 1066691: datsun01t.p3d]"
+14:09:55 "infiSTAR.de fnc_AdminReqProceed: [-2,B 1-1-L:1 (Aquiles) REMOTE,3ad1b200# 1066691: datsun01t.p3d]"
+14:09:55 "DELETE: 76561198056083521 Deleted by ID: 1"
+14:09:55 "infiSTAR.de PVAH_WriteLog: B 1-1-L:1 (Aquiles) REMOTE   Aquiles (76561198056083521) deleted datsun01Wreck @100132 - characterID any - objectID: 1 - objectUID: 0"
+14:10:03 "[NAC BLOWOUT SERVER] :: Blowout actions finished (ns_blow_action = false)"
+14:10:04 "RUNNING EVENT: Military on [2016,6,4,14,10]"
+14:10:11 No owner
+14:10:28 "[NAC BLOWOUT SERVER] :: Blowout finished (ns_blow_status = false)"
+14:10:28 "[NAC BLOWOUT SERVER] :: Next blowout in _delay (_delay = 2528.45), delay modifier is 0.74 (ns_blow_delaymod)"
+14:10:58 Server: Object 4:205 not found (message 99)
+14:10:59 "infiSTAR.de fnc_AdminFirstReq: [19,B 1-1-K:1 (Mateuus) REMOTE,2,0]"
+14:10:59 "infiSTAR.de fnc_AdminReqProceed: [19,B 1-1-K:1 (Mateuus) REMOTE,2,0]"
+14:10:59 "infiSTAR.de PVAH_WriteLog: B 1-1-K:1 (Mateuus) REMOTE   Mateuus Weather 0"
+14:11:02 "infiSTAR.de fnc_AdminFirstReq: [19,B 1-1-L:1 (Aquiles) REMOTE,2,0]"
+14:11:02 "infiSTAR.de fnc_AdminReqProceed: [19,B 1-1-L:1 (Aquiles) REMOTE,2,0]"
+14:11:02 "infiSTAR.de PVAH_WriteLog: B 1-1-L:1 (Aquiles) REMOTE   Aquiles Weather 0"
+14:11:03 "infiSTAR.de fnc_AdminFirstReq: [19,B 1-1-L:1 (Aquiles) REMOTE,2,0]"
+14:11:03 "infiSTAR.de fnc_AdminReqProceed: [19,B 1-1-L:1 (Aquiles) REMOTE,2,0]"
+14:11:03 "infiSTAR.de PVAH_WriteLog: B 1-1-L:1 (Aquiles) REMOTE   Aquiles Weather 0"
+14:11:11 "infiSTAR.de fnc_AdminFirstReq: [20,B 1-1-L:1 (Aquiles) REMOTE,13]"
+14:11:11 "infiSTAR.de fnc_AdminReqProceed: [20,B 1-1-L:1 (Aquiles) REMOTE,13]"
+14:11:11 "infiSTAR.de PVAH_WriteLog: B 1-1-L:1 (Aquiles) REMOTE   Aquiles Time to [2012,1,1,13,0]"
+14:11:21 "infiSTAR.de PVAH_WriteLog: B 1-1-K:1 (Mateuus) REMOTE   Mateuus Spectating Mateuus"
+14:11:22 "infiSTAR.de fnc_AdminFirstReq: [5,B 1-1-K:1 (Mateuus) REMOTE,B 1-1-K:1 (Mateuus) REMOTE]"
+14:11:22 "infiSTAR.de fnc_AdminReqProceed: [5,B 1-1-K:1 (Mateuus) REMOTE,B 1-1-K:1 (Mateuus) REMOTE]"
+14:11:22 "infiSTAR.de PVAH_WriteLog: B 1-1-K:1 (Mateuus) REMOTE   Mateuus AdminHeal Mateuus"
+14:11:28 "CLEANUP: Deleted 2 Animals out of 5"
+14:12:41 "infiSTAR.de fnc_AdminFirstReq: [0,B 1-1-L:1 (Aquiles) REMOTE,"Pickup_PK_GUE",[10295.4,2140.84,0]]"
+14:12:41 "infiSTAR.de fnc_AdminReqProceed: [0,B 1-1-L:1 (Aquiles) REMOTE,"Pickup_PK_GUE",[10295.4,2140.84,0]]"
+14:12:41 "infiSTAR.de PVAH_WriteLog: B 1-1-L:1 (Aquiles) REMOTE   Aquiles (76561198056083521) spawned Pickup_PK_GUE @102132"

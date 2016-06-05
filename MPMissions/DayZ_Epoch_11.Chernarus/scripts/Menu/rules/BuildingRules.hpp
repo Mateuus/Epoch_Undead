@@ -43,7 +43,7 @@ class CCD_MMButton: CCD_RscButton
 	w = 0.0543943 * safezoneW;
 	h = 0.0239398 * safezoneH;
 	colorBackground[] = {0.176,0.329,0.564,0.8};
-	onButtonClick = "((ctrlParent (_this select 0)) closeDisplay 845170); ExecVM 'custom\Menu\MenuInit.sqf';";
+	onButtonClick = "((ctrlParent (_this select 0)) closeDisplay 845170); ExecVM 'scripts\Menu\MenuInit.sqf';";
 };
 class RscFrame_1801: BOX
 {
@@ -57,7 +57,7 @@ class RscFrame_1801: BOX
 class RscText_1000: CCD_RscText
 {
 	idc = 1000;
-	text = "Chernobyl";
+	text = "Undead Brasil";
 	x = 0.465023 * safezoneW + safezoneX;
 	y = 0.241462 * safezoneH + safezoneY;
 	w = 0.0543808 * safezoneW;

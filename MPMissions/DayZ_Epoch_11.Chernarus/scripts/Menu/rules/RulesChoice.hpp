@@ -35,7 +35,7 @@ class CCD_HeaderBackGround: BOX
 class CCD_TitleText: CCD_RscText
 {
 	idc = 1028;
-	text = "Chernobyl";
+	text = "Undead Brasil";
 	x = 0.465023 * safezoneW + safezoneX;
 	y = 0.241462 * safezoneH + safezoneY;
 	w = 0.0691217 * safezoneW;

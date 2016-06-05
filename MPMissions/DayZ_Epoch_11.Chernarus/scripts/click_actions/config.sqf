@@ -19,15 +19,25 @@ If(DeployBikeScript)then{
 } else {
 	DEPLOY_BIKE = [];
 };
+
+if(radioScript)then{
+	RADIO = [
+	  ["ItemRadio","Gerenciar Grupo","execVM 'scripts\dzgm\loadGroupManagement.sqf';","true"],
+      ["ItemRadio","Chamar Evac-Chopper","execVM 'scripts\JAEM\CallEvacChopper.sqf';","true"]
+	];
+} else {
+	RADIO = [];
+};
+
 If(craftingScript)then{
 	CRAFTING = [
 		["ItemMachete","Clear Grass","[] execVM 'scripts\crafting\clearbrush.sqf';","true"],
-		["ItemKnife","Make Arrows","[] execVM 'scripts\crafting\makearrow.sqf';","true"],
-		["ItemKnife","Make Bandage","[] execVM 'scripts\crafting\makebandage.sqf';","true"],
-		["ItemToolbox","Make Knife","[] execVM 'scripts\crafting\makeknife.sqf';","true"],
-		["ItemToolbox","Make Bow","[] execVM 'scripts\crafting\makebow.sqf';","true"],
-		["ItemToolbox","Make Hatchet","[] execVM 'scripts\crafting\makehatchet.sqf';","true"],
-		["ItemToolbox","Make CinderBlocks","[] execVM 'scripts\crafting\makecinderblock.sqf';","true"]
+		["ItemKnife","Fazer Flechas","[] execVM 'scripts\crafting\makearrow.sqf';","true"],
+		["ItemKnife","Fazer Bandage","[] execVM 'scripts\crafting\makebandage.sqf';","true"],
+		["ItemToolbox","Fazer Faca","[] execVM 'scripts\crafting\makeknife.sqf';","true"],
+		["ItemToolbox","Fazer CrossBow","[] execVM 'scripts\crafting\makebow.sqf';","true"],
+		["ItemToolbox","Fazer Hatchet","[] execVM 'scripts\crafting\makehatchet.sqf';","true"],
+		["ItemToolbox","Fazer CinderBlocks","[] execVM 'scripts\crafting\makecinderblock.sqf';","true"]
 	];
 } else {
 	CRAFTING = [];

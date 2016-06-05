@@ -138,7 +138,7 @@ menu_HouseWife1 = [
 ];
 // Black market
 menu_GUE_Woodlander2 = [
-	[["Black Market Ammo",527],["Black Market Weapons",526],["Explosivos",529],["Erva",999]],
+	[["Mercado Negro Ammo",527],["Mercado Negro Armas",526],["Explosivos",529],["Erva",999]],
 	[],
 	"neutral"
 ];

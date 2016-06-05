@@ -1,5 +1,7 @@
 //Script Control - Allows you to customize the repack by turning certain scripts on or off - true = on /false = off
 
+//Radio Menu
+radioScript = true;
 //Mensagem De Inicio
 MsgInicio = true;
 //Server watermark
@@ -32,9 +34,9 @@ BUSmarkerScript = true;
 //Custom Kill Message's
 KillMessageScript = true;
 //Weapon Mods
-WeaponModScript = true;
+WeaponModScript = false;
 //EVR Blowout
-EVRScript = true;
+EVRScript = false;
 //Lights
 LightScript = true;
 //Welcome Credits
@@ -90,7 +92,7 @@ ZombieBaitScript = true;
 //Zombie bomb bait
 ZombieBombScript = true;
 //DZAI CLient (does not disable DZAI just the client side part)
-DZAIClientScript = true;
+DZAIClientScript = false;
 //Take Clothes
 TakeClothesScript = true;
 //Bury Body

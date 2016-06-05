@@ -1,315 +1,3 @@
-18:16:02 Cannot create non-ai vehicle Civcarre,
-18:16:02 Cannot create non-ai vehicle CYBP_Camel_us,
-18:16:02 Cannot create non-ai vehicle 350z_white,
-18:16:02 Cannot create non-ai vehicle 350z_black,
-18:16:02 Cannot create non-ai vehicle 350z_kiwi,
-18:16:02 Cannot create non-ai vehicle 350z_pink,
-18:16:02 Cannot create non-ai vehicle 350z_kiwi,
-18:16:02 Cannot create non-ai vehicle 350z_red,
-18:16:02 Cannot create non-ai vehicle 350z_silver,
-18:16:02 "HIVE: Spawning # of Vehicles: 6"
-18:16:02 "HIVE: Spawning # of Debris: 500"
-18:16:02 "HIVE: Spawning # of Ammo Boxes: 3"
-18:16:02 "HIVE: Spawning # of Veins: 50"
-18:16:02 "Total Number of spawn locations 5"
-18:16:02 "[DZAI] Initializing DZAI version 2.1.3 Release Build 09272014 using base path z\addons\dayz_server\DZAI."
-18:16:02 "[DZAI] Reading DZAI configuration file."
-18:16:02 "[DZAI] DZAI configuration file loaded."
-18:16:02 "[DZAI] Compiling DZAI functions."
-18:16:04 "[DZAI] DZAI functions compiled."
-18:16:04 "[DZAI] Epoch classnames loaded."
-18:16:04 "[DZAI] DZAI settings: Debug Level: 0. DebugMarkers: false. WorldName: chernarus. ModName: epoch (Ver: 1.0.5.1). DZAI_dynamicWeaponList: true. VerifyTables: true."
-18:16:04 "[DZAI] AI spawn settings: Static: true. Dynamic: false. Air: true. Land: true."
-18:16:04 "[DZAI] AI settings: DZAI_findKiller: true. DZAI_useHealthSystem: true. DZAI_weaponNoise: false. DZAI_zombieEnemy: false."
-18:16:04 "[DZAI] DZAI loading completed in 1.1 seconds."
-18:16:04 "** scp_spwn_fr initializing"
-18:16:04 "** scp_behavoir initializing"
-18:16:04 "** scp_behavoir initialized"
-18:16:04 "** scp_task_patrol initializing"
-18:16:04 "** scp_task_patrol initialized"
-18:16:04 "** scp_publishunit B 1-1-D:1,true,false,0,false,false,true"
-18:16:04 "** scp_spwn_fr Unit created : USMC_Soldier_Medic,12405.7,12562.7"
-18:16:04 "** scp_spwn_fr initializing"
-18:16:04 "** scp_behavoir initializing"
-18:16:04 "** scp_behavoir initialized"
-18:16:04 "** scp_task_patrol initializing"
-18:16:04 "** scp_task_patrol initialized"
-18:16:04 "** scp_publishunit B 1-1-E:1,true,false,0,false,false,true"
-18:16:04 "** scp_spwn_fr Unit created : Pilot_EP1_DZ,8491.57,6782.43"
-18:16:04 "** scp_spwn_fr initializing"
-18:16:04 "** scp_behavoir initializing"
-18:16:04 "** scp_behavoir initialized"
-18:16:04 "** scp_task_patrol initializing"
-18:16:04 "** scp_task_patrol initialized"
-18:16:04 "** scp_publishunit B 1-1-F:1,true,false,0,false,false,true"
-18:16:04 "** scp_spwn_fr Unit created : USMC_Soldier_Medic,2714.52,5437.58"
-18:16:04 "** scp_spwn_fr initializing"
-18:16:04 "** scp_behavoir initializing"
-18:16:04 "** scp_behavoir initialized"
-18:16:04 "** scp_task_patrol initializing"
-18:16:04 "** scp_task_patrol initialized"
-18:16:04 "** scp_publishunit B 1-1-G:1,true,false,0,false,false,true"
-18:16:04 "** scp_spwn_fr Unit created : Pilot_EP1_DZ,10484.7,8825.91"
-18:16:04 "** scp_spwn_fr initializing"
-18:16:04 "** scp_behavoir initializing"
-18:16:04 "** scp_behavoir initialized"
-18:16:04 "** scp_task_patrol initializing"
-18:16:04 "** scp_task_patrol initialized"
-18:16:04 "** scp_publishunit B 1-1-H:1,true,false,0,false,false,true"
-18:16:04 "** scp_spwn_fr Unit created : SurvivorWcombat_DZ,6630.02,4802.71"
-18:16:05 Cannot create non-ai vehicle 350z_red,
-18:16:05 "PUBLISH: Attempt <NULL-object>"
-18:16:05 "HIVE: WRITE: "CHILD:308:11:350z_red:0:0:[12,[0,0,0]]:[]:[]:0.103265:00012:""
-18:16:06 Cannot create non-ai vehicle Civcarre,
-18:16:06 "PUBLISH: Attempt <NULL-object>"
-18:16:06 "HIVE: WRITE: "CHILD:308:11:Civcarre:0:0:[35,[0,0,0]]:[]:[]:0.497027:00035:""
-18:16:07 Warning Message: No entry 'bin\config.bin/CfgMagazines.RH_8Rnd_9x19_Mk'.
-18:16:07 Warning Message: No entry '.picture'.
-18:16:07 Warning Message: '/' is not a value
-18:16:07 Warning Message: No entry '.scope'.
-18:16:07 Warning Message: '/' is not a value
-18:16:07 Warning Message: Error: creating magazine RH_8Rnd_9x19_Mk with scope=private
-18:16:07 Warning Message: No entry '.displayName'.
-18:16:07 Warning Message: '/' is not a value
-18:16:07 Warning Message: No entry '.displayNameShort'.
-18:16:07 Warning Message: '/' is not a value
-18:16:07 Warning Message: No entry '.nameSound'.
-18:16:07 Warning Message: '/' is not a value
-18:16:07 Warning Message: No entry '.Library'.
-18:16:07 Warning Message: No entry '.libTextDesc'.
-18:16:07 Warning Message: '/' is not a value
-18:16:07 Warning Message: No entry '.type'.
-18:16:07 Warning Message: '/' is not a value
-18:16:07 Warning Message: No entry '.count'.
-18:16:07 Warning Message: '/' is not a value
-18:16:07 Warning Message: No entry '.maxLeadSpeed'.
-18:16:07 Warning Message: '/' is not a value
-18:16:07 Warning Message: No entry '.initSpeed'.
-18:16:07 Warning Message: '/' is not a value
-18:16:07 Warning Message: No entry '.reloadAction'.
-18:16:07 Warning Message: '/' is not a value
-18:16:07 Warning Message: No entry '.modelSpecial'.
-18:16:07 Warning Message: '/' is not a value
-18:16:07 Warning Message: No entry '.ammo'.
-18:16:07 Warning Message: '/' is not a value
-18:16:07 Warning Message: No entry 'bin\config.bin/CfgMagazines.vil_bhp_mag'.
-18:16:07 Warning Message: No entry '.picture'.
-18:16:07 Warning Message: '/' is not a value
-18:16:07 Warning Message: No entry '.scope'.
-18:16:07 Warning Message: '/' is not a value
-18:16:07 Warning Message: Error: creating magazine vil_bhp_mag with scope=private
-18:16:07 Warning Message: No entry '.displayName'.
-18:16:07 Warning Message: '/' is not a value
-18:16:07 Warning Message: No entry '.displayNameShort'.
-18:16:07 Warning Message: '/' is not a value
-18:16:07 Warning Message: No entry '.nameSound'.
-18:16:07 Warning Message: '/' is not a value
-18:16:07 Warning Message: No entry '.Library'.
-18:16:07 Warning Message: No entry '.libTextDesc'.
-18:16:07 Warning Message: '/' is not a value
-18:16:07 Warning Message: No entry '.type'.
-18:16:07 Warning Message: '/' is not a value
-18:16:07 Warning Message: No entry '.count'.
-18:16:07 Warning Message: '/' is not a value
-18:16:07 Warning Message: No entry '.maxLeadSpeed'.
-18:16:07 Warning Message: '/' is not a value
-18:16:07 Warning Message: No entry '.initSpeed'.
-18:16:07 Warning Message: '/' is not a value
-18:16:07 Warning Message: No entry '.reloadAction'.
-18:16:07 Warning Message: '/' is not a value
-18:16:07 Warning Message: No entry '.modelSpecial'.
-18:16:07 Warning Message: '/' is not a value
-18:16:07 Warning Message: No entry '.ammo'.
-18:16:07 Warning Message: '/' is not a value
-18:16:07 "PUBLISH: Attempt 35164100# 1066404: rhib.p3d"
-18:16:07 "HIVE: WRITE: "CHILD:308:11:RHIB:0:0:[128,[12327.5,3442.84,1.50317]]:[]:[["motor",0.506634]]:0.946464:1232753442815128:""
-18:16:07 "PUBLISH: Attempt 33fa0100# 1066407: v3s_open.p3d"
-18:16:07 "HIVE: WRITE: "CHILD:308:11:V3S_Open_TK_CIV_EP1:0:0:[132,[11913.9,8968.89,0.057785]]:[]:[["wheel_1_1_steering",0.262906],["wheel_1_2_steering",0.993038],["wheel_1_3_steering",0.083829],["wheel_2_1_steering",0.823401],["wheel_2_2_steering",0.312532],["wheel_2_3_steering",0.812159],["wheel_1_4_steering",0.152932],["wheel_2_4_steering",0.664322],["motor",0.418501],["sklo predni P",0.197611],["sklo predni L",0.738319],["karoserie",0.72584],["palivo",0.0420225],["glass1",0.920526],["glass2",0.688647],["glass3",0.0596796],["glass4",0.938335]]:0.977006:119139896891132:""
-18:16:07 "PUBLISH: Attempt 34490100# 1066409: s1203.p3d"
-18:16:07 "HIVE: WRITE: "CHILD:308:11:S1203_TK_CIV_EP1:0:0:[56,[6376.06,14162.2,0.00326538]]:[]:[["wheel_1_1_steering",0.832593],["wheel_1_2_steering",0.0292067],["wheel_2_1_steering",0.547068],["wheel_2_2_steering",0.0359307],["motor",0.446889],["sklo predni P",0.542386],["sklo predni L",0.123254],["karoserie",0.14968],["palivo",0.0681516],["wheel_1_4_steering",0.157835],["wheel_2_4_steering",0.240913],["wheel_1_3_steering",0.790994],["wheel_2_3_steering",0.921725],["glass1",0.654031],["glass2",0.67998],["glass3",0.784596],["glass4",0.759952]]:0.397026:63761141622056:""
-18:16:08 "infiSTAR.de - Player-Log: Mateuus(76561198065694695) - 0h 00min | ******ADMIN******"
-18:16:29 "infiSTAR.de PlayerConnected: ["76561198065694695","Mateuus"]"
-18:16:29 "infiSTAR.de PlayerConnected: ["","__SERVER__"]"
-18:16:30 "EPOCH EVENTS INIT"
-18:16:30 "PLANE: Starting spawn logic for animated AN2 Carepackage drops - written by Grafzahl, modded by fofinho [CD:1]"
-18:16:30 "PLANE: 75% chance to start a AN2 Cargo Plane Carepackagedrop at 2849.41 with 5 drop points"
-18:16:30 "CRASHSPAWNER: 100% chance to start a crashing AN2 Cargo Plane with loot table 'MilitarySpecial'"
-18:16:30 "CRASHSPAWNER: AN2 Cargo Plane started flying from [5000,2] to [4937.44,12196.5] NOW!(TIME:0||LT:MilitarySpecial)"
-18:16:30 "CRASHSPAWNER: 100% chance to start a crashing C-130J with loot table 'MilitarySpecial'"
-18:16:30 "CRASHSPAWNER: C-130J started flying from [12304,1175.07] to [4954.23,9606] NOW!(TIME:1||LT:MilitarySpecial)"
-18:16:30 "DEBUG: Too many at [3106.43,8049.5]"
-18:16:32 "DEBUG: Too many at [4565.38,2523.56]"
-18:16:34 "** scp_spwn_fr initialized"
-18:16:34 "** scp_spwn_fr initialized"
-18:16:34 "** scp_spwn_fr initialized"
-18:16:34 "** scp_spwn_fr initialized"
-18:16:34 "** scp_spwn_fr initialized"
-18:16:35 "HIVE: WRITE: "CHILD:388:00012:""
-18:16:35 "CUSTOM: Selected "61""
-18:16:35 "PUBLISH: Created 350z_red with ID "00012""
-18:16:35 "HIVE: WRITE: "CHILD:388:119139896891132:""
-18:16:35 "CUSTOM: Selected "383""
-18:16:35 "HIVE: WRITE: "CHILD:388:63761141622056:""
-18:16:35 "CUSTOM: Selected "384""
-18:16:35 "HIVE: WRITE: "CHILD:388:00035:""
-18:16:35 "CUSTOM: Selected "381""
-18:16:35 "PUBLISH: Created Civcarre with ID "00035""
-18:16:35 "HIVE: WRITE: "CHILD:388:1232753442815128:""
-18:16:35 "CUSTOM: Selected "382""
-18:16:35 "PUBLISH: Created RHIB with ID "1232753442815128""
-18:16:35 "DEBUG VEIN: on road [3688.94,6079.56]"
-18:16:36 "TIME SYNC: Local Time set to [2013,8,3,13,16]"
-18:16:37 "PUBLISH: Created V3S_Open_TK_CIV_EP1 with ID "119139896891132""
-18:16:37 "PUBLISH: Created S1203_TK_CIV_EP1 with ID "63761141622056""
-18:16:40 "WAI: Custom Config File Loaded"
-18:16:40 "WAI: AI Config File Loaded"
-18:16:43 "WAI: AI Monitor Started"
-18:16:43 "WAI: Initialising missions"
-18:16:51 Warning: looped for animation: ca\anims\characters\data\anim\sdr\mov\erc\stp\non\non\amovpercmstpsnonwnondnon_amovpercmstpsraswpstdnon_end.rtm differs (looped now 0)! MoveName: amovpercmstpsnonwnondnon_amovpercmstpsraswpstdnon_end
-18:16:51 "infiSTAR.de fnc_AdminFirstReq: [1234,B 1-1-K:1 (Mateuus) REMOTE,"76561198065694695"]"
-18:16:51 "infiSTAR.de fnc_AdminReqProceed: [1234,B 1-1-K:1 (Mateuus) REMOTE,"76561198065694695"]"
-18:16:51 "infiSTAR.de ******ADMIN-LOGIN******: Mateuus(76561198065694695)"
-18:16:52 WMOD v1.1.0: loading...
-18:16:52 "** scp_updateclient initializing"
-18:16:52 "** scp_publishunit B 1-1-D:1,true,false,0,false,false,true"
-18:16:52 "** scp_publishunit B 1-1-E:1,true,false,0,false,false,true"
-18:16:52 "** scp_publishunit B 1-1-F:1,true,false,0,false,false,true"
-18:16:52 "** scp_publishunit B 1-1-G:1,true,false,0,false,false,true"
-18:16:52 "** scp_publishunit B 1-1-H:1,true,false,0,false,false,true"
-18:16:52 "** scp_updateclient initialized"
-18:16:54 "REPACK VERSION: Overpoch - build 133"
-18:17:00 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
-18:17:06 Warnings in z\addons\dayz_communityassets\models\can_unlabeled_clean_full.p3d:shadow(1000)
-18:17:06 "[DZAI] Verified 205 unique classnames in 0.251999 seconds."
-18:17:06 "Chernarus spawn areas loaded."
-18:17:06 "Chernarus static spawn configuration loaded."
-18:17:13 Warning Message: No entry 'bin\config.bin/CfgWeapons.'.
-18:17:13 Warning Message: No entry '.scope'.
-18:17:13 Warning Message: '/' is not a value
-18:17:13 Warning Message: Error: creating weapon  with scope=private
-18:17:13 Warning Message: No entry '.displayName'.
-18:17:13 Warning Message: '/' is not a value
-18:17:13 Warning Message: No entry '.nameSound'.
-18:17:13 Warning Message: '/' is not a value
-18:17:13 Warning Message: No entry '.type'.
-18:17:13 Warning Message: '/' is not a value
-18:17:13 Warning Message: No entry '.picture'.
-18:17:13 Warning Message: '/' is not a value
-18:17:13 Warning Message: No entry '.Library'.
-18:17:13 Warning Message: No entry '.libTextDesc'.
-18:17:13 Warning Message: '/' is not a value
-18:17:13 Warning Message: No entry '.model'.
-18:17:13 Warning Message: '/' is not a value
-18:17:13 Warning Message: No entry '.simulation'.
-18:17:13 Warning Message: '/' is not a value
-18:17:13 Warning Message: No entry '.fireLightDuration'.
-18:17:13 Warning Message: '/' is not a value
-18:17:13 Warning Message: No entry '.fireLightIntensity'.
-18:17:13 Warning Message: '/' is not a value
-18:17:13 Warning Message: No entry '.weaponLockDelay'.
-18:17:13 Warning Message: '/' is not a value
-18:17:13 Warning Message: No entry '.weaponLockSystem'.
-18:17:13 Warning Message: '/' is not a value
-18:17:13 Warning Message: No entry '.cmImmunity'.
-18:17:13 Warning Message: '/' is not a value
-18:17:13 Warning Message: No entry '.lockingTargetSound'.
-18:17:13 Warning Message: Size: '/' not an array
-18:17:13 Warning Message: No entry '.lockedTargetSound'.
-18:17:13 Warning Message: Size: '/' not an array
-18:17:13 Warning Message: No entry '.muzzles'.
-18:17:13 Warning Message: Size: '/' not an array
-18:17:16 "DZAI Warning: 350z_pink is an invalid vehicle classname!"
-18:17:16 No owner
-18:17:16 No owner
-18:17:30 [DZMS]: Starting DayZ Mission System.
-18:17:30 [DZMS]: DZAI Found! Using DZAI's Relations!
-18:17:30 [DZMS]: WickedAI Found! Using WickedAI's Relations!
-18:17:30 [DZMS]: Multiple Relations Detected! Unwanted AI Behaviour May Occur!
-18:17:30 [DZMS]: If Issues Arise, Decide on a Single AI System! (DayZAI, SargeAI, or WickedAI)
-18:17:30 [DZMS]: Currently Running Version: RC1.1
-18:17:30 [DZMS]: Outdated Configuration Detected! Please Update DZMS!
-18:17:30 [DZMS]: Old Versions are not supported by the Mod Author!
-18:17:30 [DZMS]: Mission and Extended Configuration Loaded!
-18:17:30 [DZMS]: chernarus Detected. Map Specific Settings Adjusted!
-18:17:30 [DZMS]: DayZ Epoch Detected! Some Scripts Adjusted!
-18:17:30 [DZMS]: Loading ExecVM Functions.
-18:17:30 [DZMS]: Loading Compiled Functions.
-18:17:30 [DZMSHotSpots]: Starting DayZ Mission System.
-18:17:30 [DZMSHotSpots]: DZAI Found! Using DZAI's Relations!
-18:17:30 [DZMSHotSpots]: WickedAI Found! Using WickedAI's Relations!
-18:17:30 [DZMSHotSpots]: Multiple Relations Detected! Unwanted AI Behaviour May Occur!
-18:17:30 [DZMSHotSpots]: If Issues Arise, Decide on a Single AI System! (DayZAI, SargeAI, or WickedAI)
-18:17:30 [DZMS]: Loading All Other Functions.
-18:17:30 [DZMS]: Mission Functions Script Loaded!
-18:17:30 [DZMSHotSpots]: Currently Running Version: 1.1FIN
-18:17:30 [DZMSHotSpots]: Mission and Extended Configuration Loaded!
-18:17:30 [DZMSHotSpots]: chernarus Detected. Map Specific Settings Adjusted!
-18:17:30 [DZMSHotSpots]: DayZ Epoch Detected! Some Scripts Adjusted!
-18:17:30 [DZMSHotSpots]: Loading ExecVM Functions.
-18:17:30 [DZMSHotSpots]: Loading Compiled Functions.
-18:17:30 [DZMSHotSpots]: Loading All Other Functions.
-18:17:30 [DZMSHotSpots]: Mission Functions Script Loaded!
-18:17:30 [DZMS]: Major Mission Clock Starting!
-18:17:30 [DZMS]: Minor Mission Clock Starting!
-18:17:30 [DZMS]: Mission Marker Loop for JIPs Starting!
-18:17:30 [DZMSHotSpots]: Major Mission Clock Starting!
-18:17:30 [DZMSHotSpots]: Minor Mission Clock Starting!
-18:17:31 No owner
-18:17:31 No owner
-18:17:31 No owner
-18:17:31 No owner
-18:17:45 [DZMSHotSpots]: Running Major Mission HSMoney.
-18:17:45 [DZMSHotSpots]: Major Mission HSMoney started at [9114.9,3847.2,0]
-18:17:45 No owner
-18:17:45 No owner
-18:17:45 No owner
-18:17:45 [DZMSHotSpots]: (DZMSHotSpotsUnitsMajor) 3 AI Spawned, 3 units in mission.
-18:17:45 No owner
-18:17:45 No owner
-18:17:45 No owner
-18:17:46 [DZMSHotSpots]: (DZMSHotSpotsUnitsMajor) 3 AI Spawned, 6 units in mission.
-18:17:51 UH1Y_DZ: ObsTurret - unknown animation source ObsTurret
-18:17:51 UH1Y_DZ: ObsGun - unknown animation source ObsGun
-18:17:51 No owner
-18:17:51 [DZMSHotSpots]: (DZMSHotSpotsUnitsMajor) Waiting for 6/6 Units or Less to be Alive and a Player to be Near the Objective.
-18:18:16 No owner
-18:18:36 No owner
-18:18:36 No owner
-18:19:16 No owner
-18:19:16 No owner
-18:19:16 No owner
-18:19:16 "infiSTAR.de PlayerConnected: ["76561198123768694","Freak"]"
-18:19:16 "infiSTAR.de - Player-Log: Freak(76561198123768694) - 0h 02min | ******ADMIN******"
-18:19:16 Server: Object 5:17 not found (message 70)
-18:19:16 Server: Object 5:18 not found (message 70)
-18:19:19 Server: Object 5:25 not found (message 94)
-18:19:36 "infiSTAR.de fnc_AdminFirstReq: [1234,B 1-1-L:1 (Freak) REMOTE,"76561198123768694"]"
-18:19:36 "infiSTAR.de fnc_AdminReqProceed: [1234,B 1-1-L:1 (Freak) REMOTE,"76561198123768694"]"
-18:19:36 "infiSTAR.de ******ADMIN-LOGIN******: Freak(76561198123768694)"
-18:19:36 "** scp_updateclient initializing"
-18:19:36 "** scp_publishunit B 1-1-D:1,true,false,0,false,false,true"
-18:19:36 "** scp_publishunit B 1-1-E:1,true,false,0,false,false,true"
-18:19:36 "** scp_publishunit B 1-1-F:1,true,false,0,false,false,true"
-18:19:36 "** scp_publishunit B 1-1-G:1,true,false,0,false,false,true"
-18:19:36 "** scp_publishunit B 1-1-H:1,true,false,0,false,false,true"
-18:19:36 "** scp_updateclient initialized"
-18:19:36 No owner
-18:19:36 No owner
-18:19:36 No owner
-18:19:36 No owner
-18:19:50 "CLEANUP: INITIALIZING CLEANUP SCRIPT"
-18:19:56 No owner
-18:19:56 No owner
-18:20:01 [DZMSHotSpots]: Running Minor Mission RBFort.
-18:20:01 [DZMSHotSpots]: Minor Mission RBFort started at [10978.9,5877.9,0]
-18:20:01 No owner
-18:20:01 No owner
-18:20:01 No owner
-18:20:02 [DZMSHotSpots]: (DZMSHotSpotsUnitsMinor) 4 AI Spawned, 4 units in mission.
-18:20:07 [DZMSHotSpots]: (DZMSHotSpotsUnitsMinor) Waiting for 4/4 Units or Less to be Alive and a Player to be Near the Objective.
-18:21:22 "** scp_killed initializing"
-18:21:22 "<*> Survivor B 1-1-F:1 killed by O 1-2-D:5"
-18:21:22 "** scp_publishunit B 1-1-F:1,true,false,0,false,false,false"
 18:21:25 "** scp_spwn_fr initializing"
 18:21:25 "<*> Replacing dead survivor #2 with B 1-1-B:1"
 18:21:25 "** scp_behavoir initializing"
@@ -32960,3 +32648,193 @@ Updating base class ReammoBox->Small_items, by corepatch\corepatch_additionalobj
 Updating base class CA_Magazine->4000Rnd_762x51_M134, by corepatch\corepatch_ccp_71142_cit_13602_25047\config.cpp/CfgMagazines/2000Rnd_762x51_M134/
 17:15:45 Warning Message: No challenge value was received from the master server.
 17:15:45 GameSpy QR2 error: 5, No challenge value was received from the master server.
+
+
+=====================================================================
+== C:\Program Files (x86)\Steam\steamapps\common\Arma 2 Operation Arrowhead\Expansion\beta\ArmA2OAServer.exe
+== "Expansion\beta\arma2oaserver.exe"  -port=2302 "-config=instance_11_Chernarus\config.cfg" "-cfg=instance_11_Chernarus\basic.cfg" "-profiles=instance_11_Chernarus" -name=instance_11_Chernarus "-mod=@DayZ_Epoch;@DayZ_Epoch_Server;"
+=====================================================================
+Exe timestamp: 2016/05/31 01:00:13
+Current time:  2016/06/04 18:11:39
+
+Version 1.63.116523
+Item STR_EQUIP_NAME_41 listed twice
+Item STR_EQUIP_DESC_41 listed twice
+Updating base class ->NonStrategic, by ca\config.bin/CfgVehicles/HouseBase/
+Updating base class ->HouseBase, by ca\config.bin/CfgVehicles/Ruins/
+Updating base class ->DestructionEffects, by ca\config.bin/CfgVehicles/House/DestructionEffects/
+Updating base class ->FlagCarrierCore, by ca\ca_pmc\config.bin/CfgVehicles/FlagCarrier/
+Updating base class ->VehicleMagazine, by ca\weapons\config.bin/CfgMagazines/14Rnd_FFAR/
+Updating base class ->PistolCore, by ca\weapons\config.bin/cfgWeapons/Pistol/
+Updating base class ->LauncherCore, by ca\weapons\config.bin/cfgWeapons/RocketPods/
+Updating base class ->RocketPods, by ca\weapons\config.bin/cfgWeapons/FFARLauncher/
+Updating base class ->Default, by ca\weapons\config.bin/cfgWeapons/ItemCore/
+Updating base class ->Citizen, by ca\characters2\config.bin/CfgVehicles/Citizen1/
+Updating base class ->SkodaBase, by ca\wheeled\config.bin/CfgVehicles/car_sedan/
+Updating base class ->UH60_Base, by ca\air\config.bin/CfgVehicles/MH60S/
+Updating base class ->House, by ca\misc3\config.bin/CfgVehicles/Land_Fire/
+Updating base class ->House, by ca\misc3\config.bin/CfgVehicles/Land_A_tent/
+Updating base class ->Camp_base, by ca\misc3\config.bin/CfgVehicles/ACamp/
+Updating base class ->Car, by ca\wheeled2\lada\config.bin/CfgVehicles/Lada_base/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_Lamp_Small_EP1/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_Lamp_Street1_EP1/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_Lamp_Street2_EP1/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_Lampa_Ind_EP1/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_PowLines_Conc2L_EP1/
+Updating base class StreetLamp_BaseMediumOrange->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_sidl/
+Updating base class StreetLamp_BaseMediumOrange->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_sidl_2/
+Updating base class StreetLamp_BaseMediumOrange->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_sidl_3/
+Updating base class StreetLamp_BaseWeakYellow->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_ind/
+Updating base class StreetLamp_BaseWeakYellow->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_ind_zebr/
+Updating base class RscStandardDisplay->, by z\addons\dayz_code\config.bin/RscDisplayStart/
+Updating base class RscShortcutButton->RscShortcutButtonMain, by z\addons\dayz_code\config.bin/RscDisplayMain/controls/CA_Exit/
+Updating base class RscText->, by z\addons\dayz_code\config.bin/RscTitles/Default/
+Updating base class zZombie_Base->zZombie_new_Base, by z\addons\dayz_code\config.bin/CfgVehicles/z_villager1/
+Updating base class zZombie_Base->zZombie_new_Base, by z\addons\dayz_code\config.bin/CfgVehicles/z_worker1/
+Updating base class Soldier_Crew_PMC->Soldier_Bodyguard_M4_PMC, by z\addons\dayz_code\config.bin/CfgVehicles/SurvivorW2_DZ/
+Updating base class HighCommand->Logic, by z\addons\dayz_code\config.bin/CfgVehicles/HighCommandSubordinate/
+Updating base class ->ViewOptics, by z\addons\dayz_code\config.bin/CfgVehicles/Mi17_base/Turrets/MainTurret/ViewOptics/
+Updating base class HouseBase->, by z\addons\dayz_code\config.bin/CfgVehicles/House/
+Updating base class NonStrategic->BuiltItems, by z\addons\dayz_code\config.bin/CfgVehicles/Fort_RazorWire/
+Updating base class MeleeHatchet->MeleeWeapon, by z\addons\dayz_code\config.bin/CfgWeapons/MeleeCrowbar/
+Updating base class VehicleMagazine->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/29Rnd_30mm_AGS30/
+Updating base class VehicleMagazine->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/48Rnd_40mm_MK19/
+Updating base class 4000Rnd_762x51_M134->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/2000Rnd_762x51_M134/
+Updating base class VehicleMagazine->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/100Rnd_127x99_M2/
+Updating base class VehicleMagazine->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/50Rnd_127x107_DSHKM/
+Updating base class Hatchet_Swing->Melee_Swing, by z\addons\dayz_code\config.bin/CfgMagazines/crowbar_swing/
+Updating base class CA_Magazine->Melee_Swing, by z\addons\dayz_code\config.bin/CfgMagazines/Hatchet_Swing/
+Updating base class Land_HouseV_1I2->House, by zero_buildings\config.cpp/CfgVehicles/Land_HouseV_1L2/
+Updating base class Land_HouseV_1I2->House, by zero_buildings\config.cpp/CfgVehicles/Land_HouseV_3I3/
+Updating base class ->Plane, by ca\air2\mv22\config.bin/CfgVehicles/MV22/
+Updating base class ViewOptics->, by ca\air2\uh1y\config.bin/CfgVehicles/UH1_Base/Turrets/MainTurret/ViewOptics/
+Updating base class ->HouseBase, by ca\misc_e\config.bin/CfgVehicles/House/
+Updating base class ->Land_CamoNet_EAST, by ca\misc_e\config.bin/CfgVehicles/Land_CamoNet_EAST_EP1/
+Updating base class ->Land_CamoNetB_EAST, by ca\misc_e\config.bin/CfgVehicles/Land_CamoNetB_EAST_EP1/
+Updating base class ->Sign_1L_Noentry, by ca\misc_e\config.bin/CfgVehicles/Sign_1L_Noentry_EP1/
+Updating base class ->Sign_circle, by ca\misc_e\config.bin/CfgVehicles/Helper_Base_EP1/
+Updating base class ->Rifle, by ca\weapons_baf\config.bin/cfgWeapons/BAF_AS50_scoped/
+Updating base class ->Rifle, by ca\weapons_e\config.bin/cfgWeapons/M60A4_EP1/
+Updating base class ->M249, by ca\weapons_e\config.bin/cfgWeapons/M249_EP1/
+Updating base class ->M249, by ca\weapons_e\config.bin/cfgWeapons/M249_m145_EP1/
+Updating base class ->m107, by ca\weapons_e\m107\config.bin/CfgWeapons/m107_TWS_EP1/
+Updating base class ->M240, by ca\weapons_e\m240\config.bin/CfgWeapons/m240_scoped_EP1/
+Updating base class ->V3S_Base, by ca\wheeled_e\v3s\config.bin/CfgVehicles/V3S_Base_EP1/
+Updating base class ->V3S_Base_EP1, by ca\wheeled_e\v3s\config.bin/CfgVehicles/V3S_Refuel_TK_GUE_EP1/
+Updating base class House->DZE_OpenHouse, by warehouse\config.bin/CfgVehicles/Land_Ind_Pec_03/
+Updating base class ->C130J_base, by ca\air_e\config.bin/CfgVehicles/C130J_US_EP1/
+Updating base class ->Helicopter, by ca\air_e\ah6j\config.bin/CfgVehicles/AH6_Base_EP1/
+Updating base class ->Plane, by ca\air_e\an2\config.bin/CfgVehicles/An2_Base_EP1/
+Updating base class ->CH47_base_EP1, by ca\air_e\ch47\config.bin/CfgVehicles/CH_47F_EP1/
+Updating base class ViewOptics->, by ca\air_e\uh1h\config.bin/CfgVehicles/UH1H_base/Turrets/MainTurret/ViewOptics/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_Crew_PMC/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_TL_PMC/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_Bodyguard_M4_PMC/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_Bodyguard_AA12_PMC/
+Updating base class ->BAF_Soldier_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_W/
+Updating base class ->BAF_Soldier_L_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_L_W/
+Updating base class ->BAF_Soldier_Officer_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_Officer_W/
+Updating base class ->BAF_Soldier_SniperH_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_SniperH_W/
+Updating base class ->M113Ambul_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M113Ambul_UN_EP1/
+Updating base class ->M113_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M113_UN_EP1/
+Updating base class ->M113Ambul_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M113Ambul_TK_EP1/
+Updating base class ->M113_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M113_TK_EP1/
+Updating base class ->Helicopter, by ca\air_d_baf\config.bin/CfgVehicles/BAF_Merlin_HC3_D/
+Updating base class ReammoBox->Small_items, by corepatch\corepatch_additionalobjects\config.cpp/CfgVehicles/CardboardBox/
+Updating base class CA_Magazine->4000Rnd_762x51_M134, by corepatch\corepatch_ccp_71142_cit_13602_25047\config.cpp/CfgMagazines/2000Rnd_762x51_M134/
+
+
+=====================================================================
+== C:\Program Files (x86)\Steam\steamapps\common\Arma 2 Operation Arrowhead\Expansion\beta\ArmA2OAServer.exe
+== "Expansion\beta\arma2oaserver.exe"  -port=2302 "-config=instance_11_Chernarus\config.cfg" "-cfg=instance_11_Chernarus\basic.cfg" "-profiles=instance_11_Chernarus" -name=instance_11_Chernarus "-mod=@DayZ_Epoch;@DayZ_Epoch_Server;"
+=====================================================================
+Exe timestamp: 2016/05/31 01:00:13
+Current time:  2016/06/04 18:13:23
+
+Version 1.63.116523
+Item STR_EQUIP_NAME_41 listed twice
+Item STR_EQUIP_DESC_41 listed twice
+Updating base class ->NonStrategic, by ca\config.bin/CfgVehicles/HouseBase/
+Updating base class ->HouseBase, by ca\config.bin/CfgVehicles/Ruins/
+Updating base class ->DestructionEffects, by ca\config.bin/CfgVehicles/House/DestructionEffects/
+Updating base class ->FlagCarrierCore, by ca\ca_pmc\config.bin/CfgVehicles/FlagCarrier/
+Updating base class ->VehicleMagazine, by ca\weapons\config.bin/CfgMagazines/14Rnd_FFAR/
+Updating base class ->PistolCore, by ca\weapons\config.bin/cfgWeapons/Pistol/
+Updating base class ->LauncherCore, by ca\weapons\config.bin/cfgWeapons/RocketPods/
+Updating base class ->RocketPods, by ca\weapons\config.bin/cfgWeapons/FFARLauncher/
+Updating base class ->Default, by ca\weapons\config.bin/cfgWeapons/ItemCore/
+Updating base class ->Citizen, by ca\characters2\config.bin/CfgVehicles/Citizen1/
+Updating base class ->SkodaBase, by ca\wheeled\config.bin/CfgVehicles/car_sedan/
+Updating base class ->UH60_Base, by ca\air\config.bin/CfgVehicles/MH60S/
+Updating base class ->House, by ca\misc3\config.bin/CfgVehicles/Land_Fire/
+Updating base class ->House, by ca\misc3\config.bin/CfgVehicles/Land_A_tent/
+Updating base class ->Camp_base, by ca\misc3\config.bin/CfgVehicles/ACamp/
+Updating base class ->Car, by ca\wheeled2\lada\config.bin/CfgVehicles/Lada_base/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_Lamp_Small_EP1/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_Lamp_Street1_EP1/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_Lamp_Street2_EP1/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_Lampa_Ind_EP1/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_PowLines_Conc2L_EP1/
+Updating base class StreetLamp_BaseMediumOrange->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_sidl/
+Updating base class StreetLamp_BaseMediumOrange->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_sidl_2/
+Updating base class StreetLamp_BaseMediumOrange->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_sidl_3/
+Updating base class StreetLamp_BaseWeakYellow->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_ind/
+Updating base class StreetLamp_BaseWeakYellow->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_ind_zebr/
+Updating base class RscStandardDisplay->, by z\addons\dayz_code\config.bin/RscDisplayStart/
+Updating base class RscShortcutButton->RscShortcutButtonMain, by z\addons\dayz_code\config.bin/RscDisplayMain/controls/CA_Exit/
+Updating base class RscText->, by z\addons\dayz_code\config.bin/RscTitles/Default/
+Updating base class zZombie_Base->zZombie_new_Base, by z\addons\dayz_code\config.bin/CfgVehicles/z_villager1/
+Updating base class zZombie_Base->zZombie_new_Base, by z\addons\dayz_code\config.bin/CfgVehicles/z_worker1/
+Updating base class Soldier_Crew_PMC->Soldier_Bodyguard_M4_PMC, by z\addons\dayz_code\config.bin/CfgVehicles/SurvivorW2_DZ/
+Updating base class HighCommand->Logic, by z\addons\dayz_code\config.bin/CfgVehicles/HighCommandSubordinate/
+Updating base class ->ViewOptics, by z\addons\dayz_code\config.bin/CfgVehicles/Mi17_base/Turrets/MainTurret/ViewOptics/
+Updating base class HouseBase->, by z\addons\dayz_code\config.bin/CfgVehicles/House/
+Updating base class NonStrategic->BuiltItems, by z\addons\dayz_code\config.bin/CfgVehicles/Fort_RazorWire/
+Updating base class MeleeHatchet->MeleeWeapon, by z\addons\dayz_code\config.bin/CfgWeapons/MeleeCrowbar/
+Updating base class VehicleMagazine->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/29Rnd_30mm_AGS30/
+Updating base class VehicleMagazine->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/48Rnd_40mm_MK19/
+Updating base class 4000Rnd_762x51_M134->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/2000Rnd_762x51_M134/
+Updating base class VehicleMagazine->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/100Rnd_127x99_M2/
+Updating base class VehicleMagazine->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/50Rnd_127x107_DSHKM/
+Updating base class Hatchet_Swing->Melee_Swing, by z\addons\dayz_code\config.bin/CfgMagazines/crowbar_swing/
+Updating base class CA_Magazine->Melee_Swing, by z\addons\dayz_code\config.bin/CfgMagazines/Hatchet_Swing/
+Updating base class Land_HouseV_1I2->House, by zero_buildings\config.cpp/CfgVehicles/Land_HouseV_1L2/
+Updating base class Land_HouseV_1I2->House, by zero_buildings\config.cpp/CfgVehicles/Land_HouseV_3I3/
+Updating base class ->Plane, by ca\air2\mv22\config.bin/CfgVehicles/MV22/
+Updating base class ViewOptics->, by ca\air2\uh1y\config.bin/CfgVehicles/UH1_Base/Turrets/MainTurret/ViewOptics/
+Updating base class ->HouseBase, by ca\misc_e\config.bin/CfgVehicles/House/
+Updating base class ->Land_CamoNet_EAST, by ca\misc_e\config.bin/CfgVehicles/Land_CamoNet_EAST_EP1/
+Updating base class ->Land_CamoNetB_EAST, by ca\misc_e\config.bin/CfgVehicles/Land_CamoNetB_EAST_EP1/
+Updating base class ->Sign_1L_Noentry, by ca\misc_e\config.bin/CfgVehicles/Sign_1L_Noentry_EP1/
+Updating base class ->Sign_circle, by ca\misc_e\config.bin/CfgVehicles/Helper_Base_EP1/
+Updating base class ->Rifle, by ca\weapons_baf\config.bin/cfgWeapons/BAF_AS50_scoped/
+Updating base class ->Rifle, by ca\weapons_e\config.bin/cfgWeapons/M60A4_EP1/
+Updating base class ->M249, by ca\weapons_e\config.bin/cfgWeapons/M249_EP1/
+Updating base class ->M249, by ca\weapons_e\config.bin/cfgWeapons/M249_m145_EP1/
+Updating base class ->m107, by ca\weapons_e\m107\config.bin/CfgWeapons/m107_TWS_EP1/
+Updating base class ->M240, by ca\weapons_e\m240\config.bin/CfgWeapons/m240_scoped_EP1/
+Updating base class ->V3S_Base, by ca\wheeled_e\v3s\config.bin/CfgVehicles/V3S_Base_EP1/
+Updating base class ->V3S_Base_EP1, by ca\wheeled_e\v3s\config.bin/CfgVehicles/V3S_Refuel_TK_GUE_EP1/
+Updating base class House->DZE_OpenHouse, by warehouse\config.bin/CfgVehicles/Land_Ind_Pec_03/
+Updating base class ->C130J_base, by ca\air_e\config.bin/CfgVehicles/C130J_US_EP1/
+Updating base class ->Helicopter, by ca\air_e\ah6j\config.bin/CfgVehicles/AH6_Base_EP1/
+Updating base class ->Plane, by ca\air_e\an2\config.bin/CfgVehicles/An2_Base_EP1/
+Updating base class ->CH47_base_EP1, by ca\air_e\ch47\config.bin/CfgVehicles/CH_47F_EP1/
+Updating base class ViewOptics->, by ca\air_e\uh1h\config.bin/CfgVehicles/UH1H_base/Turrets/MainTurret/ViewOptics/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_Crew_PMC/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_TL_PMC/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_Bodyguard_M4_PMC/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_Bodyguard_AA12_PMC/
+Updating base class ->BAF_Soldier_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_W/
+Updating base class ->BAF_Soldier_L_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_L_W/
+Updating base class ->BAF_Soldier_Officer_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_Officer_W/
+Updating base class ->BAF_Soldier_SniperH_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_SniperH_W/
+Updating base class ->M113Ambul_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M113Ambul_UN_EP1/
+Updating base class ->M113_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M113_UN_EP1/
+Updating base class ->M113Ambul_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M113Ambul_TK_EP1/
+Updating base class ->M113_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M113_TK_EP1/
+Updating base class ->Helicopter, by ca\air_d_baf\config.bin/CfgVehicles/BAF_Merlin_HC3_D/
+Updating base class ReammoBox->Small_items, by corepatch\corepatch_additionalobjects\config.cpp/CfgVehicles/CardboardBox/
+Updating base class CA_Magazine->4000Rnd_762x51_M134, by corepatch\corepatch_ccp_71142_cit_13602_25047\config.cpp/CfgMagazines/2000Rnd_762x51_M134/
+18:13:57 Warning Message: No challenge value was received from the master server.
+18:13:57 GameSpy QR2 error: 5, No challenge value was received from the master server.

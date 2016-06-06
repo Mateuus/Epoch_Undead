@@ -126,7 +126,7 @@ Set 0 if its a internal command and 1 if its a external *.bat or *.cmd script.
 	
 	<!-- Mostrar Mensagem a cada 15 minutos -->
 	<job id="0">
-		<time>000060</time>
+		<time>000900</time>
 		<delay>000000</delay>
 		<day>1,2,3,4,5,6,7</day>
 		<loop>1</loop> 
@@ -134,9 +134,9 @@ Set 0 if its a internal command and 1 if its a external *.bat or *.cmd script.
 		<cmdtype>0</cmdtype>
 	</job>
 	
-	<!-- Mostrar Mensagem a cada 16 minutos -->
+	<!-- Mostrar Mensagem a cada 18 minutos -->
 	<job id="1">
-		<time>000120</time>
+		<time>001080</time>
 		<delay>000000</delay>
 		<day>1,2,3,4,5,6,7</day>
 		<loop>1</loop> 
@@ -144,9 +144,9 @@ Set 0 if its a internal command and 1 if its a external *.bat or *.cmd script.
 		<cmdtype>0</cmdtype>
 	</job>
 	
-	<!-- Mostrar Mensagem a cada 17 minutos -->
+	<!-- Mostrar Mensagem a cada 21 minutos -->
 	<job id="2">
-		<time>000180</time>
+		<time>001260</time>
 		<delay>000000</delay>
 		<day>1,2,3,4,5,6,7</day>
 		<loop>1</loop> 
@@ -154,9 +154,9 @@ Set 0 if its a internal command and 1 if its a external *.bat or *.cmd script.
 		<cmdtype>0</cmdtype>
 	</job>
 	
-	<!-- Mostrar Mensagem a cada 18 minutos -->
+	<!-- Mostrar Mensagem a cada 24 minutos -->
 	<job id="3">
-		<time>000240</time>
+		<time>001440</time>
 		<delay>000000</delay>
 		<day>1,2,3,4,5,6,7</day>
 		<loop>1</loop> 
@@ -164,9 +164,9 @@ Set 0 if its a internal command and 1 if its a external *.bat or *.cmd script.
 		<cmdtype>0</cmdtype>
 	</job>
 	
-	<!-- Mostrar Mensagem a cada 18 minutos -->
+	<!-- Mostrar Mensagem a cada 27 minutos -->
 	<job id="4">
-		<time>000300</time>
+		<time>001620</time>
 		<delay>000000</delay>
 		<day>1,2,3,4,5,6,7</day>
 		<loop>1</loop> 
@@ -174,9 +174,9 @@ Set 0 if its a internal command and 1 if its a external *.bat or *.cmd script.
 		<cmdtype>0</cmdtype>
 	</job>
 		
-	<!-- Mostrar Mensagem a cada 19 minutos -->
+	<!-- Mostrar Mensagem a cada 30 minutos -->
 	<job id="5">
-		<time>000360</time>
+		<time>001800</time>
 		<delay>000000</delay>
 		<day>1,2,3,4,5,6,7</day>
 		<loop>1</loop> 
@@ -184,9 +184,9 @@ Set 0 if its a internal command and 1 if its a external *.bat or *.cmd script.
 		<cmdtype>0</cmdtype>
 	</job>
 		
-	<!-- Mostrar Mensagem a cada 20 minutos -->
+	<!-- Mostrar Mensagem a cada 33 minutos -->
 	<job id="6">
-		<time>000420</time>
+		<time>001980</time>
 		<delay>000000</delay>
 		<day>1,2,3,4,5,6,7</day>
 		<loop>1</loop> 
@@ -194,9 +194,9 @@ Set 0 if its a internal command and 1 if its a external *.bat or *.cmd script.
 		<cmdtype>0</cmdtype>
 	</job>
 		
-	<!-- Mostrar Mensagem a cada 21 minutos -->
+	<!-- Mostrar Mensagem a cada 36 minutos -->
 	<job id="7">
-		<time>000480</time>
+		<time>002160</time>
 		<delay>000000</delay>
 		<day>1,2,3,4,5,6,7</day>
 		<loop>1</loop> 
@@ -204,9 +204,9 @@ Set 0 if its a internal command and 1 if its a external *.bat or *.cmd script.
 		<cmdtype>0</cmdtype>
 	</job>
 		
-	<!-- Mostrar Mensagem a cada 22 minutos -->
+	<!-- Mostrar Mensagem a cada 39 minutos -->
 	<job id="8">
-		<time>000520</time>
+		<time>002340</time>
 		<delay>000000</delay>
 		<day>1,2,3,4,5,6,7</day>
 		<loop>1</loop> 
@@ -214,9 +214,9 @@ Set 0 if its a internal command and 1 if its a external *.bat or *.cmd script.
 		<cmdtype>0</cmdtype>
 	</job>
 		
-	<!-- Mostrar Mensagem a cada 23 minutos -->
+	<!-- Mostrar Mensagem a cada 42 minutos -->
 	<job id="9">
-		<time>000580</time>
+		<time>002520</time>
 		<delay>000000</delay>
 		<day>1,2,3,4,5,6,7</day>
 		<loop>1</loop> 

@@ -35,7 +35,7 @@ fnc_debug = {
 			_pic, // %2 vehicle/weapon pic
 			(count playableUnits), // %3Players Online
 			round(diag_fps), // %4 FPS
-			(round(240-(serverTime)/60)), // %5 restart time
+			(round(180-(serverTime)/60)), // %5 restart time
 			(player getVariable["humanity",0]), // %6 Humanity
 			(player getVariable["zombieKills",0]), //  %7 Zombie Kills
 			(player getVariable["humanKills",0]), // %8 Murders

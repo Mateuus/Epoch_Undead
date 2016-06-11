@@ -132,6 +132,7 @@ class CCD_ForceSave: CCD_RscButton
 	colorBackground[] = {0.176,0.329,0.564,0.8};
 	onButtonClick = "((ctrlParent (_this select 0)) closeDisplay 845167); ExecVM 'scripts\Menu\scripts\SavePlayer.sqf';";
 };
+ /*
 class CCD_Gramaon: CCD_RscButton
 {
 	idc = 1664;
@@ -154,6 +155,7 @@ class CCD_Gramaoff: CCD_RscButton
 	colorBackground[] = {0.015,0.705,0.015,0.8};
 	onButtonClick = "((ctrlParent (_this select 0)) closeDisplay 845167); setTerrainGrid 50; systemChat('Grama Desligada');";
 };
+*/
 class CCD_Motorbike: CCD_RscButton
 {
 	idc = 1604;

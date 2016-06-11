@@ -1431,6 +1431,16 @@ class DayZ_loadingScreen
 };
 class CfgSounds
 {	
+		sounds[] =
+	    {
+	        Radio_Message_Sound
+	    };
+	    class Radio_Message_Sound
+	    {
+	        name = "Radio_Message_Sound";
+	        sound[] = {custom\remote\radio.ogg,0.4,1};
+	        titles[] = {};
+	    };
 
 	class dieScream {
 		name="dieScream";
@@ -1574,7 +1584,16 @@ class CfgSounds
     };
 	
 };
+class ExtraRc {
 
+ class ItemRadio {
+	        class switchOnOff {
+	            text = "Switch ON/OFF";
+	            script = "execVM 'scripts\remote\switch_on_off.sqf'";
+	        };
+	    };
+		
+};
 //Snap Pro
 #include "scripts\snap_pro\snappoints.hpp"
 

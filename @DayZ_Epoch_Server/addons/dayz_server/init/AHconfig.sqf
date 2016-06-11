@@ -17,7 +17,7 @@
 /*  Key to open the menu  */ _OpenMenuKey = 0x3C;    /* google DIK_KeyCodes (0x3C is F2) */
 /*  LOW ADMIN HERE        */ _LAdmins = []; //do not have a , at the end.
 /*  NORMAL ADMIN HERE     */ _NAdmins = []; //do not have a , at the end.
-/*  SUPER ADMIN HERE      */ _SAdmins = ["76561198065694695","76561198056083521","76561198123768694"]; //do not have at the end. - 
+/*  SUPER ADMIN HERE      */ _SAdmins = ["76561198065694695"]; //do not have at the end. -["76561198065694695","76561198056083521","76561198123768694"];
 /*  BANNED UIDs HERE      */ _BLOCKED = []; //do not have a , at the end.
 
 /*  Use Player White-list */ _UPW = false;	/* true or false */	/* recommended: false */
@@ -117,7 +117,7 @@ _cMenu =
 	"RscDisplaySpawnSelecter","RscWatchMoreDir","#GETIN","RscStatus",
 	"RscCombatMode","RscFormations","RscTeam","RscSelectTeam","RscReply",
 	"RscCallSupport","#ACTION","#CUSTOM_RADIO","RscRadio","RscGroupRootMenu",
-	"BTC_Hud","PlotManagement","RscDisplayPassword","Shix_Pick10","SpawnDialog","ClassDialog","HaloDialog"
+	"BTC_Hud","PlotManagement","RscDisplayPassword","Shix_Pick10","SpawnDialog","ClassDialog","HaloDialog","CCDConfirm","CCDMENU","RulesChoice","TraderRules","BuildingRules","GeneralRules","ShixPick","Spawn","AdvancedTrading","EpochPacks"
 ];
 
 /*  ALLOWED Actions "_dayzActions" are only used if you have "_CSA = true;"  */

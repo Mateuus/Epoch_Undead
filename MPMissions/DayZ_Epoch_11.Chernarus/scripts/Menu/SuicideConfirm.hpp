@@ -35,7 +35,7 @@ class RscFrame_1801: Box
 class RscText_1000: CCD_RscText
 {
 	idc = 1000;
-	text = "Chernobyl";
+	text = "Undead Brasil";
 	x = 0.465023 * safezoneW + safezoneX;
 	y = 0.241462 * safezoneH + safezoneY;
 	w = 0.0543808 * safezoneW;

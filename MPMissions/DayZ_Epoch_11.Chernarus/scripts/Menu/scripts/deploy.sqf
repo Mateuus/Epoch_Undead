@@ -29,7 +29,7 @@ if ("ItemToolbox" in weapons Player) then {
 	if (_finished) then {
 		_posplr = [((getPos player) select 0) + 2, ((getPos player) select 1) + 2, 0];
 
-		_object = "MMT_Civ" createVehicle (_posplr);
+		_object = "Old_bike_TK_INS_EP1" createVehicle (_posplr);
 		_object setVariable ["ObjectID", "1", true];
 		_object setVariable ["ObjectUID", "1", true];
 

@@ -91,7 +91,7 @@ if(DeployBikeScript)then{
 		player removeAction s_player_deploybike4;
 		s_player_deploybike4 = -1;
 	};
-	if((speed player <= 1) && cursorTarget isKindOf "Old_bike_TK_CIV_EP1" && _canDo) then {
+	if((speed player <= 1) && cursorTarget isKindOf "Old_bike_TK_INS_EP1" && _canDo) then {
 	if (s_player_deploybike3 < 0) then {
 			s_player_deploybike3 = player addaction[("<t color=""#007ab7"">" + ("Upgrade to Motorcycle") +"</t>"),"scripts\spawnbike\bike3.sqf","",5,false,true,"", ""];
 		};
@@ -99,7 +99,7 @@ if(DeployBikeScript)then{
 		player removeAction s_player_deploybike3;
 		s_player_deploybike3 = -1;
 	};
-	if((speed player <= 1) && cursorTarget isKindOf "Old_bike_TK_CIV_EP1" && _canDo) then {
+	if((speed player <= 1) && cursorTarget isKindOf "Old_bike_TK_INS_EP1" && _canDo) then {
 	if (s_player_deploybike2 < 0) then {
 			s_player_deploybike2 = player addaction[("<t color=""#007ab7"">" + ("Re-Pack Bike") +"</t>"),"scripts\spawnbike\bike2.sqf","",5,false,true,"", ""];
 		};

@@ -185,6 +185,8 @@ if (!isDedicated) then {
 		[false,12] execVM "\z\addons\dayz_code\compile\local_lights_init.sqf";
 	};
 	
+	
+	_nil = [] execVM "scripts\remote\remote.sqf";
 	_nil =  execVM "scripts\VASP\VASP_init.sqf";
 	
 	//Right Click Actions
@@ -192,7 +194,8 @@ if (!isDedicated) then {
 	//Safezone
 	if (SafezoneScripts) then {
 		//Community Safezones
-		execVM "scripts\CAGN\initiate.sqf";	
+		//execVM "scripts\CAGN\initiate.sqf";	
+		  execVM "scripts\safezone\safezone.sqf";
 	};
 		//DZGM
 	if (DZGMScript) then {
